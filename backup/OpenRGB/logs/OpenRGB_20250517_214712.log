@@ -1,0 +1,42 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20250517_214712
+====================================================================================================
+
+1001  |Info:    Saving detector settings
+1002  |Info:    ------------------------------------------------------
+1002  |Info:    |               Start device detection               |
+1002  |Info:    ------------------------------------------------------
+1002  |Info:    Initializing HID interfaces: Success
+1009  |Info:    ------------------------------------------------------
+1009  |Info:    |             Detecting I2C interfaces               |
+1009  |Info:    ------------------------------------------------------
+1009  |Info:    Registering I2C interface: /dev/i2c-1 Device 0000:0000 Subsystem: 0000:0000
+1009  |Info:    Registering I2C interface: /dev/i2c-2 Device 0000:0000 Subsystem: 0000:0000
+1009  |Info:    Registering I2C interface: /dev/i2c-0 Device 0000:0000 Subsystem: 0000:0000
+1009  |Info:    ------------------------------------------------------
+1009  |Info:    |               Detecting I2C devices                |
+1009  |Info:    ------------------------------------------------------
+1031  |Info:    ------------------------------------------------------
+1031  |Info:    |               Detecting I2C PCI devices            |
+1031  |Info:    ------------------------------------------------------
+1031  |Info:    ------------------------------------------------------
+1031  |Info:    |               Detecting HID devices                |
+1031  |Info:    ------------------------------------------------------
+1209  |Info:    [B550 GAMING X V2] Registering RGB controller
+1263  |Info:    [ASUS ROG Strix Scope RX] Registering RGB controller
+1263  |Info:    ------------------------------------------------------
+1263  |Info:    |            Detecting libusb HID devices            |
+1263  |Info:    ------------------------------------------------------
+1330  |Info:    ------------------------------------------------------
+1330  |Info:    |              Detecting other devices               |
+1330  |Info:    ------------------------------------------------------
+1335  |Info:    ------------------------------------------------------
+1335  |Info:    |                Detection completed                 |
+1335  |Info:    ------------------------------------------------------
+3963  |Info:    Profile loading: FAILED! for B550 GAMING X V2 @ HID: /dev/hidraw0
+3963  |Info:    Profile loading: FAILED! for ASUS ROG Strix Scope RX @ HID: /dev/hidraw6
+35990 |Info:    Found file: aqua.orp attempting to validate header
+35990 |Info:    Valid v4 profile found for aqua
+37756 |Info:    Profile loading: Succeeded for B550 GAMING X V2 @ HID: /dev/hidraw0
+37756 |Info:    Profile loading: Succeeded for ASUS ROG Strix Scope RX @ HID: /dev/hidraw6

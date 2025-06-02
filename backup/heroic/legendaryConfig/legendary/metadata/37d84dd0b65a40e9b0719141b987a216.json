@@ -1,0 +1,91 @@
+{
+  "app_name": "37d84dd0b65a40e9b0719141b987a216",
+  "app_title": "ToeJam & Earl: Back in the Groove!",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "37d84dd0b65a40e9b0719141b987a216",
+      "asset_id": "37d84dd0b65a40e9b0719141b987a216",
+      "build_version": "1.7.3-e",
+      "catalog_item_id": "1989174914bf482ebfd1356e2556725e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "be5138b61f69490da7769fe7c5b21c7e"
+      },
+      "namespace": "bd1047eb76fd4fd490fcb8f668e5deda",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567Fl48TofqlmlHduBdIwTklV4r",
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-06-04T13:04:04.143Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "ToeJamandEarlBitG"
+      }
+    },
+    "description": "ToeJam & Earl: Back in the Groove!",
+    "developer": "Humanature Studios",
+    "developerId": "o-27ye8qleef5z4fh6t4ltf6x7kuwpyl",
+    "endOfSupport": false,
+    "entitlementName": "1989174914bf482ebfd1356e2556725e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "1989174914bf482ebfd1356e2556725e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "ToeJam and Earl Back in the Groove Offer",
+        "height": 1440,
+        "md5": "a46aa27008c5407ecde929c57c4474bc",
+        "size": 3929450,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-06-07T08:20:58.898Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/428b51d4cd29482889841fa188b362b4/toejam-and-earl-back-in-the-groove-offer-kdma7.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download ToeJam and Earl Back in the Groove Offer",
+        "height": 1600,
+        "md5": "6e27b12ff4d62910bdae003f350b471d",
+        "size": 1317580,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-06-07T08:21:00.032Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/428b51d4cd29482889841fa188b362b4/download-toejam-and-earl-back-in-the-groove-offer-a6vua.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-10-24T19:51:54.354Z",
+    "mainGameItemList": [],
+    "namespace": "bd1047eb76fd4fd490fcb8f668e5deda",
+    "releaseInfo": [
+      {
+        "appId": "37d84dd0b65a40e9b0719141b987a216",
+        "id": "12eb5ce629f044139725b63ab7ca8d89",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "ToeJam & Earl: Back in the Groove!",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,4 @@
+[5/24/2025, 10:10:36 PM] GOGDL_CONFIG_PATH=/home/lennilid/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/lennilid/.config/heroic/gog_store/auth.json --version
+[5/24/2025, 10:10:36 PM] GOGDL_CONFIG_PATH=/home/lennilid/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/lennilid/.config/heroic/gog_store/auth.json auth
+1.1.2
+null

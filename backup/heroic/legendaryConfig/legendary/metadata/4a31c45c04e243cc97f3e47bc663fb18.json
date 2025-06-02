@@ -1,0 +1,767 @@
+{
+  "app_name": "4a31c45c04e243cc97f3e47bc663fb18",
+  "app_title": "Model Builder: Complete Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "4a31c45c04e243cc97f3e47bc663fb18",
+      "asset_id": "4a31c45c04e243cc97f3e47bc663fb18",
+      "build_version": "1.1.8i",
+      "catalog_item_id": "b3dde22db4e14b4cb644271f02038e25",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2ac6bcd5910d4435a1fced61f997df8a"
+      },
+      "namespace": "23499f64e5304139b514c3e674c5c0d6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567MrJn7DOaf82JWMBFrxPTtI8G",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-09-29T13:38:13.418Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "ModelBuilder"
+      }
+    },
+    "description": "Model Builder: Complete Edition",
+    "developer": "Green Man Gaming Publishing",
+    "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-27T21:57:30.154Z",
+        "customAttributes": {},
+        "description": "Model Builder: Frostpunk DLC",
+        "developer": "Green Man Gaming Publishing",
+        "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+        "endOfSupport": false,
+        "entitlementName": "aeffbc8710e4472a867a6bba6ad5b687",
+        "entitlementType": "EXECUTABLE",
+        "id": "aeffbc8710e4472a867a6bba6ad5b687",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Model Builder Model Builder: Frostpunk DLC Offer",
+            "height": 1440,
+            "md5": "faf8838529ec7ad07cecbea181c424ac",
+            "size": 2510815,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-20T11:04:07.261Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-9u7e8.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Model Builder Model Builder: Frostpunk DLC Offer",
+            "height": 1600,
+            "md5": "2dd327a314d25a11783f40b59da030e9",
+            "size": 1633985,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-20T11:04:12.109Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1s8w7.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-27T21:57:30.154Z",
+        "mainGameItem": {
+          "id": "b3dde22db4e14b4cb644271f02038e25",
+          "namespace": "23499f64e5304139b514c3e674c5c0d6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b3dde22db4e14b4cb644271f02038e25",
+            "namespace": "23499f64e5304139b514c3e674c5c0d6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "23499f64e5304139b514c3e674c5c0d6",
+        "releaseInfo": [
+          {
+            "appId": "1360dbfe60a04beaab046f50c42f51f0",
+            "id": "c043999516dc422d961a5b698e3c3359",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Model Builder: Frostpunk DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-27T21:57:30.152Z",
+        "customAttributes": {},
+        "description": "Model Builder: Titan-Forge DLC no.2",
+        "developer": "Green Man Gaming Publishing",
+        "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+        "endOfSupport": false,
+        "entitlementName": "91cdc33a1d944e3983693e6d3af16d96",
+        "entitlementType": "EXECUTABLE",
+        "id": "91cdc33a1d944e3983693e6d3af16d96",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Model Builder Model Builder: Titan-Forge DLC no.2 Offer",
+            "height": 1440,
+            "md5": "85d2791ba2e3544ba7b7c41d156a8ddb",
+            "size": 1862309,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-20T10:46:16.502Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1423k.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Model Builder Model Builder: Titan-Forge DLC no.2 Offer",
+            "height": 1600,
+            "md5": "6aa1f711d7cd7971b55edacaf606d690",
+            "size": 1127091,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-20T10:46:10.482Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-cjc4s.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-27T21:57:30.152Z",
+        "mainGameItem": {
+          "id": "b3dde22db4e14b4cb644271f02038e25",
+          "namespace": "23499f64e5304139b514c3e674c5c0d6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b3dde22db4e14b4cb644271f02038e25",
+            "namespace": "23499f64e5304139b514c3e674c5c0d6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "23499f64e5304139b514c3e674c5c0d6",
+        "releaseInfo": [
+          {
+            "appId": "9c162cd16b7c44b9abfa21296343dfea",
+            "id": "9b5db1224c604287a9ec91965a5df231",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Model Builder: Titan-Forge DLC no.2",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-27T21:57:30.149Z",
+        "customAttributes": {},
+        "description": "Model Builder: Titan-Forge DLC no.1",
+        "developer": "Green Man Gaming Publishing",
+        "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+        "endOfSupport": false,
+        "entitlementName": "1505d7fab80143bfb3458228e9a8d17e",
+        "entitlementType": "EXECUTABLE",
+        "id": "1505d7fab80143bfb3458228e9a8d17e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Model Builder Model Builder: Titan-Forge DLC no.1 Offer",
+            "height": 1440,
+            "md5": "8f1d74f358356317ca58c731f28141ce",
+            "size": 1331383,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-20T10:43:16.994Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1kk1a.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Model Builder Model Builder: Titan-Forge DLC no.1 Offer",
+            "height": 1600,
+            "md5": "faae921aff6c5ff60eff4e4ceebe49f3",
+            "size": 942066,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-20T10:43:19.683Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-g1rhw.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-27T21:57:30.149Z",
+        "mainGameItem": {
+          "id": "b3dde22db4e14b4cb644271f02038e25",
+          "namespace": "23499f64e5304139b514c3e674c5c0d6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b3dde22db4e14b4cb644271f02038e25",
+            "namespace": "23499f64e5304139b514c3e674c5c0d6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "23499f64e5304139b514c3e674c5c0d6",
+        "releaseInfo": [
+          {
+            "appId": "987f387bd9324f1391cc87cd07348bf7",
+            "id": "415f2b084dae45c4894814414fd4dd2b",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Model Builder: Titan-Forge DLC no.1",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-27T21:57:30.153Z",
+        "customAttributes": {},
+        "description": "Model Builder: Alaskan Road Truckers DLC",
+        "developer": "Green Man Gaming Publishing",
+        "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+        "endOfSupport": false,
+        "entitlementName": "a004546d145b4173b9da5ce8594eef05",
+        "entitlementType": "EXECUTABLE",
+        "id": "a004546d145b4173b9da5ce8594eef05",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Model Builder Model Builder: Alaskan Road Truckers DLC Offer",
+            "height": 1440,
+            "md5": "b447e16afad2be9aece63ea1f64f7ff2",
+            "size": 1642335,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-20T11:51:55.257Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-3hp1n.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Model Builder Model Builder: Alaskan Road Truckers DLC Offer",
+            "height": 1600,
+            "md5": "41a4c4cb56a1a1d78f0cbd822f29df81",
+            "size": 957315,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-20T11:51:55.418Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-kuc9p.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-27T21:57:30.153Z",
+        "mainGameItem": {
+          "id": "b3dde22db4e14b4cb644271f02038e25",
+          "namespace": "23499f64e5304139b514c3e674c5c0d6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b3dde22db4e14b4cb644271f02038e25",
+            "namespace": "23499f64e5304139b514c3e674c5c0d6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "23499f64e5304139b514c3e674c5c0d6",
+        "releaseInfo": [
+          {
+            "appId": "d94a06ef698942669bd001b2dd0fb3ee",
+            "id": "90823907ad9c4a1287181b5300a3a813",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Model Builder: Alaskan Road Truckers DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-27T21:57:30.151Z",
+        "customAttributes": {},
+        "description": "Model Builder: Cars Pack DLC",
+        "developer": "Green Man Gaming Publishing",
+        "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+        "endOfSupport": false,
+        "entitlementName": "5e51bb450ffa442483a686f4a9b3a8f4",
+        "entitlementType": "EXECUTABLE",
+        "id": "5e51bb450ffa442483a686f4a9b3a8f4",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Model Builder Model Builder: Cars Pack DLC Offer",
+            "height": 1440,
+            "md5": "f06ee0d610129ac1a2b4c8396fc3f839",
+            "size": 2441849,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-27T09:15:32.132Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1qotp.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Model Builder Model Builder: Cars Pack DLC Offer",
+            "height": 1600,
+            "md5": "ecf7897d6006751277cb7b02b2c5ce26",
+            "size": 1354123,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-27T09:15:31.042Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-18v23.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-27T21:57:30.151Z",
+        "mainGameItem": {
+          "id": "b3dde22db4e14b4cb644271f02038e25",
+          "namespace": "23499f64e5304139b514c3e674c5c0d6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b3dde22db4e14b4cb644271f02038e25",
+            "namespace": "23499f64e5304139b514c3e674c5c0d6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "23499f64e5304139b514c3e674c5c0d6",
+        "releaseInfo": [
+          {
+            "appId": "b681fecb34194e8a97ef6d69cbf71ca6",
+            "id": "6248e19829654663a4b7ae0ffdaa3fb7",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Model Builder: Cars Pack DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-27T21:57:30.155Z",
+        "customAttributes": {},
+        "description": "Model Builder: Into The Stars DLC",
+        "developer": "Green Man Gaming Publishing",
+        "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+        "endOfSupport": false,
+        "entitlementName": "b317c844b85b4ef087f4f7b92cdcaad5",
+        "entitlementType": "EXECUTABLE",
+        "id": "b317c844b85b4ef087f4f7b92cdcaad5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Model Builder Model Builder: Into The Stars DLC Offer",
+            "height": 1440,
+            "md5": "b19ab6a04b2525daa18fd74afaa3cdb6",
+            "size": 2391172,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-20T11:39:48.426Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1fzsc.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Model Builder Model Builder: Into The Stars DLC Offer",
+            "height": 1600,
+            "md5": "63c0feebfb136b57a74731b63fc700a8",
+            "size": 2241720,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-20T11:39:47.039Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-rampn.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-27T21:57:30.155Z",
+        "mainGameItem": {
+          "id": "b3dde22db4e14b4cb644271f02038e25",
+          "namespace": "23499f64e5304139b514c3e674c5c0d6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b3dde22db4e14b4cb644271f02038e25",
+            "namespace": "23499f64e5304139b514c3e674c5c0d6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "23499f64e5304139b514c3e674c5c0d6",
+        "releaseInfo": [
+          {
+            "appId": "b65e183e8f204281b8eb1bbbb6f7a98a",
+            "id": "d939a06825964d219bb86fe2833f0895",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Model Builder: Into The Stars DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-27T21:57:30.158Z",
+        "customAttributes": {},
+        "description": "Model Builder: Expansion Pack no.1",
+        "developer": "Green Man Gaming Publishing",
+        "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+        "endOfSupport": false,
+        "entitlementName": "fe35d875265c4698ad5ef1efd66183d1",
+        "entitlementType": "EXECUTABLE",
+        "id": "fe35d875265c4698ad5ef1efd66183d1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Model Builder Model Builder: Expansion Pack no.1 Offer",
+            "height": 1440,
+            "md5": "d67262c17446116551064194fa585668",
+            "size": 2749659,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-20T10:57:13.552Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-11qhf.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Model Builder Model Builder: Expansion Pack no.1 Offer",
+            "height": 1600,
+            "md5": "0ab58ca3cb80885a578703de9eda174e",
+            "size": 842237,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-20T10:57:14.658Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-h944v.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-27T21:57:30.158Z",
+        "mainGameItem": {
+          "id": "b3dde22db4e14b4cb644271f02038e25",
+          "namespace": "23499f64e5304139b514c3e674c5c0d6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b3dde22db4e14b4cb644271f02038e25",
+            "namespace": "23499f64e5304139b514c3e674c5c0d6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "23499f64e5304139b514c3e674c5c0d6",
+        "releaseInfo": [
+          {
+            "appId": "c4e284ae71ed49a285cc00dfce564e03",
+            "id": "2ba8f307f1614a2d9e6740d867c0c2e8",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Model Builder: Expansion Pack no.1",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-27T21:57:30.157Z",
+        "customAttributes": {},
+        "description": "Model Builder: Military Pack DLC",
+        "developer": "Green Man Gaming Publishing",
+        "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+        "endOfSupport": false,
+        "entitlementName": "baa5252ae48e48aea6a649cfc5253012",
+        "entitlementType": "EXECUTABLE",
+        "id": "baa5252ae48e48aea6a649cfc5253012",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Model Builder Model Builder: Military Pack DLC Offer",
+            "height": 1440,
+            "md5": "c779038dc7d14123d5d2e53550c2b582",
+            "size": 1189773,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-02-12T16:56:53.663Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-11i6n.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Model Builder Model Builder: Military Pack DLC Offer",
+            "height": 1600,
+            "md5": "f25372d4dc57e591e977ef34f0fd49f0",
+            "size": 703752,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-02-12T16:56:53.112Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-9y6ax.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-27T21:57:30.157Z",
+        "mainGameItem": {
+          "id": "b3dde22db4e14b4cb644271f02038e25",
+          "namespace": "23499f64e5304139b514c3e674c5c0d6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b3dde22db4e14b4cb644271f02038e25",
+            "namespace": "23499f64e5304139b514c3e674c5c0d6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "23499f64e5304139b514c3e674c5c0d6",
+        "releaseInfo": [
+          {
+            "appId": "25a83a57cf5f487d98e073b8a92e1f8d",
+            "id": "7a90d43731ce4585b317535c998a91bb",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Model Builder: Military Pack DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-27T21:57:30.157Z",
+        "customAttributes": {},
+        "description": "Model Builder: Aether DLC",
+        "developer": "Green Man Gaming Publishing",
+        "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+        "endOfSupport": false,
+        "entitlementName": "c5d553e831a548ccacd7334998cd2e17",
+        "entitlementType": "EXECUTABLE",
+        "id": "c5d553e831a548ccacd7334998cd2e17",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Model Builder Model Builder: Aether DLC Offer",
+            "height": 1440,
+            "md5": "58dd499c87b9f826329eb8c4a465a1c5",
+            "size": 1460693,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-20T11:12:46.419Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-14ih8.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Model Builder Model Builder: Aether DLC Offer",
+            "height": 1600,
+            "md5": "3eb42d7028b152eb19065008d0888a01",
+            "size": 927264,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-20T11:12:40.971Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1f31a.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-27T21:57:30.157Z",
+        "mainGameItem": {
+          "id": "b3dde22db4e14b4cb644271f02038e25",
+          "namespace": "23499f64e5304139b514c3e674c5c0d6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b3dde22db4e14b4cb644271f02038e25",
+            "namespace": "23499f64e5304139b514c3e674c5c0d6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "23499f64e5304139b514c3e674c5c0d6",
+        "releaseInfo": [
+          {
+            "appId": "574977bf807c4c3cabfe8ab19708205c",
+            "id": "9985282cf63048488e24a3c2805daf87",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Model Builder: Aether DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-27T21:57:30.150Z",
+        "customAttributes": {},
+        "description": "Model Builder: The Invincible Helmet",
+        "developer": "Green Man Gaming Publishing",
+        "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+        "endOfSupport": false,
+        "entitlementName": "1f3ac7f08a3845c18ffd16bc20f5649f",
+        "entitlementType": "EXECUTABLE",
+        "id": "1f3ac7f08a3845c18ffd16bc20f5649f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Model Builder Model Builder: The Invincible Helmet Offer",
+            "height": 1440,
+            "md5": "79dfcb0ddce6a3702e3151cb147fae13",
+            "size": 1449900,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-20T11:31:15.952Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1rd6v.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Model Builder Model Builder: The Invincible Helmet Offer",
+            "height": 1600,
+            "md5": "0cfaab93b5691f9212e9f5445e9663a1",
+            "size": 547047,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-20T11:31:15.129Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-sizy4.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-27T21:57:30.150Z",
+        "mainGameItem": {
+          "id": "b3dde22db4e14b4cb644271f02038e25",
+          "namespace": "23499f64e5304139b514c3e674c5c0d6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b3dde22db4e14b4cb644271f02038e25",
+            "namespace": "23499f64e5304139b514c3e674c5c0d6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "23499f64e5304139b514c3e674c5c0d6",
+        "releaseInfo": [
+          {
+            "appId": "370325fee5104176a6e5329936656965",
+            "id": "52415e522aa5494ca813168635df2df2",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Model Builder: The Invincible Helmet",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "b3dde22db4e14b4cb644271f02038e25",
+    "entitlementType": "EXECUTABLE",
+    "id": "b3dde22db4e14b4cb644271f02038e25",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Model Builder Offer",
+        "height": 1440,
+        "md5": "00074d151af07093febfe9814c2e8e64",
+        "size": 3961208,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-06-26T09:57:54.765Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-9z2bz.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Model Builder Offer",
+        "height": 1600,
+        "md5": "561c43c9b7c64410b24261b3a57954a7",
+        "size": 1976835,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-06-26T09:57:54.138Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-19dtm.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-06-27T21:57:30.399Z",
+    "mainGameItemList": [],
+    "namespace": "23499f64e5304139b514c3e674c5c0d6",
+    "releaseInfo": [
+      {
+        "appId": "4a31c45c04e243cc97f3e47bc663fb18",
+        "id": "c99baf23387e4de4b3668cd3ea664007",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Model Builder: Complete Edition",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

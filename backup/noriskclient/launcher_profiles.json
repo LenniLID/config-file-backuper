@@ -1,0 +1,235 @@
+{
+  "mainProfiles": [
+    {
+      "id": "15c3c4fc-263f-41eb-8473-53491a6d704a",
+      "branch": "1.21",
+      "name": "1.21 - Default",
+      "mods": [
+        {
+          "title": "Wurst-Client-v7.46.6-MC1.21.jar",
+          "image_url": "",
+          "value": {
+            "required": false,
+            "enabled": true,
+            "name": "Wurst-Client-v7.46.6-MC1.21.jar",
+            "source": {
+              "type": "repository",
+              "repository": "CUSTOM",
+              "artifact": "CUSTOM:15c3c4fc-263f-41eb-8473-53491a6d704a:Wurst-Client-v7.46.6-MC1.21.jar",
+              "url": ""
+            }
+          },
+          "dependencies": []
+        }
+      ]
+    },
+    {
+      "id": "184c2196-d242-46ba-a479-cac903fc1e4c",
+      "branch": "1.21.4",
+      "name": "1.21.4 - Default",
+      "mods": []
+    },
+    {
+      "id": "36932847-7051-4f50-8a37-adb092805e2f",
+      "branch": "cobblemon",
+      "name": "cobblemon - Default",
+      "mods": []
+    },
+    {
+      "id": "3bc9bc58-9b9e-4fec-851e-ed94283a3034",
+      "branch": "norisk-dev",
+      "name": "norisk-dev - Default",
+      "mods": []
+    },
+    {
+      "id": "13b3150a-d7f9-438f-8330-6f370e33cedd",
+      "branch": "norisk-dev-2",
+      "name": "norisk-dev-2 - Default",
+      "mods": [
+        {
+          "title": "Xaero's Minimap",
+          "image_url": "https://cdn.modrinth.com/data/1bokaNcj/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
+          "value": {
+            "required": false,
+            "enabled": true,
+            "name": "Xaeros_Minimap_25.1.0_Fabric_1.21.4.jar",
+            "source": {
+              "type": "repository",
+              "repository": "modrinth",
+              "artifact": "maven.modrinth:xaeros-minimap:25.1.0_Fabric_1.21.4",
+              "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/8JzrUlHh/Xaeros_Minimap_25.1.0_Fabric_1.21.4.jar"
+            }
+          },
+          "dependencies": [
+            {
+              "title": "Fabric API",
+              "image_url": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+              "value": {
+                "required": false,
+                "enabled": false,
+                "name": "fabric-api-0.118.5+1.21.4.jar",
+                "source": {
+                  "type": "repository",
+                  "repository": "modrinth",
+                  "artifact": "maven.modrinth:fabric-api:0.118.5+1.21.4",
+                  "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/IXeiAH6H/fabric-api-0.118.5%2B1.21.4.jar"
+                }
+              },
+              "dependencies": []
+            }
+          ]
+        },
+        {
+          "title": "Litematica",
+          "image_url": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
+          "value": {
+            "required": false,
+            "enabled": true,
+            "name": "litematica-fabric-1.21.4-0.21.2.jar",
+            "source": {
+              "type": "repository",
+              "repository": "modrinth",
+              "artifact": "maven.modrinth:litematica:0.21.2",
+              "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/FISMnZG8/litematica-fabric-1.21.4-0.21.2.jar"
+            }
+          },
+          "dependencies": [
+            {
+              "title": "MaLiLib",
+              "image_url": "https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png",
+              "value": {
+                "required": false,
+                "enabled": true,
+                "name": "malilib-fabric-1.21.4-0.23.2.jar",
+                "source": {
+                  "type": "repository",
+                  "repository": "modrinth",
+                  "artifact": "maven.modrinth:malilib:0.23.2",
+                  "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/QPyPfEg3/malilib-fabric-1.21.4-0.23.2.jar"
+                }
+              },
+              "dependencies": []
+            }
+          ]
+        },
+        {
+          "title": "baritone-meteor-1.21.4 (1).jar",
+          "image_url": "",
+          "value": {
+            "required": false,
+            "enabled": true,
+            "name": "baritone-meteor-1.21.4 (1).jar",
+            "source": {
+              "type": "repository",
+              "repository": "CUSTOM",
+              "artifact": "CUSTOM:13b3150a-d7f9-438f-8330-6f370e33cedd:baritone-meteor-1.21.4 (1).jar",
+              "url": ""
+            }
+          },
+          "dependencies": []
+        },
+        {
+          "title": "Bobby",
+          "image_url": "https://cdn.modrinth.com/data/M08ruV16/icon.png",
+          "value": {
+            "required": false,
+            "enabled": true,
+            "name": "bobby-5.2.6+mc1.21.4.jar",
+            "source": {
+              "type": "repository",
+              "repository": "modrinth",
+              "artifact": "maven.modrinth:bobby:5.2.6+mc1.21.4",
+              "url": "https://cdn.modrinth.com/data/M08ruV16/versions/9cevkjj6/bobby-5.2.6%2Bmc1.21.4.jar"
+            }
+          },
+          "dependencies": []
+        }
+      ]
+    },
+    {
+      "id": "8e7983d8-f284-4264-be00-417d3fdc7fdf",
+      "branch": "1.21.5",
+      "name": "1.21.5 - Default",
+      "mods": []
+    }
+  ],
+  "selectedMainProfiles": {
+    "1.21": "15c3c4fc-263f-41eb-8473-53491a6d704a",
+    "norisk-dev-2": "13b3150a-d7f9-438f-8330-6f370e33cedd",
+    "cobblemon": "36932847-7051-4f50-8a37-adb092805e2f",
+    "norisk-dev": "3bc9bc58-9b9e-4fec-851e-ed94283a3034",
+    "1.21.5": "8e7983d8-f284-4264-be00-417d3fdc7fdf",
+    "1.21.4": "184c2196-d242-46ba-a479-cac903fc1e4c"
+  },
+  "experimentalProfiles": [
+    {
+      "id": "e0047baf-993d-447c-b1b2-200ce1d9667d",
+      "branch": "1.21",
+      "name": "1.21 - Default",
+      "mods": []
+    },
+    {
+      "id": "106c3b0a-4b3d-4dc1-ab90-afb8e8f6d3f5",
+      "branch": "1.21.4",
+      "name": "1.21.4 - Default",
+      "mods": []
+    },
+    {
+      "id": "d3d28ac6-656e-4036-852a-17ecba66b91d",
+      "branch": "cobblemon",
+      "name": "cobblemon - Default",
+      "mods": []
+    },
+    {
+      "id": "5a8665f2-5583-465c-80d6-e45e03568261",
+      "branch": "norisk-dev",
+      "name": "norisk-dev - Default",
+      "mods": []
+    },
+    {
+      "id": "b7e24683-0e6c-45a8-a262-a8fb30172a62",
+      "branch": "norisk-dev-2",
+      "name": "norisk-dev-2 - Default",
+      "mods": []
+    }
+  ],
+  "selectedExperimentalProfiles": {
+    "1.21": "e0047baf-993d-447c-b1b2-200ce1d9667d",
+    "cobblemon": "d3d28ac6-656e-4036-852a-17ecba66b91d",
+    "norisk-dev-2": "b7e24683-0e6c-45a8-a262-a8fb30172a62",
+    "1.21.4": "106c3b0a-4b3d-4dc1-ab90-afb8e8f6d3f5",
+    "norisk-dev": "5a8665f2-5583-465c-80d6-e45e03568261"
+  },
+  "addons": {
+    "1.21.5": {
+      "shaders": [],
+      "resourcePacks": [],
+      "datapacks": []
+    },
+    "norisk-dev": {
+      "shaders": [],
+      "resourcePacks": [],
+      "datapacks": []
+    },
+    "1.21.4": {
+      "shaders": [],
+      "resourcePacks": [],
+      "datapacks": []
+    },
+    "cobblemon": {
+      "shaders": [],
+      "resourcePacks": [],
+      "datapacks": []
+    },
+    "norisk-dev-2": {
+      "shaders": [],
+      "resourcePacks": [],
+      "datapacks": []
+    },
+    "1.21": {
+      "shaders": [],
+      "resourcePacks": [],
+      "datapacks": []
+    }
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "app_name": "LineOfSi1543722f05d1V10",
+  "app_title": "Line Of Sight. Dynamic mesh.",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "LineOfSi1543722f05d1V10",
+      "asset_id": "LineOfSi1543722f05d1V10",
+      "build_version": "5.5.0-38382663+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "3a52d0ba96d8469496d294e884dea969",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-14T19:51:25.283Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "1111ac95-0e43-4b97-af03-2193e206d1be"
+      }
+    },
+    "description": "Line Of Sight. Dynamic mesh.",
+    "developer": "BarushColi",
+    "developerId": "o-b7fd048491491cbdb6189950b6af1b",
+    "endOfSupport": false,
+    "entitlementName": "3a52d0ba96d8469496d294e884dea969",
+    "entitlementType": "AUDIENCE",
+    "id": "3a52d0ba96d8469496d294e884dea969",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2024-11-30T23:50:24.190Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "LineOfSight_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2024-11-30T20:44:42.514Z",
+        "id": "c64b8d0d466a474f960b62f3a08f71a4",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "4.25"
+      },
+      {
+        "appId": "LineOfSight_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2024-11-30T20:44:42.514Z",
+        "id": "017245d7eee640ff8c5e5ea1bdc385f1",
+        "platform": [
+          "Android",
+          "Mac",
+          "Windows",
+          "Oculus",
+          "Nintendo Switch",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Linux",
+          "iOS",
+          "HTML5",
+          "HoloLens 2",
+          "Gear VR",
+          "Xbox One"
+        ],
+        "versionTitle": "4.26"
+      },
+      {
+        "appId": "LineOfSight_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2024-11-30T20:44:42.514Z",
+        "id": "62bc9dd7183a4ecc87bd5accd5880e32",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "4.27"
+      },
+      {
+        "appId": "LineOfSight_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2024-11-30T20:44:42.514Z",
+        "id": "d518dafb228a48ada6639a9382361f5e",
+        "platform": [
+          "Android",
+          "HoloLens 2",
+          "iOS",
+          "Linux",
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "5.0"
+      },
+      {
+        "appId": "LineOfSight_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2024-11-30T20:44:42.514Z",
+        "id": "6373e7872f034af4ad5d3878d6e2e4e3",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac",
+          "iOS",
+          "Android",
+          "HoloLens 2"
+        ],
+        "versionTitle": "5.1"
+      },
+      {
+        "appId": "LineOfSight_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2024-11-30T20:44:42.514Z",
+        "id": "1bab9e87e2d8459e9199ab635867798f",
+        "platform": [
+          "Mac",
+          "Android",
+          "Windows",
+          "HoloLens 2",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "5.2"
+      },
+      {
+        "appId": "LineOfSight_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2024-11-30T20:44:42.514Z",
+        "id": "acb0a31b63564b3b8609009b8b8965b0",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "iOS",
+          "Android"
+        ],
+        "versionTitle": "5.3"
+      },
+      {
+        "appId": "LineOfSight_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2024-11-30T20:44:42.514Z",
+        "id": "96aac2a9eb414918af5ce82e3e4313a7",
+        "platform": [
+          "iOS",
+          "Android",
+          "Linux",
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "5.4"
+      },
+      {
+        "appId": "LineOfSi1543722f05d1V10",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2024-11-30T20:44:42.514Z",
+        "id": "775cf2d030d94f2aae8b06f02dd21aa2",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "Linux"
+        ],
+        "versionTitle": "5.5"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Line Of Sight. Dynamic mesh.",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

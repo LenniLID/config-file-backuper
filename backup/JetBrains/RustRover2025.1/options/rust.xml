@@ -1,0 +1,6 @@
+<application>
+  <component name="RsCodeInsightSettings">
+    <option name="showInlineErrorDescriptions" value="false" />
+    <option name="showInlineWarningDescriptions" value="false" />
+  </component>
+</application>

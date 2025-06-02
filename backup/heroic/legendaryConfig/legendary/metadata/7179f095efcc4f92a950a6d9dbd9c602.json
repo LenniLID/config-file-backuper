@@ -1,0 +1,105 @@
+{
+  "app_name": "7179f095efcc4f92a950a6d9dbd9c602",
+  "app_title": "Severed Steel",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "7179f095efcc4f92a950a6d9dbd9c602",
+      "asset_id": "7179f095efcc4f92a950a6d9dbd9c602",
+      "build_version": "5.5.0",
+      "catalog_item_id": "1709353a08384d518fe56f25732eb9dd",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5db7394e65044dd1bb083ee983e2b3a5",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-08-31T21:48:39.606Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SeveredSteel"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "5db7394e65044dd1bb083ee983e2b3a5"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Severed Steel",
+    "developer": "Greylock Games Studio LLC",
+    "developerId": "o-2pu7muwluvb2n2grerb65hj6pht2dn",
+    "endOfSupport": false,
+    "entitlementName": "1709353a08384d518fe56f25732eb9dd",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "1709353a08384d518fe56f25732eb9dd",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "7563487f2c1135a79b72a4d2c198d544",
+        "size": 319409,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-01-21T23:11:49.433Z",
+        "url": "https://cdn1.epicgames.com/item/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S1_2560x1440-7563487f2c1135a79b72a4d2c198d544",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "42edb36730050be3d18171baac58a7f2",
+        "size": 243159,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-01-21T23:11:52.199Z",
+        "url": "https://cdn1.epicgames.com/item/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S2_1200x1600-42edb36730050be3d18171baac58a7f2",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-12-04T17:49:45.284Z",
+    "mainGameItemList": [],
+    "namespace": "5db7394e65044dd1bb083ee983e2b3a5",
+    "releaseInfo": [
+      {
+        "appId": "7179f095efcc4f92a950a6d9dbd9c602",
+        "id": "33bdfc59b7d14c4a86f0f5ef86475558",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Severed Steel",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

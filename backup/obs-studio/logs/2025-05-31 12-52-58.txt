@@ -1,0 +1,205 @@
+12:52:58.074: [Safe Mode] Unclean shutdown detected!
+12:53:00.483: [Safe Mode] User elected to launch normally.
+12:53:00.483: Using EGL/X11
+12:53:00.483: CPU Name: AMD Ryzen 5 5600X 6-Core Processor
+12:53:00.483: CPU Speed: 3942.515MHz
+12:53:00.484: Physical Cores: 6, Logical Cores: 12
+12:53:00.484: Physical Memory: 15913MB Total, 3055MB Free
+12:53:00.484: Kernel Version: Linux 6.12.28-1-MANJARO
+12:53:00.484: Distribution: "Manjaro Linux" Unknown
+12:53:00.484: Desktop Environment: KDE (KDE)
+12:53:00.484: Session Type: x11
+12:53:00.484: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+12:53:00.495: Qt Version: 6.9.0 (runtime), 6.9.0 (compiled)
+12:53:00.495: Portable mode: false
+12:53:00.513: OBS 31.0.3 (linux)
+12:53:00.513: ---------------------------------
+12:53:00.514: ---------------------------------
+12:53:00.514: audio settings reset:
+12:53:00.514: 	samples per sec: 48000
+12:53:00.514: 	speakers:        2
+12:53:00.514: 	max buffering:   960 milliseconds
+12:53:00.514: 	buffering type:  dynamically increasing
+12:53:00.515: ---------------------------------
+12:53:00.515: Initializing OpenGL...
+12:53:00.633: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2
+12:53:00.633: OpenGL loaded successfully, version 3.3.0 NVIDIA 570.144, shading language 3.30 NVIDIA via Cg compiler
+12:53:00.659: ---------------------------------
+12:53:00.659: video settings reset:
+12:53:00.659: 	base resolution:   1920x1080
+12:53:00.659: 	output resolution: 1280x720
+12:53:00.659: 	downscale filter:  Bicubic
+12:53:00.659: 	fps:               30/1
+12:53:00.659: 	format:            NV12
+12:53:00.659: 	YUV mode:          Rec. 709/Partial
+12:53:00.659: NV12 texture support enabled
+12:53:00.659: P010 texture support not available
+12:53:00.660: Audio monitoring device:
+12:53:00.660: 	name: Default
+12:53:00.660: 	id: default
+12:53:00.660: ---------------------------------
+12:53:00.668: Failed to load 'en-US' text for module: 'decklink-captions.so'
+12:53:00.675: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+12:53:00.682: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+12:53:00.682: Failed to initialize module 'decklink.so'
+12:53:00.800: [pipewire] Available capture sources:
+12:53:00.800: [pipewire]     - Monitor source
+12:53:00.800: [pipewire]     - Window source
+12:53:00.818: v4l2loopback not installed, virtual camera not registered
+12:53:00.856: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+12:53:00.856: FFmpeg VAAPI H264 encoding not supported
+12:53:00.856: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+12:53:00.856: FFmpeg VAAPI AV1 encoding not supported
+12:53:00.856: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+12:53:00.856: FFmpeg VAAPI HEVC encoding not supported
+12:53:01.489: [obs-nvenc] NVENC version: 13.0 (compiled) / 13.0 (driver), CUDA driver version: 12.80, AV1 supported: false
+12:53:01.552: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+12:53:01.552: 
+12:53:01.555: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+12:53:01.555: 
+12:53:01.555: Module '/usr/lib/obs-plugins/obs-websocket.so' not loaded
+12:53:01.580: ---------------------------------
+12:53:01.580:   Loaded Modules:
+12:53:01.580:     text-freetype2.so
+12:53:01.580:     rtmp-services.so
+12:53:01.580:     obs-x264.so
+12:53:01.580:     obs-webrtc.so
+12:53:01.580:     obs-vst.so
+12:53:01.580:     obs-transitions.so
+12:53:01.580:     obs-qsv11.so
+12:53:01.580:     obs-outputs.so
+12:53:01.580:     obs-nvenc.so
+12:53:01.580:     obs-libfdk.so
+12:53:01.580:     obs-filters.so
+12:53:01.580:     obs-ffmpeg.so
+12:53:01.580:     linux-v4l2.so
+12:53:01.580:     linux-pulseaudio.so
+12:53:01.580:     linux-pipewire.so
+12:53:01.580:     linux-jack.so
+12:53:01.580:     linux-capture.so
+12:53:01.580:     linux-alsa.so
+12:53:01.581:     image-source.so
+12:53:01.581:     frontend-tools.so
+12:53:01.581:     decklink-output-ui.so
+12:53:01.581:     decklink-captions.so
+12:53:01.581: ---------------------------------
+12:53:01.581: ---------------------------------
+12:53:01.581: Available Encoders:
+12:53:01.581:   Video Encoders:
+12:53:01.581: 	- ffmpeg_svt_av1 (SVT-AV1)
+12:53:01.581: 	- ffmpeg_aom_av1 (AOM AV1)
+12:53:01.581: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+12:53:01.581: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+12:53:01.581: 	- obs_x264 (x264)
+12:53:01.581:   Audio Encoders:
+12:53:01.581: 	- ffmpeg_aac (FFmpeg AAC)
+12:53:01.581: 	- ffmpeg_opus (FFmpeg Opus)
+12:53:01.581: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+12:53:01.581: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+12:53:01.581: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+12:53:01.581: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+12:53:01.581: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+12:53:01.581: 	- libfdk_aac (libfdk AAC)
+12:53:01.581: ==== Startup complete ===============================================
+12:53:01.602: All scene data cleared
+12:53:01.602: ------------------------------------------------
+12:53:01.605: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+12:53:01.605: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+12:53:01.606: pulse-input: Started recording from 'alsa_output.pci-0000_07_00.4.analog-stereo.monitor' (default)
+12:53:01.606: [Loaded global audio device]: 'Desktop Audio'
+12:53:01.606: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+12:53:01.606: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+12:53:01.606: pulse-input: Started recording from 'alsa_input.pci-0000_07_00.4.analog-stereo' (default)
+12:53:01.606: [Loaded global audio device]: 'Mic/Aux'
+12:53:01.607: xshm-input: Geometry 2560x1440 @ 0,0
+12:53:01.608: Switched to scene 'main'
+12:53:01.608: ------------------------------------------------
+12:53:01.608: Loaded scenes:
+12:53:01.608: - scene 'Scene':
+12:53:01.608: - scene 'main':
+12:53:01.608:     - source: 'Display Capture (XSHM)' (xshm_input_v2)
+12:53:01.608: ------------------------------------------------
+12:53:02.156: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+12:53:02.156: 
+12:53:11.429: [obs-nvenc: 'simple_video_stream'] settings:
+12:53:11.429: 	codec:        H264
+12:53:11.429: 	rate_control: CBR
+12:53:11.429: 	bitrate:      2500
+12:53:11.429: 	keyint:       250
+12:53:11.429: 	preset:       p5
+12:53:11.429: 	tuning:       hq
+12:53:11.429: 	multipass:    qres
+12:53:11.429: 	profile:      high
+12:53:11.429: 	width:        1280
+12:53:11.429: 	height:       720
+12:53:11.429: 	b-frames:     2
+12:53:11.429: 	b-ref-mode:   0
+12:53:11.429: 	lookahead:    true (8 frames)
+12:53:11.429: 	aq:           true
+12:53:11.429: 
+12:53:11.458: libfdk_aac encoder created
+12:53:11.459: libfdk_aac bitrate: 160, channels: 2
+12:53:11.481: ==== Recording Start ===============================================
+12:53:11.481: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/lennilid/Videos/2025-05-31 12-53-11.mp4'...
+12:53:19.397: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/lennilid/Videos/2025-05-31 12-53-11.mp4' stopped
+12:53:19.397: Output 'simple_file_output': stopping
+12:53:19.397: Output 'simple_file_output': Total frames output: 220
+12:53:19.397: Output 'simple_file_output': Total drawn frames: 238
+12:53:19.397: ==== Recording Stop ================================================
+12:53:19.581: libfdk_aac encoder destroyed
+12:57:57.652: [obs-nvenc: 'simple_video_stream'] settings:
+12:57:57.652: 	codec:        H264
+12:57:57.652: 	rate_control: CBR
+12:57:57.652: 	bitrate:      2500
+12:57:57.652: 	keyint:       250
+12:57:57.652: 	preset:       p5
+12:57:57.652: 	tuning:       hq
+12:57:57.652: 	multipass:    qres
+12:57:57.652: 	profile:      high
+12:57:57.652: 	width:        1280
+12:57:57.652: 	height:       720
+12:57:57.652: 	b-frames:     2
+12:57:57.652: 	b-ref-mode:   0
+12:57:57.652: 	lookahead:    true (8 frames)
+12:57:57.652: 	aq:           true
+12:57:57.652: 
+12:57:57.679: libfdk_aac encoder created
+12:57:57.679: libfdk_aac bitrate: 160, channels: 2
+12:57:57.681: ==== Recording Start ===============================================
+12:57:57.681: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/lennilid/Videos/2025-05-31 12-57-57.mp4'...
+12:58:04.566: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/lennilid/Videos/2025-05-31 12-57-57.mp4' stopped
+12:58:04.566: Output 'simple_file_output': stopping
+12:58:04.566: Output 'simple_file_output': Total frames output: 190
+12:58:04.566: Output 'simple_file_output': Total drawn frames: 207
+12:58:04.567: ==== Recording Stop ================================================
+12:58:04.763: libfdk_aac encoder destroyed
+13:00:41.207: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+13:00:41.207: 
+13:01:15.029: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+13:01:15.029: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+13:01:32.101: [obs-nvenc: 'simple_video_stream'] settings:
+13:01:32.101: 	codec:        H264
+13:01:32.101: 	rate_control: CBR
+13:01:32.101: 	bitrate:      2500
+13:01:32.101: 	keyint:       250
+13:01:32.101: 	preset:       p5
+13:01:32.101: 	tuning:       hq
+13:01:32.101: 	multipass:    qres
+13:01:32.101: 	profile:      high
+13:01:32.101: 	width:        1280
+13:01:32.101: 	height:       720
+13:01:32.101: 	b-frames:     2
+13:01:32.101: 	b-ref-mode:   0
+13:01:32.101: 	lookahead:    true (8 frames)
+13:01:32.101: 	aq:           true
+13:01:32.101: 
+13:01:32.127: libfdk_aac encoder created
+13:01:32.127: libfdk_aac bitrate: 160, channels: 2
+13:01:32.130: ==== Recording Start ===============================================
+13:01:32.130: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/lennilid/Videos/2025-05-31 13-01-31.mp4'...
+13:01:46.768: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/lennilid/Videos/2025-05-31 13-01-31.mp4' stopped
+13:01:46.768: Output 'simple_file_output': stopping
+13:01:46.768: Output 'simple_file_output': Total frames output: 422
+13:01:46.768: Output 'simple_file_output': Total drawn frames: 439
+13:01:46.768: ==== Recording Stop ================================================
+13:01:46.951: libfdk_aac encoder destroyed

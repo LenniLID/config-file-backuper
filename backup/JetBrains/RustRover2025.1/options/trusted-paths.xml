@@ -1,0 +1,18 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Downloads/Monkey-typer-main" value="true" />
+        <entry key="$USER_HOME$/RustroverProjects/config-file-backuper" value="true" />
+        <entry key="$USER_HOME$/RustroverProjects/untitled" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads" />
+      </list>
+    </option>
+  </component>
+</application>

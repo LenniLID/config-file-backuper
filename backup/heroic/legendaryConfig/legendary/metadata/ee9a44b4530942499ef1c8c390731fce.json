@@ -1,0 +1,293 @@
+{
+  "app_name": "ee9a44b4530942499ef1c8c390731fce",
+  "app_title": "Fallout New Vegas: Courier's Stash",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ee9a44b4530942499ef1c8c390731fce",
+      "asset_id": "ee9a44b4530942499ef1c8c390731fce",
+      "build_version": "0.0.0.3",
+      "catalog_item_id": "e03e450ae07b41049e90ca620a8e054e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a5f949820387412884103be2303d3f12"
+      },
+      "namespace": "3428aaab2c674c98b3acb789dcfaa548",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "addons"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-03-27T22:47:09.069Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "3428aaab2c674c98b3acb789dcfaa548"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Fallout New Vegas: Courier's Stash",
+    "developer": "Bethesda Softworks LLC",
+    "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+    "endOfSupport": false,
+    "entitlementName": "e03e450ae07b41049e90ca620a8e054e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && fallout)"
+    ],
+    "id": "e03e450ae07b41049e90ca620a8e054e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "46e9b5ccf792f5f3805e962d78262808",
+        "size": 559144,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-05-15T12:02:58.898Z",
+        "url": "https://cdn1.epicgames.com/item/3428aaab2c674c98b3acb789dcfaa548/EGS_FalloutNewVegasCouriersStash_ObsidianEntertainment_DLC_S1_2560x1440-46e9b5ccf792f5f3805e962d78262808",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "c9b68aff5b33e1dc72173346cb04d126",
+        "size": 205948,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-05-15T12:03:02.856Z",
+        "url": "https://cdn1.epicgames.com/item/3428aaab2c674c98b3acb789dcfaa548/EGS_FalloutNewVegasCouriersStash_ObsidianEntertainment_DLC_S2_1200x1600-c9b68aff5b33e1dc72173346cb04d126",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-05-25T14:04:31.860Z",
+    "mainGameItem": {
+      "ageGatings": {},
+      "applicationId": "",
+      "categories": [
+        {
+          "path": "games"
+        },
+        {
+          "path": "applications"
+        }
+      ],
+      "creationDate": "2022-09-19T14:32:16.489Z",
+      "customAttributes": {
+        "CanSkipKoreanIdVerification": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "CloudSaveFolder": {
+          "type": "STRING",
+          "value": "{UserDir}/My Games/FalloutNV_Epic/"
+        },
+        "FolderName": {
+          "type": "STRING",
+          "value": "FalloutNewVegas"
+        },
+        "MaxSizeMB": {
+          "type": "STRING",
+          "value": "2000"
+        },
+        "MonitorPresence": {
+          "type": "STRING",
+          "value": "false"
+        },
+        "PresenceId": {
+          "type": "STRING",
+          "value": "3428aaab2c674c98b3acb789dcfaa548"
+        },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "[]"
+        },
+        "UseAccessControl": {
+          "type": "STRING",
+          "value": "false"
+        }
+      },
+      "description": "Fallout: New Vegas",
+      "developer": "Bethesda Softworks LLC",
+      "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+      "endOfSupport": false,
+      "entitlementName": "dabb52e328834da7bbe99691e374cb84",
+      "entitlementType": "EXECUTABLE",
+      "eulaIds": [
+        "(egstore && fallout)"
+      ],
+      "id": "dabb52e328834da7bbe99691e374cb84",
+      "itemType": "DURABLE",
+      "keyImages": [
+        {
+          "height": 1440,
+          "md5": "7d7f9ea355650139d9ec6cc3cff97f5f",
+          "size": 394607,
+          "type": "DieselGameBox",
+          "uploadedDate": "2023-05-15T09:29:37.858Z",
+          "url": "https://cdn1.epicgames.com/item/3428aaab2c674c98b3acb789dcfaa548/EGS_FalloutNewVegas_ObsidianEntertainment_S1_2560x1440-7d7f9ea355650139d9ec6cc3cff97f5f",
+          "width": 2560
+        },
+        {
+          "height": 1600,
+          "md5": "866fe8b8f56e2e7bb862c49bf0627b9a",
+          "size": 216462,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2023-05-15T09:29:41.934Z",
+          "url": "https://cdn1.epicgames.com/item/3428aaab2c674c98b3acb789dcfaa548/EGS_FalloutNewVegas_ObsidianEntertainment_S2_1200x1600-866fe8b8f56e2e7bb862c49bf0627b9a",
+          "width": 1200
+        }
+      ],
+      "lastModifiedDate": "2024-09-27T22:59:22.924Z",
+      "mainGameItemList": [],
+      "namespace": "3428aaab2c674c98b3acb789dcfaa548",
+      "releaseInfo": [
+        {
+          "appId": "5daeb974a22a435988892319b3a4f476",
+          "id": "60568f7206c14d0488635bf37ff62c17",
+          "platform": [
+            "Windows"
+          ]
+        }
+      ],
+      "requiresSecureAccount": false,
+      "status": "ACTIVE",
+      "title": "Fallout: New Vegas",
+      "unsearchable": true
+    },
+    "mainGameItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-09-19T14:32:16.489Z",
+        "customAttributes": {
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CloudSaveFolder": {
+            "type": "STRING",
+            "value": "{UserDir}/My Games/FalloutNV_Epic/"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "FalloutNewVegas"
+          },
+          "MaxSizeMB": {
+            "type": "STRING",
+            "value": "2000"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "3428aaab2c674c98b3acb789dcfaa548"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Fallout: New Vegas",
+        "developer": "Bethesda Softworks LLC",
+        "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+        "endOfSupport": false,
+        "entitlementName": "dabb52e328834da7bbe99691e374cb84",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "(egstore && fallout)"
+        ],
+        "id": "dabb52e328834da7bbe99691e374cb84",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "7d7f9ea355650139d9ec6cc3cff97f5f",
+            "size": 394607,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-05-15T09:29:37.858Z",
+            "url": "https://cdn1.epicgames.com/item/3428aaab2c674c98b3acb789dcfaa548/EGS_FalloutNewVegas_ObsidianEntertainment_S1_2560x1440-7d7f9ea355650139d9ec6cc3cff97f5f",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "866fe8b8f56e2e7bb862c49bf0627b9a",
+            "size": 216462,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-05-15T09:29:41.934Z",
+            "url": "https://cdn1.epicgames.com/item/3428aaab2c674c98b3acb789dcfaa548/EGS_FalloutNewVegas_ObsidianEntertainment_S2_1200x1600-866fe8b8f56e2e7bb862c49bf0627b9a",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-27T22:59:22.924Z",
+        "mainGameItemList": [],
+        "namespace": "3428aaab2c674c98b3acb789dcfaa548",
+        "releaseInfo": [
+          {
+            "appId": "5daeb974a22a435988892319b3a4f476",
+            "id": "60568f7206c14d0488635bf37ff62c17",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Fallout: New Vegas",
+        "unsearchable": true
+      }
+    ],
+    "namespace": "3428aaab2c674c98b3acb789dcfaa548",
+    "releaseInfo": [
+      {
+        "appId": "ee9a44b4530942499ef1c8c390731fce",
+        "compatibleApps": [],
+        "dateAdded": "2023-03-27T21:32:00.000Z",
+        "id": "2540e3c9b050441fb0b64e081430d243",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Fallout New Vegas: Courier's Stash",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

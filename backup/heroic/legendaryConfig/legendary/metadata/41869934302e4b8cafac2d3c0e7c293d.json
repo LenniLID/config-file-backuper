@@ -1,0 +1,373 @@
+{
+  "app_name": "41869934302e4b8cafac2d3c0e7c293d",
+  "app_title": "Genshin Impact",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "41869934302e4b8cafac2d3c0e7c293d",
+      "asset_id": "41869934302e4b8cafac2d3c0e7c293d",
+      "build_version": "101",
+      "catalog_item_id": "7d690c122fde4c60bed85405f343ad10",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567wTpi8eThGK1VsSmDIRr7pcy2",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-28T21:51:23.564Z",
+    "customAttributes": {
+      "BackgroundProcessNames": {
+        "type": "STRING",
+        "value": "QtWebEngineProcess.exe,launcher.exe,launcher_epic.exe"
+      },
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GenshinImpact"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "GenshinImpact.exe"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "GenshinImpact.exe"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Genshin Impact",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-15T20:18:31.037Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC11 Audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "468a3a89128640faa443c80628ac680b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "468a3a89128640faa443c80628ac680b",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-07-26T09:09:46.199Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC11 Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-18T18:18:35.537Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Genshin Impact MEGA Sale Bundle",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "ef2cb524c64a425c9e7758cd5c9f185d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ef2cb524c64a425c9e7758cd5c9f185d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-07-26T09:09:48.453Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Genshin Impact MEGA Sale Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-04-08T03:01:01.293Z",
+        "description": "Acquaint Fate \u00d71_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "7a2f1ccc4b32432a96cf579c3cbcf67f",
+        "entitlementType": "AUDIENCE",
+        "id": "7a2f1ccc4b32432a96cf579c3cbcf67f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-08T03:01:01.293Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Acquaint Fate \u00d71_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-04-08T03:01:01.294Z",
+        "description": "Intertwined Fate \u00d71_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "e1d5311dc0b54c9fb0881ee40bf8de4f",
+        "entitlementType": "AUDIENCE",
+        "id": "e1d5311dc0b54c9fb0881ee40bf8de4f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-08T03:01:01.294Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Intertwined Fate \u00d71_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-04-08T03:01:01.292Z",
+        "description": "Intertwined Fate \u00d710_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "42b198be1e0941c5aa98af79f2e0885a",
+        "entitlementType": "AUDIENCE",
+        "id": "42b198be1e0941c5aa98af79f2e0885a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-08T03:01:01.292Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Intertwined Fate \u00d710_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-04-08T03:01:01.291Z",
+        "description": "Acquaint Fate \u00d710_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "27351744292642ed970641ade2a3b440",
+        "entitlementType": "AUDIENCE",
+        "id": "27351744292642ed970641ade2a3b440",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-08T03:01:01.291Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Acquaint Fate \u00d710_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "7d690c122fde4c60bed85405f343ad10",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7d690c122fde4c60bed85405f343ad10",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "91c6cd7312cc2647c3ebccca10f30399",
+        "size": 997652,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-02T03:36:36.214Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Landscape Product image-EN_2560x1440-91c6cd7312cc2647c3ebccca10f30399",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "c12cdcc2cac330df2185aa58c508e820",
+        "size": 796187,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-02T03:36:49.983Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Portrait Product Image-en_1200x1600-c12cdcc2cac330df2185aa58c508e820",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-15T02:55:19.479Z",
+    "mainGameItemList": [],
+    "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+    "releaseInfo": [
+      {
+        "appId": "41869934302e4b8cafac2d3c0e7c293d",
+        "compatibleApps": [],
+        "dateAdded": "2021-01-29T01:17:00.000Z",
+        "id": "ab90420210a1473d8a49f9866ce6a62c",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Genshin Impact",
+    "unsearchable": true
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "cb76fef83fc042e4b3cad67e84219d9f"
+    },
+    "rev": 1
+  }
+}

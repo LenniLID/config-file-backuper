@@ -1,0 +1,208 @@
+{
+  "app_name": "d94a06ef698942669bd001b2dd0fb3ee",
+  "app_title": "Model Builder: Alaskan Road Truckers DLC",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "d94a06ef698942669bd001b2dd0fb3ee",
+      "asset_id": "d94a06ef698942669bd001b2dd0fb3ee",
+      "build_version": "1.1.8i",
+      "catalog_item_id": "a004546d145b4173b9da5ce8594eef05",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2ac6bcd5910d4435a1fced61f997df8a"
+      },
+      "namespace": "23499f64e5304139b514c3e674c5c0d6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "addons"
+      }
+    ],
+    "creationDate": "2024-06-27T21:57:30.153Z",
+    "customAttributes": {},
+    "description": "Model Builder: Alaskan Road Truckers DLC",
+    "developer": "Green Man Gaming Publishing",
+    "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+    "endOfSupport": false,
+    "entitlementName": "a004546d145b4173b9da5ce8594eef05",
+    "entitlementType": "EXECUTABLE",
+    "id": "a004546d145b4173b9da5ce8594eef05",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Model Builder Model Builder: Alaskan Road Truckers DLC Offer",
+        "height": 1440,
+        "md5": "b447e16afad2be9aece63ea1f64f7ff2",
+        "size": 1642335,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-11-20T11:51:55.257Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-3hp1n.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Model Builder Model Builder: Alaskan Road Truckers DLC Offer",
+        "height": 1600,
+        "md5": "41a4c4cb56a1a1d78f0cbd822f29df81",
+        "size": 957315,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-11-20T11:51:55.418Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-kuc9p.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-06-27T21:57:30.153Z",
+    "mainGameItem": {
+      "applicationId": "fghi4567MrJn7DOaf82JWMBFrxPTtI8G",
+      "categories": [
+        {
+          "path": "games"
+        },
+        {
+          "path": "applications"
+        }
+      ],
+      "creationDate": "2022-09-29T13:38:13.418Z",
+      "customAttributes": {
+        "FolderName": {
+          "type": "STRING",
+          "value": "ModelBuilder"
+        }
+      },
+      "description": "Model Builder: Complete Edition",
+      "developer": "Green Man Gaming Publishing",
+      "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+      "endOfSupport": false,
+      "entitlementName": "b3dde22db4e14b4cb644271f02038e25",
+      "entitlementType": "EXECUTABLE",
+      "id": "b3dde22db4e14b4cb644271f02038e25",
+      "itemType": "DURABLE",
+      "keyImages": [
+        {
+          "alt": "Model Builder Offer",
+          "height": 1440,
+          "md5": "00074d151af07093febfe9814c2e8e64",
+          "size": 3961208,
+          "type": "DieselGameBox",
+          "uploadedDate": "2024-06-26T09:57:54.765Z",
+          "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-9z2bz.png",
+          "width": 2560
+        },
+        {
+          "alt": "Download Model Builder Offer",
+          "height": 1600,
+          "md5": "561c43c9b7c64410b24261b3a57954a7",
+          "size": 1976835,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2024-06-26T09:57:54.138Z",
+          "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-19dtm.png",
+          "width": 1200
+        }
+      ],
+      "lastModifiedDate": "2024-06-27T21:57:30.399Z",
+      "mainGameItemList": [],
+      "namespace": "23499f64e5304139b514c3e674c5c0d6",
+      "releaseInfo": [
+        {
+          "appId": "4a31c45c04e243cc97f3e47bc663fb18",
+          "id": "c99baf23387e4de4b3668cd3ea664007",
+          "platform": [
+            "Win32",
+            "Windows"
+          ]
+        }
+      ],
+      "requiresSecureAccount": false,
+      "status": "ACTIVE",
+      "title": "Model Builder: Complete Edition",
+      "unsearchable": false
+    },
+    "mainGameItemList": [
+      {
+        "applicationId": "fghi4567MrJn7DOaf82JWMBFrxPTtI8G",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-09-29T13:38:13.418Z",
+        "customAttributes": {
+          "FolderName": {
+            "type": "STRING",
+            "value": "ModelBuilder"
+          }
+        },
+        "description": "Model Builder: Complete Edition",
+        "developer": "Green Man Gaming Publishing",
+        "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+        "endOfSupport": false,
+        "entitlementName": "b3dde22db4e14b4cb644271f02038e25",
+        "entitlementType": "EXECUTABLE",
+        "id": "b3dde22db4e14b4cb644271f02038e25",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Model Builder Offer",
+            "height": 1440,
+            "md5": "00074d151af07093febfe9814c2e8e64",
+            "size": 3961208,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-26T09:57:54.765Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-9z2bz.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Model Builder Offer",
+            "height": 1600,
+            "md5": "561c43c9b7c64410b24261b3a57954a7",
+            "size": 1976835,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-26T09:57:54.138Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-19dtm.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-27T21:57:30.399Z",
+        "mainGameItemList": [],
+        "namespace": "23499f64e5304139b514c3e674c5c0d6",
+        "releaseInfo": [
+          {
+            "appId": "4a31c45c04e243cc97f3e47bc663fb18",
+            "id": "c99baf23387e4de4b3668cd3ea664007",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Model Builder: Complete Edition",
+        "unsearchable": false
+      }
+    ],
+    "namespace": "23499f64e5304139b514c3e674c5c0d6",
+    "releaseInfo": [
+      {
+        "appId": "d94a06ef698942669bd001b2dd0fb3ee",
+        "id": "90823907ad9c4a1287181b5300a3a813",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Model Builder: Alaskan Road Truckers DLC",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

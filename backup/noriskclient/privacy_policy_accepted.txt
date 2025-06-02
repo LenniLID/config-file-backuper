@@ -1,0 +1,3 @@
+accepted=true
+at=2025-03-09T03:17:55.214155637+00:00
+url=https://norisk.gg/privacy-policy

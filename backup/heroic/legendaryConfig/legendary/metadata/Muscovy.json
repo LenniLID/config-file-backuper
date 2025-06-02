@@ -1,0 +1,267 @@
+{
+  "app_name": "Muscovy",
+  "app_title": "Surviving the Aftermath",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Muscovy",
+      "asset_id": "Muscovy",
+      "build_version": "1.25.0.2775",
+      "catalog_item_id": "6dfe148a5d5f4fa9b265dcc3803dc395",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "024fb138c970409d92c15451e8fa64cd"
+      },
+      "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567HGyUdG1hq24ZaQj5bdBg8LV0",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-03T15:22:15.253Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SurvivingTheAftermath"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "95b4d5a753d042678f775d5e1eb5ab25"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Surviving the Aftermath",
+    "developer": "Paradox Interactive",
+    "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-22T17:56:17.817Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Shattered Hope Staging",
+        "developer": "Paradox Interactive",
+        "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+        "endOfSupport": false,
+        "entitlementName": "203470bb7e2e4f6b9782d6f4a721d775",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "203470bb7e2e4f6b9782d6f4a721d775",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-09-22T17:56:17.817Z",
+        "mainGameItem": {
+          "id": "6dfe148a5d5f4fa9b265dcc3803dc395",
+          "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6dfe148a5d5f4fa9b265dcc3803dc395",
+            "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+        "releaseInfo": [
+          {
+            "appId": "fd157b74cb4449dcaf4812925cec3b99",
+            "id": "c15b9ef488aa45f1983707a492c0f0ec",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Shattered Hope Staging",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-09-22T17:54:33.911Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Shattered Hope audience",
+        "developer": "Paradox Interactive",
+        "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+        "endOfSupport": false,
+        "entitlementName": "436b94e7ccb546c7ba89689ac3cde744",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "436b94e7ccb546c7ba89689ac3cde744",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-03T16:33:20.030Z",
+        "mainGameItem": {
+          "id": "6dfe148a5d5f4fa9b265dcc3803dc395",
+          "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6dfe148a5d5f4fa9b265dcc3803dc395",
+            "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Shattered Hope audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-21T22:30:41.455Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Muscovy Rebirth Audience",
+        "developer": "Paradox Interactive",
+        "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+        "endOfSupport": false,
+        "entitlementName": "fed3e991b1304cb4896576a6b17d7eb4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fed3e991b1304cb4896576a6b17d7eb4",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-17T19:21:55.110Z",
+        "mainGameItem": {
+          "id": "6dfe148a5d5f4fa9b265dcc3803dc395",
+          "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6dfe148a5d5f4fa9b265dcc3803dc395",
+            "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Muscovy Rebirth Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "6dfe148a5d5f4fa9b265dcc3803dc395",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && paradoxinteractive)"
+    ],
+    "id": "6dfe148a5d5f4fa9b265dcc3803dc395",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "61c69731778b92a32a9dbfd7c1a35d72",
+        "size": 973036,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-11-16T16:56:18.494Z",
+        "url": "https://cdn1.epicgames.com/item/95b4d5a753d042678f775d5e1eb5ab25/Landscape_2560x1440_logobaked_in_2560x1440-61c69731778b92a32a9dbfd7c1a35d72",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "8189d62d10c6a4b166c4cda72e028016",
+        "size": 685301,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-11-16T16:56:23.255Z",
+        "url": "https://cdn1.epicgames.com/item/95b4d5a753d042678f775d5e1eb5ab25/Portrait_1200x1600_logobaked_in_1200x1600-8189d62d10c6a4b166c4cda72e028016",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-02T16:32:46.887Z",
+    "mainGameItemList": [],
+    "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+    "releaseInfo": [
+      {
+        "appId": "Muscovy",
+        "dateAdded": "2019-09-04T00:00:00.000Z",
+        "id": "769280b8b46a4fed895a09d307f3cf1d",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Surviving the Aftermath",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,626 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="config-file-backuper" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="ChatSessionStateTemp">
+    <option name="chats">
+      <list>
+        <SerializedChat>
+          <option name="chatContext">
+            <SerializedChatContext />
+          </option>
+          <option name="messages">
+            <list>
+              <SerializedChatMessage>
+                <option name="attachments">
+                  <list>
+                    <SerializedChatAttachment>
+                      <option name="url" value="file://$PROJECT_DIR$/src/main.rs" />
+                      <option name="name" value="Information about open file in the editor" />
+                      <option name="text" value="```rust&#10;use std::fmt::format;&#10;use std::fs::File;&#10;use std::io::prelude::*;&#10;use std::fs;&#10;use std::ops::Index;&#10;use walkdir::WalkDir;&#10;&#10;fn main() -&gt; Result&lt;(), Box&lt;dyn std::error::Error&gt;&gt; {&#10;    &#10;    let mut all_paths: Vec&lt;String&gt; = Vec::new();&#10;&#10;    for entry in WalkDir::new(&quot;foo&quot;) {&#10;        let entry = entry?;                       // Einmaliges ? auf das WalkDir-Result&#10;        let path_display = entry.path().display();&#10;&#10;        // Aus 'path_display' einen String bauen:&#10;        all_paths.push(format!(&quot;{}&quot;, path_display));&#10;    }&#10;&#10;    let mut file = File::create(&quot;backup.txt&quot;)?;&#10;    let mut content = fs::read_to_string(&quot;foo/test1.txt&quot;)?;&#10;&#10;&#10;    println!(&quot;test1.txt: \n{}&quot;, all_paths[1]);&#10;    println!(&quot;test2: {}&quot;, content);&#10;    Ok(())&#10;}&#10;&#10;```" />
+                    </SerializedChatAttachment>
+                    <SerializedChatAttachment>
+                      <option name="name" value="Project View" />
+                      <option name="text" value="Project View content:&#10;```&#10;config-file-backuper&#10; foo&#10;  test2 dir&#10;  test1.txt&#10; src&#10; target&#10; .gitignore&#10; backup.txt&#10; Cargo.lock&#10; Cargo.toml&#10; copie-this-test.txt&#10;External Libraries&#10;Scratches and Consoles&#10;```" />
+                    </SerializedChatAttachment>
+                    <SerializedChatAttachment>
+                      <option name="url" value="file://$PROJECT_DIR$/foo/test1.txt" />
+                      <option name="name" value="test1.txt" />
+                      <option name="text" value="```plain text&#10;&#10;```" />
+                    </SerializedChatAttachment>
+                    <SerializedChatAttachment>
+                      <option name="url" value="file://$PROJECT_DIR$/copie-this-test.txt" />
+                      <option name="name" value="copie-this-test.txt" />
+                      <option name="text" value="```plain text&#10;&#10;&#10;&#10;&#10;copie file still works&#10;```" />
+                    </SerializedChatAttachment>
+                  </list>
+                </option>
+                <option name="markupLanguageID" value="ChatInput" />
+                <option name="uid" value="UUID(uuid=d550f70a-229e-4bfa-858f-33c9f21d50f7)" />
+                <option name="displayContent" value="why doesnt it print out content" />
+                <option name="internalContent" value="why doesnt it print out content" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="author" value="Assistant" />
+                <option name="uid" value="UUID(uuid=45bb6015-03cb-4749-8b5e-6a5b3b3dc682)" />
+                <option name="displayContent" value="Looking at your code, there are a few issues that explain why the content isn't being printed:&#10;&#10;1. Your `content` variable reads from &quot;foo/test1.txt&quot;, but according to the project view, this file is empty.&#10;&#10;2. You're trying to print `content` but you're never writing anything to &quot;foo/test1.txt&quot;.&#10;&#10;3. When printing `all_paths[1]`, you're assuming the array's order, which might not be reliable since filesystem traversal order isn't guaranteed.&#10;&#10;Here's how you can fix this:&#10;&#10;```rust&#10;use std::fmt::format;&#10;use std::fs::File;&#10;use std::io::prelude::*;&#10;use std::fs;&#10;use std::ops::Index;&#10;use walkdir::WalkDir;&#10;&#10;fn main() -&gt; Result&lt;(), Box&lt;dyn std::error::Error&gt;&gt; {&#10;    let mut all_paths: Vec&lt;String&gt; = Vec::new();&#10;&#10;    // First, let's write some content to test1.txt&#10;    fs::write(&quot;foo/test1.txt&quot;, &quot;Hello, this is some test content!&quot;)?;&#10;&#10;    for entry in WalkDir::new(&quot;foo&quot;) {&#10;        let entry = entry?;&#10;        let path_display = entry.path().display();&#10;        all_paths.push(format!(&quot;{}&quot;, path_display));&#10;    }&#10;&#10;    let content = fs::read_to_string(&quot;foo/test1.txt&quot;)?;&#10;&#10;    // Print all found paths to see what we're working with&#10;    println!(&quot;All paths found:&quot;);&#10;    for path in &amp;all_paths {&#10;        println!(&quot;{}&quot;, path);&#10;    }&#10;&#10;    println!(&quot;\nContent of test1.txt:\n{}&quot;, content);&#10;    Ok(())&#10;}&#10;```&#10;&#10;The main issues were:&#10;&#10;1. The file &quot;test1.txt&quot; was empty, so there was nothing to read and print&#10;2. You should first write some content to the file if you want to read from it&#10;3. It's better to iterate through the paths vector rather than accessing a specific index, as the order might not be what you expect&#10;&#10;Try running this modified version. It will:&#10;1. Write some test content to test1.txt&#10;2. Show all the paths it found&#10;3. Display the content of test1.txt&#10;&#10;Let me know if you still have issues!" />
+                <option name="internalContent" value="Looking at your code, there are a few issues that explain why the content isn't being printed:&#10;&#10;1. Your `content` variable reads from &quot;foo/test1.txt&quot;, but according to the project view, this file is empty.&#10;&#10;2. You're trying to print `content` but you're never writing anything to &quot;foo/test1.txt&quot;.&#10;&#10;3. When printing `all_paths[1]`, you're assuming the array's order, which might not be reliable since filesystem traversal order isn't guaranteed.&#10;&#10;Here's how you can fix this:&#10;&#10;```rust&#10;use std::fmt::format;&#10;use std::fs::File;&#10;use std::io::prelude::*;&#10;use std::fs;&#10;use std::ops::Index;&#10;use walkdir::WalkDir;&#10;&#10;fn main() -&gt; Result&lt;(), Box&lt;dyn std::error::Error&gt;&gt; {&#10;    let mut all_paths: Vec&lt;String&gt; = Vec::new();&#10;&#10;    // First, let's write some content to test1.txt&#10;    fs::write(&quot;foo/test1.txt&quot;, &quot;Hello, this is some test content!&quot;)?;&#10;&#10;    for entry in WalkDir::new(&quot;foo&quot;) {&#10;        let entry = entry?;&#10;        let path_display = entry.path().display();&#10;        all_paths.push(format!(&quot;{}&quot;, path_display));&#10;    }&#10;&#10;    let content = fs::read_to_string(&quot;foo/test1.txt&quot;)?;&#10;&#10;    // Print all found paths to see what we're working with&#10;    println!(&quot;All paths found:&quot;);&#10;    for path in &amp;all_paths {&#10;        println!(&quot;{}&quot;, path);&#10;    }&#10;&#10;    println!(&quot;\nContent of test1.txt:\n{}&quot;, content);&#10;    Ok(())&#10;}&#10;```&#10;&#10;The main issues were:&#10;&#10;1. The file &quot;test1.txt&quot; was empty, so there was nothing to read and print&#10;2. You should first write some content to the file if you want to read from it&#10;3. It's better to iterate through the paths vector rather than accessing a specific index, as the order might not be what you expect&#10;&#10;Try running this modified version. It will:&#10;1. Write some test content to test1.txt&#10;2. Show all the paths it found&#10;3. Display the content of test1.txt&#10;&#10;Let me know if you still have issues!" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="markupLanguageID" value="ChatInput" />
+                <option name="uid" value="UUID(uuid=7a29c1dc-f8ae-41c0-80c8-761aa2725c26)" />
+                <option name="displayContent" value="whats wrong?" />
+                <option name="internalContent" value="whats wrong?" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="author" value="Assistant" />
+                <option name="uid" value="UUID(uuid=f48314db-dbd6-4116-91bb-c794b6e2b95f)" />
+                <option name="displayContent" value="Let me search through your code to identify potential issues.&#10;&#10;I see the issue. Looking at your project structure, while there is a `foo` directory and a `test1.txt` file shown in the Project View, it seems the file might not actually exist in the filesystem or might not be accessible.&#10;&#10;Let's verify if the directory structure is correct:&#10;&#10;Looking at your project structure and the code, I can spot several issues:&#10;&#10;1. The file name in your code is &quot;foo/test1.txt&quot;, but in your project structure, the file is actually named &quot;foo/test1&quot; (without the .txt extension)&#10;&#10;2. You're trying to print `all_paths[1]`, which assumes the second path will be &quot;test1.txt&quot;, but:&#10;   - The file doesn't have .txt extension&#10;   - Array indexing might not give you the file in the order you expect since filesystem traversal order isn't guaranteed&#10;&#10;Here's how to fix it:&#10;&#10;```rust&#10;use std::fmt::format;&#10;use std::fs::File;&#10;use std::io::prelude::*;&#10;use std::fs;&#10;use std::ops::Index;&#10;use walkdir::WalkDir;&#10;&#10;fn main() -&gt; Result&lt;(), Box&lt;dyn std::error::Error&gt;&gt; {&#10;    let mut all_paths: Vec&lt;String&gt; = Vec::new();&#10;&#10;    // First, let's write some content to test1&#10;    fs::write(&quot;foo/test1&quot;, &quot;Hello, this is some test content!&quot;)?;&#10;&#10;    for entry in WalkDir::new(&quot;foo&quot;) {&#10;        let entry = entry?;&#10;        let path_display = entry.path().display();&#10;        all_paths.push(format!(&quot;{}&quot;, path_display));&#10;    }&#10;&#10;    let content = fs::read_to_string(&quot;foo/test1&quot;)?;&#10;&#10;    // Print all found paths to see what we're working with&#10;    println!(&quot;All paths found:&quot;);&#10;    for path in &amp;all_paths {&#10;        println!(&quot;{}&quot;, path);&#10;    }&#10;&#10;    println!(&quot;\nContent of test1:\n{}&quot;, content);&#10;    Ok(())&#10;}&#10;```&#10;&#10;The main changes are:&#10;1. Changed &quot;foo/test1.txt&quot; to &quot;foo/test1&quot; to match the actual file name&#10;2. Added printing of all paths so you can see what files are actually being found&#10;3. Removed the direct array indexing with `all_paths[1]` which could cause issues&#10;&#10;This should now work correctly. The program will:&#10;1. Write some content to the &quot;test1&quot; file&#10;2. Show you all the paths it found in the &quot;foo&quot; directory&#10;3. Display the content of the &quot;test1&quot; file&#10;&#10;Try running this modified version and let me know if you still have any issues!" />
+                <option name="internalContent" value="Let me search through your code to identify potential issues.&#10;&#10;I see the issue. Looking at your project structure, while there is a `foo` directory and a `test1.txt` file shown in the Project View, it seems the file might not actually exist in the filesystem or might not be accessible.&#10;&#10;Let's verify if the directory structure is correct:&#10;&#10;Looking at your project structure and the code, I can spot several issues:&#10;&#10;1. The file name in your code is &quot;foo/test1.txt&quot;, but in your project structure, the file is actually named &quot;foo/test1&quot; (without the .txt extension)&#10;&#10;2. You're trying to print `all_paths[1]`, which assumes the second path will be &quot;test1.txt&quot;, but:&#10;   - The file doesn't have .txt extension&#10;   - Array indexing might not give you the file in the order you expect since filesystem traversal order isn't guaranteed&#10;&#10;Here's how to fix it:&#10;&#10;```rust&#10;use std::fmt::format;&#10;use std::fs::File;&#10;use std::io::prelude::*;&#10;use std::fs;&#10;use std::ops::Index;&#10;use walkdir::WalkDir;&#10;&#10;fn main() -&gt; Result&lt;(), Box&lt;dyn std::error::Error&gt;&gt; {&#10;    let mut all_paths: Vec&lt;String&gt; = Vec::new();&#10;&#10;    // First, let's write some content to test1&#10;    fs::write(&quot;foo/test1&quot;, &quot;Hello, this is some test content!&quot;)?;&#10;&#10;    for entry in WalkDir::new(&quot;foo&quot;) {&#10;        let entry = entry?;&#10;        let path_display = entry.path().display();&#10;        all_paths.push(format!(&quot;{}&quot;, path_display));&#10;    }&#10;&#10;    let content = fs::read_to_string(&quot;foo/test1&quot;)?;&#10;&#10;    // Print all found paths to see what we're working with&#10;    println!(&quot;All paths found:&quot;);&#10;    for path in &amp;all_paths {&#10;        println!(&quot;{}&quot;, path);&#10;    }&#10;&#10;    println!(&quot;\nContent of test1:\n{}&quot;, content);&#10;    Ok(())&#10;}&#10;```&#10;&#10;The main changes are:&#10;1. Changed &quot;foo/test1.txt&quot; to &quot;foo/test1&quot; to match the actual file name&#10;2. Added printing of all paths so you can see what files are actually being found&#10;3. Removed the direct array indexing with `all_paths[1]` which could cause issues&#10;&#10;This should now work correctly. The program will:&#10;1. Write some content to the &quot;test1&quot; file&#10;2. Show you all the paths it found in the &quot;foo&quot; directory&#10;3. Display the content of the &quot;test1&quot; file&#10;&#10;Try running this modified version and let me know if you still have any issues!" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="attachments">
+                  <list>
+                    <SerializedChatAttachment>
+                      <option name="name" value="Selection" />
+                      <option name="text" value="```&#10;    let mut content = fs::read_to_string(&quot;{}&quot;, all_paths.index(1))?;&#10;&#10;```" />
+                    </SerializedChatAttachment>
+                    <SerializedChatAttachment>
+                      <option name="name" value="Project View" />
+                      <option name="text" value="Project View content:&#10;```&#10;config-file-backuper&#10; foo&#10;  test2 dir&#10;  test1&#10; src&#10; target&#10; .gitignore&#10; backup.txt&#10; Cargo.lock&#10; Cargo.toml&#10; copie-this-test.txt&#10;External Libraries&#10;Scratches and Consoles&#10;```" />
+                    </SerializedChatAttachment>
+                    <SerializedChatAttachment>
+                      <option name="url" value="file://$PROJECT_DIR$/foo/test1" />
+                      <option name="name" value="test1" />
+                      <option name="text" value="```&#10;&#10;```" />
+                    </SerializedChatAttachment>
+                    <SerializedChatAttachment>
+                      <option name="url" value="file://$PROJECT_DIR$/Cargo.toml" />
+                      <option name="name" value="Cargo.toml" />
+                      <option name="text" value="```toml&#10;[package]&#10;name = &quot;config-file-backuper&quot;&#10;version = &quot;0.1.0&quot;&#10;edition = &quot;2024&quot;&#10;&#10;[dependencies]&#10;walkdir = &quot;2&quot;&#10;```" />
+                    </SerializedChatAttachment>
+                    <SerializedChatAttachment>
+                      <option name="url" value="file://$PROJECT_DIR$/copie-this-test.txt" />
+                      <option name="name" value="copie-this-test.txt" />
+                      <option name="text" value="```plain text&#10;&#10;&#10;&#10;&#10;copie file still works&#10;```" />
+                    </SerializedChatAttachment>
+                    <SerializedChatAttachment>
+                      <option name="url" value="file://$PROJECT_DIR$/foo/test2 dir/test3" />
+                      <option name="name" value="test3" />
+                      <option name="text" value="```&#10;&#10;```" />
+                    </SerializedChatAttachment>
+                  </list>
+                </option>
+                <option name="markupLanguageID" value="ChatInput" />
+                <option name="uid" value="UUID(uuid=a35ecb9e-abc9-4154-adf9-0ae7891b6e9b)" />
+                <option name="displayContent" value="just fix this line: `let mut content = fs::read_to_string(&quot;{}&quot;, all_paths.index(1))?;`" />
+                <option name="internalContent" value="just fix this line: `let mut content = fs::read_to_string(&quot;{}&quot;, all_paths.index(1))?;`" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="author" value="Assistant" />
+                <option name="uid" value="UUID(uuid=b5a43d22-d8f8-4804-88f5-46cc420d9296)" />
+                <option name="displayContent" value="The issue is in the syntax for `fs::read_to_string()`. The `format!` style string formatting (`&quot;{}&quot;`) doesn't belong there. Here's the correct line:&#10;&#10;```rust&#10;let mut content = fs::read_to_string(all_paths.index(1))?;&#10;```&#10;&#10;The `fs::read_to_string()` function expects just the path as a string, and `all_paths.index(1)` already gives us that string. The `&quot;{}&quot;` format syntax was causing the error because `fs::read_to_string()` is not a formatting function." />
+                <option name="internalContent" value="The issue is in the syntax for `fs::read_to_string()`. The `format!` style string formatting (`&quot;{}&quot;`) doesn't belong there. Here's the correct line:&#10;&#10;```rust&#10;let mut content = fs::read_to_string(all_paths.index(1))?;&#10;```&#10;&#10;The `fs::read_to_string()` function expects just the path as a string, and `all_paths.index(1)` already gives us that string. The `&quot;{}&quot;` format syntax was causing the error because `fs::read_to_string()` is not a formatting function." />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="markupLanguageID" value="ChatInput" />
+                <option name="uid" value="UUID(uuid=4ce65cae-04db-49bc-8fb9-a8714a8e7ffe)" />
+                <option name="displayContent" value="why did my code panich even tho i used expect" />
+                <option name="internalContent" value="why did my code panich even tho i used expect" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="author" value="Assistant" />
+                <option name="uid" value="UUID(uuid=5fbc1361-2439-4c36-9bbd-e9463f8782d9)" />
+                <option name="displayContent" value="Could you show me the line where you used `expect`? I don't see it in the code snippets provided. &#10;&#10;From what I can see in your code, you're using the `?` operator:&#10;```rust&#10;let mut content = fs::read_to_string(all_paths.index(1))?;&#10;```&#10;&#10;The `?` operator and `expect()` work differently:&#10;- `?` will propagate the error up to the calling function&#10;- `expect()` will panic with your custom message if there's an error&#10;&#10;If you want to use `expect()`, you would write it like this:&#10;```rust&#10;let mut content = fs::read_to_string(all_paths.index(1)).expect(&quot;Failed to read file&quot;);&#10;```&#10;&#10;Could you share the exact code where you used `expect` and the panic message you received? That would help me identify the specific issue." />
+                <option name="internalContent" value="Could you show me the line where you used `expect`? I don't see it in the code snippets provided. &#10;&#10;From what I can see in your code, you're using the `?` operator:&#10;```rust&#10;let mut content = fs::read_to_string(all_paths.index(1))?;&#10;```&#10;&#10;The `?` operator and `expect()` work differently:&#10;- `?` will propagate the error up to the calling function&#10;- `expect()` will panic with your custom message if there's an error&#10;&#10;If you want to use `expect()`, you would write it like this:&#10;```rust&#10;let mut content = fs::read_to_string(all_paths.index(1)).expect(&quot;Failed to read file&quot;);&#10;```&#10;&#10;Could you share the exact code where you used `expect` and the panic message you received? That would help me identify the specific issue." />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="attachments">
+                  <list>
+                    <SerializedChatAttachment>
+                      <option name="name" value="Selection" />
+                      <option name="text" value="```&#10;    let mut content = fs::read_to_string(all_paths.index(index)).expect(&quot;this is not a fucking file&quot;);&#10;&#10;```" />
+                    </SerializedChatAttachment>
+                  </list>
+                </option>
+                <option name="markupLanguageID" value="ChatInput" />
+                <option name="uid" value="UUID(uuid=8a8e2e1c-2912-4f20-b5ea-b9c277d2f103)" />
+                <option name="displayContent" value="`let mut content = fs::read_to_string(all_paths.index(index)).expect(&quot;this is not a fucking file&quot;);`" />
+                <option name="internalContent" value="`let mut content = fs::read_to_string(all_paths.index(index)).expect(&quot;this is not a fucking file&quot;);`" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="author" value="Assistant" />
+                <option name="uid" value="UUID(uuid=64f74228-3081-46a7-8ffa-86fd46f7b5f4)" />
+                <option name="displayContent" value="The issue is very likely because you're trying to read a directory as a file. When you use `WalkDir`, it collects both files AND directories in the paths. &#10;&#10;Let's modify your code to make sure we're only working with files:&#10;&#10;```rust&#10;let files: Vec&lt;String&gt; = WalkDir::new(&quot;foo&quot;)&#10;    .into_iter()&#10;    .filter_map(|e| e.ok())&#10;    .filter(|e| e.path().is_file())  // Only keep files, skip directories&#10;    .map(|e| e.path().display().to_string())&#10;    .collect();&#10;&#10;let mut content = fs::read_to_string(files.index(index)).expect(&quot;this is not a fucking file&quot;);&#10;```&#10;&#10;This way, `files` will only contain actual files, not directories, which should prevent the panic when trying to read the content.&#10;&#10;You can also add a debug print to see what paths you're working with:&#10;```rust&#10;println!(&quot;Available files: {:?}&quot;, files);&#10;```&#10;&#10;This will help you verify which index you should be using to access the correct file." />
+                <option name="internalContent" value="The issue is very likely because you're trying to read a directory as a file. When you use `WalkDir`, it collects both files AND directories in the paths. &#10;&#10;Let's modify your code to make sure we're only working with files:&#10;&#10;```rust&#10;let files: Vec&lt;String&gt; = WalkDir::new(&quot;foo&quot;)&#10;    .into_iter()&#10;    .filter_map(|e| e.ok())&#10;    .filter(|e| e.path().is_file())  // Only keep files, skip directories&#10;    .map(|e| e.path().display().to_string())&#10;    .collect();&#10;&#10;let mut content = fs::read_to_string(files.index(index)).expect(&quot;this is not a fucking file&quot;);&#10;```&#10;&#10;This way, `files` will only contain actual files, not directories, which should prevent the panic when trying to read the content.&#10;&#10;You can also add a debug print to see what paths you're working with:&#10;```rust&#10;println!(&quot;Available files: {:?}&quot;, files);&#10;```&#10;&#10;This will help you verify which index you should be using to access the correct file." />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="markupLanguageID" value="ChatInput" />
+                <option name="uid" value="UUID(uuid=daf1deac-66df-4611-934f-86c2b207fcdd)" />
+                <option name="displayContent" value="i just want it to not panick and end the app when it happens" />
+                <option name="internalContent" value="i just want it to not panick and end the app when it happens" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="author" value="Assistant" />
+                <option name="uid" value="UUID(uuid=df17f8bc-91e3-4ef5-bdfa-5d15feb8f34c)" />
+                <option name="displayContent" value="Ah, if you want to handle the error gracefully instead of panicking, you can use `match` or `if let` instead of `expect()`. Here's how you can modify that line:&#10;&#10;```rust&#10;let mut content = match fs::read_to_string(all_paths.index(index)) {&#10;    Ok(content) =&gt; content,&#10;    Err(e) =&gt; {&#10;        println!(&quot;Error reading file: {}&quot;, e);&#10;        return; // or you could return a default value, or continue with other logic&#10;    }&#10;};&#10;```&#10;&#10;Or a shorter version using `if let`:&#10;&#10;```rust&#10;let mut content = if let Ok(content) = fs::read_to_string(all_paths.index(index)) {&#10;    content&#10;} else {&#10;    println!(&quot;Failed to read file at index {}&quot;, index);&#10;    return;&#10;};&#10;```&#10;&#10;Both versions will print an error message and exit gracefully instead of panicking when there's an error reading the file." />
+                <option name="internalContent" value="Ah, if you want to handle the error gracefully instead of panicking, you can use `match` or `if let` instead of `expect()`. Here's how you can modify that line:&#10;&#10;```rust&#10;let mut content = match fs::read_to_string(all_paths.index(index)) {&#10;    Ok(content) =&gt; content,&#10;    Err(e) =&gt; {&#10;        println!(&quot;Error reading file: {}&quot;, e);&#10;        return; // or you could return a default value, or continue with other logic&#10;    }&#10;};&#10;```&#10;&#10;Or a shorter version using `if let`:&#10;&#10;```rust&#10;let mut content = if let Ok(content) = fs::read_to_string(all_paths.index(index)) {&#10;    content&#10;} else {&#10;    println!(&quot;Failed to read file at index {}&quot;, index);&#10;    return;&#10;};&#10;```&#10;&#10;Both versions will print an error message and exit gracefully instead of panicking when there's an error reading the file." />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="attachments">
+                  <list>
+                    <SerializedChatAttachment>
+                      <option name="name" value="Selection" />
+                      <option name="text" value="```&#10;    let mut content = fs::read_to_string(all_paths.index(index)).expect(&quot;this is not a fucking file&quot;);&#10;&#10;```" />
+                    </SerializedChatAttachment>
+                    <SerializedChatAttachment>
+                      <option name="name" value="Project View" />
+                      <option name="text" value="Project View content:&#10;```&#10;config-file-backuper&#10; foo&#10;  test2 dir&#10;   test3&#10;  test1&#10; src&#10; target&#10; .gitignore&#10; backup.txt&#10; Cargo.lock&#10; Cargo.toml&#10; copie-this-test.txt&#10;External Libraries&#10;Scratches and Consoles&#10;```" />
+                    </SerializedChatAttachment>
+                    <SerializedChatAttachment>
+                      <option name="url" value="file://$PROJECT_DIR$/Cargo.toml" />
+                      <option name="name" value="Cargo.toml" />
+                      <option name="text" value="```toml&#10;[package]&#10;name = &quot;config-file-backuper&quot;&#10;version = &quot;0.1.0&quot;&#10;edition = &quot;2024&quot;&#10;&#10;[dependencies]&#10;walkdir = &quot;2&quot;&#10;```" />
+                    </SerializedChatAttachment>
+                    <SerializedChatAttachment>
+                      <option name="url" value="file://$PROJECT_DIR$/copie-this-test.txt" />
+                      <option name="name" value="copie-this-test.txt" />
+                      <option name="text" value="```plain text&#10;&#10;&#10;&#10;&#10;copie file still works&#10;```" />
+                    </SerializedChatAttachment>
+                  </list>
+                </option>
+                <option name="markupLanguageID" value="ChatInput" />
+                <option name="uid" value="UUID(uuid=8fa9d210-b659-4c77-afb9-e6c1eb24f685)" />
+                <option name="displayContent" value="make it so the code doesnt panick and just ignores when a directory shows up" />
+                <option name="internalContent" value="make it so the code doesnt panick and just ignores when a directory shows up" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="author" value="Assistant" />
+                <option name="uid" value="UUID(uuid=fc82ff9f-40fe-4ac0-b88e-3a21f0242543)" />
+                <option name="displayContent" value="To make the code ignore directories and only read files without panicking, you can check if the path is a file before attempting to read it. Here's the updated code:&#10;&#10;```rust&#10;if all_paths.index(index).is_file() {&#10;    let mut content = fs::read_to_string(all_paths.index(index)).unwrap_or_else(|_| {&#10;        println!(&quot;Failed to read file at index {}&quot;, index);&#10;        String::new() // Return an empty string in case of an error&#10;    });&#10;    // Process `content` here&#10;} else {&#10;    println!(&quot;Path at index {} is not a file, skipping...&quot;, index);&#10;}&#10;```&#10;&#10;### Explanation:&#10;1. **`is_file()` Check:**&#10;   - `all_paths.index(index).is_file()` ensures that the code only tries to read the path if it's a file, not a directory.&#10;   &#10;2. **Graceful Error Handling:**&#10;   - `unwrap_or_else` handles the case where `fs::read_to_string` might fail for any reason (e.g., permissions issue, invalid path). Instead of panicking, it prints a message and returns an empty string.&#10;&#10;3. **Ignore Directories:**&#10;   - If the path is not a file, the code skips it gracefully and prints a message indicating that it's skipping a directory.&#10;&#10;This will prevent the application from panicking and simply continue working while ignoring directories or inaccessible paths." />
+                <option name="internalContent" value="To make the code ignore directories and only read files without panicking, you can check if the path is a file before attempting to read it. Here's the updated code:&#10;&#10;```rust&#10;if all_paths.index(index).is_file() {&#10;    let mut content = fs::read_to_string(all_paths.index(index)).unwrap_or_else(|_| {&#10;        println!(&quot;Failed to read file at index {}&quot;, index);&#10;        String::new() // Return an empty string in case of an error&#10;    });&#10;    // Process `content` here&#10;} else {&#10;    println!(&quot;Path at index {} is not a file, skipping...&quot;, index);&#10;}&#10;```&#10;&#10;### Explanation:&#10;1. **`is_file()` Check:**&#10;   - `all_paths.index(index).is_file()` ensures that the code only tries to read the path if it's a file, not a directory.&#10;   &#10;2. **Graceful Error Handling:**&#10;   - `unwrap_or_else` handles the case where `fs::read_to_string` might fail for any reason (e.g., permissions issue, invalid path). Instead of panicking, it prints a message and returns an empty string.&#10;&#10;3. **Ignore Directories:**&#10;   - If the path is not a file, the code skips it gracefully and prints a message indicating that it's skipping a directory.&#10;&#10;This will prevent the application from panicking and simply continue working while ignoring directories or inaccessible paths." />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="attachments">
+                  <list>
+                    <SerializedChatAttachment>
+                      <option name="name" value="Project View" />
+                      <option name="text" value="Project View content:&#10;```&#10;config-file-backuper&#10; foo&#10;  test2 dir&#10;   test3&#10;  test1&#10; src&#10; target&#10; .gitignore&#10; backup.txt&#10; Cargo.lock&#10; Cargo.toml&#10; copie-this-test.txt&#10;External Libraries&#10;Scratches and Consoles&#10;```" />
+                    </SerializedChatAttachment>
+                    <SerializedChatAttachment>
+                      <option name="url" value="file://$PROJECT_DIR$/Cargo.toml" />
+                      <option name="name" value="Cargo.toml" />
+                      <option name="text" value="```toml&#10;[package]&#10;name = &quot;config-file-backuper&quot;&#10;version = &quot;0.1.0&quot;&#10;edition = &quot;2024&quot;&#10;&#10;[dependencies]&#10;walkdir = &quot;2&quot;&#10;```" />
+                    </SerializedChatAttachment>
+                  </list>
+                </option>
+                <option name="markupLanguageID" value="ChatInput" />
+                <option name="uid" value="UUID(uuid=8f2b4b47-7d69-4b5d-b390-80f9fa4ea61a)" />
+                <option name="displayContent" value="is_file doesnt seem to exist" />
+                <option name="internalContent" value="is_file doesnt seem to exist" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="author" value="Assistant" />
+                <option name="uid" value="UUID(uuid=c509fe9e-60ce-45dd-900c-ed0a3656f0a4)" />
+                <option name="displayContent" value="You're right—`is_file()` does not exist directly on a `Path` reference returned by the `index()` or other APIs. However, you can convert the path to a `Path` object and then check whether it's a file using the `metadata()` method or similar methods provided by the Rust standard library.&#10;&#10;Here's how you can fix it so it works with `WalkDir` and paths:&#10;&#10;```rust&#10;use std::fs;&#10;use std::path::Path;&#10;&#10;if let Some(path) = all_paths.index(index).to_path() {&#10;    if fs::metadata(path).map(|m| m.is_file()).unwrap_or(false) {&#10;        let mut content = fs::read_to_string(path).unwrap_to_thчас" />
+                <option name="internalContent" value="You're right—`is_file()` does not exist directly on a `Path` reference returned by the `index()` or other APIs. However, you can convert the path to a `Path` object and then check whether it's a file using the `metadata()` method or similar methods provided by the Rust standard library.&#10;&#10;Here's how you can fix it so it works with `WalkDir` and paths:&#10;&#10;```rust&#10;use std::fs;&#10;use std::path::Path;&#10;&#10;if let Some(path) = all_paths.index(index).to_path() {&#10;    if fs::metadata(path).map(|m| m.is_file()).unwrap_or(false) {&#10;        let mut content = fs::read_to_string(path).unwrap_to_thчас" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="markupLanguageID" value="ChatInput" />
+                <option name="uid" value="UUID(uuid=6df172cd-da23-44e9-883c-de2d925e1ff9)" />
+                <option name="displayContent" value="how to write a string to a file" />
+                <option name="internalContent" value="how to write a string to a file" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="author" value="Assistant" />
+                <option name="uid" value="UUID(uuid=19a32431-b1d2-4f67-b2a2-0c9ff16f7ccf)" />
+                <option name="displayContent" value="To write a string to a file in Rust, you can use the `std::fs::write` function, or you can create a `std::fs::File` and write to it using a `std::io::Write` trait implementation.&#10;&#10;### Using `std::fs::write`&#10;The simplest way to write a string to a file is by using the `std::fs::write` function:&#10;&#10;```rust&#10;use std::fs;&#10;&#10;let data = &quot;This is the content to be written to the file.&quot;;&#10;fs::write(&quot;output.txt&quot;, data).expect(&quot;Unable to write to file&quot;);&#10;```&#10;&#10;### Explanation&#10;1. `&quot;output.txt&quot;` is the file path where the data will be written.&#10;2. If the file doesn't exist, `fs::write` creates it.&#10;3. The `data` string is written to the file. If the file already exists, the content will be overwritten.&#10;4. `expect(&quot;Unable to write to file&quot;)` handles any potential errors, like permissions issues.&#10;&#10;---&#10;&#10;### Using `File` and `Write` for More Control&#10;If you need more control (e.g., appending to the file or opening it in a specific mode), you can use the `std::fs::File` and `std::io::Write`:&#10;&#10;```rust&#10;use std::fs::File;&#10;use std::io::Write;&#10;&#10;let data = &quot;This is the content to be written to the file.&quot;;&#10;let mut file = File::create(&quot;output.txt&quot;).expect(&quot;Unable to create file&quot;);&#10;file.write_all(data.as_bytes()).expect(&quot;Unable to write data&quot;);&#10;```&#10;&#10;### Explanation&#10;1. `File::create(&quot;output.txt&quot;)` creates the file (or truncates it if it already exists).&#10;2. `write_all(data.as_bytes())` writes the string as bytes to the file.&#10;3. This gives you lower-level control and is better if you want to open files in specific modes (e.g., append).&#10;&#10;---&#10;&#10;### Appending to a File&#10;If you want to append to the file instead of overwriting it, you can use `OpenOptions`:&#10;&#10;```rust&#10;use std::fs::OpenOptions;&#10;use std::io::Write;&#10;&#10;let data = &quot;This content will be appended.&quot;;&#10;let mut file = OpenOptions::new()&#10;    .write(true)&#10;    .append(true)&#10;    .open(&quot;output.txt&quot;)&#10;    .expect(&quot;Unable to open file&quot;);&#10;file.write_all(data.as_bytes()).expect(&quot;Unable to write data&quot;);&#10;```&#10;&#10;### Explanation&#10;1. `OpenOptions::new()` lets you set options for opening a file, like append mode.&#10;2. `.append(true)` ensures that the data is appended instead of overwriting the file.&#10;&#10;Select the approach that fits your use case. If you just need a quick write, `fs::write` is the simplest option. If you need more control, use `File` or `OpenOptions`." />
+                <option name="internalContent" value="To write a string to a file in Rust, you can use the `std::fs::write` function, or you can create a `std::fs::File` and write to it using a `std::io::Write` trait implementation.&#10;&#10;### Using `std::fs::write`&#10;The simplest way to write a string to a file is by using the `std::fs::write` function:&#10;&#10;```rust&#10;use std::fs;&#10;&#10;let data = &quot;This is the content to be written to the file.&quot;;&#10;fs::write(&quot;output.txt&quot;, data).expect(&quot;Unable to write to file&quot;);&#10;```&#10;&#10;### Explanation&#10;1. `&quot;output.txt&quot;` is the file path where the data will be written.&#10;2. If the file doesn't exist, `fs::write` creates it.&#10;3. The `data` string is written to the file. If the file already exists, the content will be overwritten.&#10;4. `expect(&quot;Unable to write to file&quot;)` handles any potential errors, like permissions issues.&#10;&#10;---&#10;&#10;### Using `File` and `Write` for More Control&#10;If you need more control (e.g., appending to the file or opening it in a specific mode), you can use the `std::fs::File` and `std::io::Write`:&#10;&#10;```rust&#10;use std::fs::File;&#10;use std::io::Write;&#10;&#10;let data = &quot;This is the content to be written to the file.&quot;;&#10;let mut file = File::create(&quot;output.txt&quot;).expect(&quot;Unable to create file&quot;);&#10;file.write_all(data.as_bytes()).expect(&quot;Unable to write data&quot;);&#10;```&#10;&#10;### Explanation&#10;1. `File::create(&quot;output.txt&quot;)` creates the file (or truncates it if it already exists).&#10;2. `write_all(data.as_bytes())` writes the string as bytes to the file.&#10;3. This gives you lower-level control and is better if you want to open files in specific modes (e.g., append).&#10;&#10;---&#10;&#10;### Appending to a File&#10;If you want to append to the file instead of overwriting it, you can use `OpenOptions`:&#10;&#10;```rust&#10;use std::fs::OpenOptions;&#10;use std::io::Write;&#10;&#10;let data = &quot;This content will be appended.&quot;;&#10;let mut file = OpenOptions::new()&#10;    .write(true)&#10;    .append(true)&#10;    .open(&quot;output.txt&quot;)&#10;    .expect(&quot;Unable to open file&quot;);&#10;file.write_all(data.as_bytes()).expect(&quot;Unable to write data&quot;);&#10;```&#10;&#10;### Explanation&#10;1. `OpenOptions::new()` lets you set options for opening a file, like append mode.&#10;2. `.append(true)` ensures that the data is appended instead of overwriting the file.&#10;&#10;Select the approach that fits your use case. If you just need a quick write, `fs::write` is the simplest option. If you need more control, use `File` or `OpenOptions`." />
+              </SerializedChatMessage>
+            </list>
+          </option>
+          <option name="modifiedAt" value="1748885979226" />
+          <option name="statisticInformation">
+            <ChatStatisticInformation>
+              <option name="sourceActionType" value="NEW_CHAT_ON_START" />
+            </ChatStatisticInformation>
+          </option>
+          <option name="title">
+            <SerializedChatTitle>
+              <option name="custom" value="true" />
+              <option name="text" value="Debugging File Reading in Rust Code" />
+            </SerializedChatTitle>
+          </option>
+          <option name="uid" value="69bf9524-7212-4217-887e-98af4649d8e8" />
+        </SerializedChat>
+      </list>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1csrbhx1p60m0" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.rs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="753">
+              <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"main.rs","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,124,10,122,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,101,110,110,105,108,105,100,47,68,111,119,110,108,111,97,100,115,47,82,117,115,116,82,111,118,101,114,45,50,48,50,53,46,49,46,50,47,112,108,117,103,105,110,115,47,105,110,116,101,108,108,105,106,45,114,117,115,116,47,108,105,98,47,105,110,116,101,108,108,105,106,45,114,117,115,116,46,106,97,114,33,47,105,99,111,110,115,47,101,120,112,117,105,47,114,117,115,116,70,105,108,101,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/foo/test1">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"test1","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/foo/test2dir/test3">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"test3","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/backup.txt">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"backup.txt","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/copie-this-test.txt">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"copie-this-test.txt","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "PLAIN_TEXT": {
+      "usageCount": 5,
+      "lastUsed": 1748883843637
+    },
+    "Rust": {
+      "usageCount": 3,
+      "lastUsed": 1748875771851
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 4,
+      "lastUsed": 1748884402785
+    },
+    "TOML": {
+      "usageCount": 3,
+      "lastUsed": 1748885675809
+    },
+    "ChatInput": {
+      "usageCount": 3,
+      "lastUsed": 1748885664555
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/lennilid/RustroverProjects/config-file-backuper/copie-this-test",
+    "/home/lennilid/RustroverProjects/config-file-backuper/Cargo.toml",
+    "/home/lennilid/RustroverProjects/config-file-backuper/test.rs",
+    "/home/lennilid/RustroverProjects/config-file-backuper/copie-this-test.txt",
+    "/home/lennilid/RustroverProjects/config-file-backuper/foo/test1.txt",
+    "/home/lennilid/RustroverProjects/config-file-backuper/foo/test2 dir/test3",
+    "/home/lennilid/RustroverProjects/config-file-backuper/foo/test1",
+    "/home/lennilid/RustroverProjects/config-file-backuper/backup.txt",
+    "/home/lennilid/RustroverProjects/config-file-backuper/src/main.rs"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="ChatInput">
+      <summary usageCount="3" lastUsage="1748885664555" />
+    </language>
+    <language id="Rust">
+      <summary usageCount="3" lastUsage="1748875771853" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="5" lastUsage="1748883843637" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="3" lastUsage="1748885675809" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="config-file-backuper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/config-file-backuper}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-file-backuper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/config-file-backuper}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/config-file-backuper/foo}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-file-backuper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/config-file-backuper}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/config-file-backuper/foo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/config-file-backuper/foo/test2dir}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="config-file-backuper" />
+            <item name="config-file-backuper" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="config-file-backuper" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/config-file-backuper}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/foo" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="foo" />
+                <item name="dir{file:///home/lennilid/RustroverProjects/config-file-backuper/foo}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/foo/test2dir" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="test2dir" />
+                  <item name="dir{file:///home/lennilid/RustroverProjects/config-file-backuper/foo/test2dir}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/foo/test2dir/test3" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="test3" />
+                    <item name="test3" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/foo/test1" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="test1" />
+                  <item name="test1" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/lennilid/RustroverProjects/config-file-backuper/src}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/target" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                <item name="dir{file:///home/lennilid/RustroverProjects/config-file-backuper/target}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/backup.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="backup.txt" />
+                <item name="backup.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Cargo.lock" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="Cargo.lock" />
+                <item name="Cargo.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Cargo.toml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="Cargo.toml" />
+                <item name="Cargo.toml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/copie-this-test.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="copie-this-test.txt" />
+                <item name="copie-this-test.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Cargo.Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13197000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08457032" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.23674785" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.23674785" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.23674785" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" show_stripe_button="false" weight="0.3305" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.40097654" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="5" weight="0.2" />
+      <window_info anchor="right" id="RustCargo" order="6" weight="0.20035714" />
+      <window_info anchor="right" id="ElectroJunToolWindow" order="7" />
+      <unified_weights bottom="0.23674785" left="0.08457032" right="0.40097654" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>AIAssistant</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Problems View</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="975" y="441" width="526" height="504" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1748795570089">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="975" y="441" width="526" height="504" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748795570089" />
+    <state x="1013" y="529" width="526" height="337" key="Github.ShareDialog" timestamp="1748890514946">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1013" y="529" width="526" height="337" key="Github.ShareDialog/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748890514946" />
+    <state x="1087" y="406" width="378" height="583" key="Github.UntrackedFilesDialog" timestamp="1748890519516">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1087" y="406" width="378" height="583" key="Github.UntrackedFilesDialog/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748890519516" />
+    <state width="2478" height="288" key="GridCell.Tab.0.bottom" timestamp="1748890096894">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2478" height="288" key="GridCell.Tab.0.bottom/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748890096894" />
+    <state width="2478" height="288" key="GridCell.Tab.0.center" timestamp="1748890096894">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2478" height="288" key="GridCell.Tab.0.center/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748890096894" />
+    <state width="2478" height="288" key="GridCell.Tab.0.left" timestamp="1748890096894">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2478" height="288" key="GridCell.Tab.0.left/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748890096894" />
+    <state width="2478" height="288" key="GridCell.Tab.0.right" timestamp="1748890096894">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2478" height="288" key="GridCell.Tab.0.right/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748890096894" />
+    <state x="850" y="485" width="696" height="713" key="search.everywhere.popup" timestamp="1748878718016">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="850" y="485" width="696" height="713" key="search.everywhere.popup/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748878718016" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/foo.txt" />
+    <entry file="file://$PROJECT_DIR$/test.rs" />
+    <entry file="file://$PROJECT_DIR$/copie-this-test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foo/test2dir/test3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foo/test1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

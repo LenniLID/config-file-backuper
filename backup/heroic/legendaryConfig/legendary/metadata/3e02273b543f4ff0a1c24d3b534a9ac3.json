@@ -1,0 +1,1844 @@
+{
+  "app_name": "3e02273b543f4ff0a1c24d3b534a9ac3",
+  "app_title": "Hell Let Loose",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "3e02273b543f4ff0a1c24d3b534a9ac3",
+      "asset_id": "3e02273b543f4ff0a1c24d3b534a9ac3",
+      "build_version": "324.979985",
+      "catalog_item_id": "581c8d4fd9574884bff66cbdbaa42def",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9e1e1ac71d6b4397a13663b8e01f9a28",
+        "update_type": "PATCH"
+      },
+      "namespace": "6430e58041234e41b8f81f68f01450ed",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-02-19T14:27:24.024Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "HellLetLooseG0WU4"
+      }
+    },
+    "description": "Join the ever expanding experience of Hell Let Loose - a hardcore World War Two first person shooter with epic battles of 100 players with infantry, tanks, artillery, a dynamically shifting front line and a unique resource based RTS-inspired meta-game.",
+    "developer": "Team17 Digital Ltd",
+    "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:27:56.386Z",
+        "description": "Zeltbahn German Cape for the following roles: Rifleman, Support, Medic, Sniper, Auto Rifleman, Heavy MG, Spotter, Assault, Engineer, Anti-Tank and Officer, *Helmet not included",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "e9fd7ad3bd554f5eb1d1d4c36dea3f82",
+        "entitlementType": "EXECUTABLE",
+        "id": "e9fd7ad3bd554f5eb1d1d4c36dea3f82",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - False Front Offer",
+            "height": 1440,
+            "md5": "11a1900c179154f15bf0d4272a4a0383",
+            "size": 505277,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T13:52:44.574Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1ajqp.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - False Front Offer",
+            "height": 1600,
+            "md5": "3487ddcef1cbfc5e2c03f2688935e343",
+            "size": 301261,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T13:52:44.701Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-18kxe.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - False Front",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:26:57.818Z",
+        "description": "Unlock access to the Skull Bucket bundle and get the job done with this unique selection of six new helmets.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "27e73c11cc384cc1a8097d57e2ae4fd0",
+        "entitlementType": "EXECUTABLE",
+        "id": "27e73c11cc384cc1a8097d57e2ae4fd0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Skull Bucket Offer",
+            "height": 1440,
+            "md5": "8dec9a2c785976037fb7ee73d11708ff",
+            "size": 681299,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T11:45:48.077Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1838p.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Skull Bucket Offer",
+            "height": 1600,
+            "md5": "50e8826987e74fc70bd05eafe87df42b",
+            "size": 356638,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T11:45:48.264Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1ohl3.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Skull Bucket",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T11:17:24.236Z",
+        "description": "Unlock access to join the Silver Vanguard and take to the front lines with an array of unique helmets and uniforms.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "2db2c345b366465bb748721ed5dbedbc",
+        "entitlementType": "EXECUTABLE",
+        "id": "2db2c345b366465bb748721ed5dbedbc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose \u2013 Silver Vanguard Offer",
+            "height": 1440,
+            "md5": "5258793c676477cf6951d9fbf7dbf670",
+            "size": 298257,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T14:37:25.970Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-a9g6t.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose \u2013 Silver Vanguard Offer",
+            "height": 1600,
+            "md5": "5b70f077a7a3bfa0ceec0468920e96fb",
+            "size": 201016,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T14:37:25.722Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-lqz0k.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose \u2013 Silver Vanguard",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:27:45.618Z",
+        "description": "Airborne Pathfinder Uniform",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "80770a69d99f401bb6e0b7b34017395c",
+        "entitlementType": "EXECUTABLE",
+        "id": "80770a69d99f401bb6e0b7b34017395c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Hot Drop Offer",
+            "height": 1440,
+            "md5": "d276d520321f501009f151c81e874bdb",
+            "size": 439812,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T14:14:59.437Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-mt4g3.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Hot Drop Offer",
+            "height": 1600,
+            "md5": "14b729751bfc7712fbc5bd93e618f3eb",
+            "size": 328761,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T14:14:59.154Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1fh2j.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Hot Drop",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T11:13:46.175Z",
+        "description": "The Lethal Tide DLC contains: Marine Cap for the following roles: Rifleman, Support, Medic, Sniper, Auto Rifleman, Heavy MG, Spotter, Assault, Engineer, Anti-Tank, Officer",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "af0cdb5353e142518ffbd5ef44da9be0",
+        "entitlementType": "EXECUTABLE",
+        "id": "af0cdb5353e142518ffbd5ef44da9be0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose \u2013 Lethal Tide Offer",
+            "height": 1440,
+            "md5": "4aaa7ea0b0ec06e61545cbdbafe4d10e",
+            "size": 488433,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T14:21:51.314Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-lw3zu.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose \u2013 Lethal Tide Offer",
+            "height": 1600,
+            "md5": "7f6116f4d4aa6eec330146f71aa921e4",
+            "size": 280509,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T14:21:51.150Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1uvi2.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose \u2013 Lethal Tide",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:26:02.267Z",
+        "description": "Stained with grease and grime from the heavy machinery, this well-insulated mix of suede and sheep\u2019s wool kept the Soviet tank crews warm to help them survive and battle through the relentless winter weather, (Available for the Soviet Tank Commander and Crewman)",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "17e80383b0e94f82a40f7b83348240ce",
+        "entitlementType": "EXECUTABLE",
+        "id": "17e80383b0e94f82a40f7b83348240ce",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Cavalry Coat Offer",
+            "height": 1440,
+            "md5": "c4f84f62a03155649eaa8ff969f24c3a",
+            "size": 355993,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-15T11:58:27.874Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1o14c.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Cavalry Coat Offer",
+            "height": 1600,
+            "md5": "b0db1cfce4bd33165c8d9853225e3478",
+            "size": 254602,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-15T11:58:28.213Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-2hf41.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Cavalry Coat",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-30T11:19:29.992Z",
+        "description": "Hell Let Loose - Ultimate Edition Upgrade Pack_SeasonPassAudience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "bc8a897ff1ff4a6eb820d61776647c1c",
+        "entitlementType": "AUDIENCE",
+        "id": "bc8a897ff1ff4a6eb820d61776647c1c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-04-02T10:00:24.275Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Ultimate Edition Upgrade Pack_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-30T11:19:15.686Z",
+        "description": "Hell Let Loose - Deluxe Edition Upgrade Pack_SeasonPassAudience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "ecb78c46e67b4301ac9433f0db5253a3",
+        "entitlementType": "AUDIENCE",
+        "id": "ecb78c46e67b4301ac9433f0db5253a3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-04-02T10:00:24.275Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Deluxe Edition Upgrade Pack_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T11:17:49.463Z",
+        "description": "Get ready for Christmas in Hell Let Loose with the Winter Warfare Helmet pack, Pack available for free for a limited time as a thank you to our community!",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "0549b83859284368bd696e5000ba1c92",
+        "entitlementType": "EXECUTABLE",
+        "id": "0549b83859284368bd696e5000ba1c92",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Winter Warfare Offer",
+            "height": 1440,
+            "md5": "b6384e51a5226be9b00d0f67d02e7410",
+            "size": 676141,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T14:51:22.826Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-lcqt6.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Winter Warfare Offer",
+            "height": 1600,
+            "md5": "ed4c91cdd080805399937b66a1e37c53",
+            "size": 400269,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T14:51:22.645Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-ulkxu.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Winter Warfare",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:25:22.541Z",
+        "description": "Join the elite troops at the forefront of the combat with the Pea Dot DLC. This Erbsenmuster camouflage, commonly known as the pea dot pattern, worked to improve the camouflage characteristics of the uniform.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "d42a1f3069944904a378b83125448d3d",
+        "entitlementType": "EXECUTABLE",
+        "id": "d42a1f3069944904a378b83125448d3d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Pea Dot Offer",
+            "height": 1440,
+            "md5": "dffc7c50fc0a3cad53591c44056956e3",
+            "size": 402753,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-28T17:20:02.032Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1x67y.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Pea Dot Offer",
+            "height": 1600,
+            "md5": "a875399bb82bf061588e66c54d6227a1",
+            "size": 232847,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-28T17:20:02.350Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-5whf0.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Pea Dot",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:23:38.208Z",
+        "description": "Emerge from the foliage with this autumn version of the iconic Oak Leaf camo pattern that was used by troops throughout WW2.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "5d660d6a8aec4e988e62848e7dc2932a",
+        "entitlementType": "EXECUTABLE",
+        "id": "5d660d6a8aec4e988e62848e7dc2932a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Oak Leaf Offer",
+            "height": 1440,
+            "md5": "fbc045b89ecf0a73f858b187c06144fc",
+            "size": 571454,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-28T16:14:18.607Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1ht2r.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Oak Leaf Offer",
+            "height": 1600,
+            "md5": "21fea73476e7a2415eee7ede1c7a8f6e",
+            "size": 380314,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-28T16:14:18.218Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-5o8sc.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Oak Leaf",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:22:44.109Z",
+        "description": "Add the Panzer-Lehr Uniform DLC to your collection and be part of one of the most elite units in the entire German Wehrmacht. Take to the battlefield as both infantry and recon units.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "05483e32fcd7439a96764e9f1c52e9e6",
+        "entitlementType": "EXECUTABLE",
+        "id": "05483e32fcd7439a96764e9f1c52e9e6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Panzer Lehr Offer",
+            "height": 1440,
+            "md5": "f69e8df8da3e0d1d08cae1dda13ff7f1",
+            "size": 342558,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-28T14:58:24.277Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-o7wf9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Panzer Lehr Offer",
+            "height": 1600,
+            "md5": "1194ea21501b2625378fee4b56dd86f1",
+            "size": 239921,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-28T14:58:24.559Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-me06h.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Panzer Lehr",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:24:06.716Z",
+        "description": "This DLC unlocks 3 Helmets: \u201cNear Miss\u201d M1 Battle Damaged Helmet (US), \u201cNear Miss\u201d M42 Battle Damaged Helmet (German), \u201cNear Miss\u201d SSh-40 Battle Damaged Helmet (Soviet)",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "9aa7ea01fd244ecbad53675eaf765372",
+        "entitlementType": "EXECUTABLE",
+        "id": "9aa7ea01fd244ecbad53675eaf765372",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Near Miss Offer",
+            "height": 1440,
+            "md5": "60f52e6d70370a1dd195e034853e94ec",
+            "size": 267365,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T11:40:32.414Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-5plm1.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Near Miss Offer",
+            "height": 1600,
+            "md5": "f2b14cd17b08563274face48cd972b11",
+            "size": 162332,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T11:40:32.216Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-ey6q4.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Near Miss",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T15:52:14.738Z",
+        "description": "A \u201cThank You\u201d to all our players for their support over the past 12 months, This DLC unlocks 1 Helmet: \u201cNear Miss\u201d Mk II Battle Damaged Helmet (British 8th Army)",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "5b5bcec43e9e4ea5956bac8188aa1f5d",
+        "entitlementType": "EXECUTABLE",
+        "id": "5b5bcec43e9e4ea5956bac8188aa1f5d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Near Miss - British 8th Army Offer",
+            "height": 1440,
+            "md5": "3b49561d87230dcae3c602ff1671b082",
+            "size": 294792,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-12-02T18:08:33.710Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-hnto3.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Near Miss - British 8th Army Offer",
+            "height": 1600,
+            "md5": "09d5024dcf134e1e27dfe871172b9a2a",
+            "size": 182470,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-12-02T18:08:33.472Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1hiiu.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Near Miss - British 8th Army",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:25:49.271Z",
+        "description": "Drop into the thick of the action with our latest Free DLC. This uniform showcases the historical changes the US Airborne had to make to their uniform due to the material lacking strength in key areas such as the elbows and knees.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "48f6d389bd9144d997a9c1ac8b41c148",
+        "entitlementType": "EXECUTABLE",
+        "id": "48f6d389bd9144d997a9c1ac8b41c148",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Airborne M1942 Reinforced Offer",
+            "height": 1440,
+            "md5": "e9346adcf553c7a75073f46b3e0f9706",
+            "size": 578321,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-15T11:43:02.550Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1f46p.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Airborne M1942 Reinforced Offer",
+            "height": 1600,
+            "md5": "749903b1d0cdbb7f5b953cdb1e878b24",
+            "size": 346070,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-15T11:43:02.390Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-11kkc.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Airborne M1942 Reinforced",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T15:51:16.095Z",
+        "description": "Add the Wacht am Rhein Units DLC to your collection and be a part of the battle at Elsenborn Ridge.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "2525db32224943788cafa18bc13b316a",
+        "entitlementType": "EXECUTABLE",
+        "id": "2525db32224943788cafa18bc13b316a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Wacht am Rhein Units Offer",
+            "height": 1440,
+            "md5": "beb70b6db349e06e70a3ab34647f2e86",
+            "size": 522929,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T15:01:41.596Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-152ps.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Wacht am Rhein Units Offer",
+            "height": 1600,
+            "md5": "c38e64323a53e03b0f4a6d54b2d584f0",
+            "size": 234794,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T15:01:41.755Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-2ji0m.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Wacht am Rhein Units",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:28:23.428Z",
+        "description": "Unlock access to join the Upper Echelon and take command of the front lines with these unique uniforms for the Commander Role. Show off your rank and station with the \"Field Blue Heer Officer\" uniform for the German forces or stride out in your \"Summer Service\" uniform for the US",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "d396ddd9ff2d47e2bb3479bb1e606f3b",
+        "entitlementType": "EXECUTABLE",
+        "id": "d396ddd9ff2d47e2bb3479bb1e606f3b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose \u2013 Upper Echelon Offer",
+            "height": 1440,
+            "md5": "953edb06ac6e8d28ed1a6be7c7a8e539",
+            "size": 707503,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T11:59:11.782Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1h9nn.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose \u2013 Upper Echelon Offer",
+            "height": 1600,
+            "md5": "a6d454d8dc26ad1c3e5e0961856689d6",
+            "size": 342136,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T11:59:11.489Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-apvhu.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose \u2013 Upper Echelon",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:27:35.897Z",
+        "description": "US Jungle Frogskin Uniform for the following roles: Rifleman, Support, Medic, Sniper, Auto Rifleman, Heavy MG, Spotter, Assault, Engineer, Anti-Tank and Officer.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "b51f786c75a94cb9bb5ee2a81a1ea5e2",
+        "entitlementType": "EXECUTABLE",
+        "id": "b51f786c75a94cb9bb5ee2a81a1ea5e2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Tropic Fever Offer",
+            "height": 1440,
+            "md5": "5ba5f1f0f852d625683a9d8baea235d9",
+            "size": 579334,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T14:00:03.752Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1vhnp.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Tropic Fever Offer",
+            "height": 1600,
+            "md5": "cc0f9a6671ff9da3052f2498e8f7506d",
+            "size": 357773,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T14:00:03.342Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1iiuo.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Tropic Fever",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:26:29.394Z",
+        "description": "Surviving the frontlines and wearing the scars to prove it, these new German uniforms tell stories of close calls and hard fought battles.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "2f3e1f50bfb94b97a85858721df6eefc",
+        "entitlementType": "EXECUTABLE",
+        "id": "2f3e1f50bfb94b97a85858721df6eefc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Battle Scarred Offer",
+            "height": 1440,
+            "md5": "cf3aca22cb270a3b1efa8a4cb0e9ad33",
+            "size": 382735,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-15T11:57:26.183Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-6iyab.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Battle Scarred Offer",
+            "height": 1600,
+            "md5": "981f93a91d2dca2e4765b6980915a0dd",
+            "size": 241219,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-15T11:57:26.370Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1acuz.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Battle Scarred",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:27:23.731Z",
+        "description": "Soviet Steel Bib Over Ameba Summer Uniform  for the following roles: Rifleman, Support, Medic, Sniper, Auto Rifleman, Heavy MG, Spotter, Assault, Engineer, Anti-Tank and Officer, *Helmet not included",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "a818c0d95f6c4577aa9555c045948513",
+        "entitlementType": "EXECUTABLE",
+        "id": "a818c0d95f6c4577aa9555c045948513",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Red Steel Offer",
+            "height": 1440,
+            "md5": "4d3b56c45e5876ed09b89ae60d99d595",
+            "size": 523473,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T12:03:38.195Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-9cluu.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Red Steel Offer",
+            "height": 1600,
+            "md5": "f82a2b2edc86a54af4a4425c83c19c58",
+            "size": 330075,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T12:03:38.052Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-18ssi.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Red Steel",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:24:40.769Z",
+        "description": "Enlist in one of the key units that made up the British forces in WW2. Famed for their maroon berets and actions during key objectives throughout the conflict including Operation Market Garden. Included the British Airborne for use in our in-game map Driel.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "54e0c309dc164eae9b7fd8d0e27b3616",
+        "entitlementType": "EXECUTABLE",
+        "id": "54e0c309dc164eae9b7fd8d0e27b3616",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Red Devils Offer",
+            "height": 1440,
+            "md5": "078b7717c541f204a3ab2da925d1e7bb",
+            "size": 342025,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-28T16:08:26.895Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-102fl.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Red Devils Offer",
+            "height": 1600,
+            "md5": "6772d99fbe4c6f7a0f399300f83e0315",
+            "size": 229986,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-28T16:08:26.729Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-17jxh.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Red Devils",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:23:03.657Z",
+        "description": "Immerse into the pivotal fight for Mortain with the \"Operation L\u00fcttich bundle\". This DLC covers both the US and German side of the battle that fought at Mortain.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "633989ead26146ea9f2b9561efd773ef",
+        "entitlementType": "EXECUTABLE",
+        "id": "633989ead26146ea9f2b9561efd773ef",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Operation L\u00fcttich Units Offer",
+            "height": 1440,
+            "md5": "3434b5fd77435c57c68389d1d25f7705",
+            "size": 669566,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-28T15:19:14.794Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-14b7v.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Operation L\u00fcttich Units Offer",
+            "height": 1600,
+            "md5": "53105751d3cb6520ed55730d15e65cf5",
+            "size": 356029,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-28T15:19:14.639Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-10zij.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Operation L\u00fcttich Units",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:26:14.928Z",
+        "description": "Worn at the beginning of WW2 during the bleak winter weather, the Jericho Cap worked to keep the Soviet soldiers warm so they could continue the fight.\n(Available to the Soviet Commander, Infantry, Armour and Recon units)",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "153b25ee8bff43558f054de7186e9a8a",
+        "entitlementType": "EXECUTABLE",
+        "id": "153b25ee8bff43558f054de7186e9a8a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Jericho Cap Offer",
+            "height": 1440,
+            "md5": "98a310c25ce747705e6654eb89a49b55",
+            "size": 400082,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T11:01:19.156Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1fa2d.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Jericho Cap Offer",
+            "height": 1600,
+            "md5": "a466b88314730515171a97f167c2bd3b",
+            "size": 259153,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T11:01:18.959Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-126nh.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Jericho Cap",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T11:13:19.910Z",
+        "description": "With Red Marshall you can take command of the front lines with this unique uniform for the Soviet Forces Commander role. Lead your troops onto the battlefield with the \"Soviet M35 Officer\" uniform.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "6cb7110460b54f52b09e3b6900f499fa",
+        "entitlementType": "EXECUTABLE",
+        "id": "6cb7110460b54f52b09e3b6900f499fa",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose \u2013 Red Marshall Offer",
+            "height": 1440,
+            "md5": "cc79a39fd00db4a127911239d037b988",
+            "size": 493234,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T11:53:36.407Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-qd6uj.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose \u2013 Red Marshall Offer",
+            "height": 1600,
+            "md5": "fe00c05092afa7735e2e34d3d3601c40",
+            "size": 313116,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T11:53:36.123Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1nbed.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose \u2013 Red Marshall",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:25:33.077Z",
+        "description": "Add a new dimension to the battlefield with the Luftwaffe Eagles DLC. As part of the German Luftwaffe forces, the Fallschirmj\u00e4ger were the first paratroopers to feature in large scale airborne based operations.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "f42dc8e9b4024b129e4feb6ddd8e3620",
+        "entitlementType": "EXECUTABLE",
+        "id": "f42dc8e9b4024b129e4feb6ddd8e3620",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Luftwaffe Eagles Offer",
+            "height": 1440,
+            "md5": "6a90ad1c0538d03e3c4198b606454ade",
+            "size": 405779,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-28T17:39:44.987Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1f1ky.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Luftwaffe Eagles Offer",
+            "height": 1600,
+            "md5": "1f082b3286d4217e47c745a41b6e207e",
+            "size": 279733,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-28T17:39:44.557Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1tdne.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Luftwaffe Eagles",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:25:07.755Z",
+        "description": "Blaze into glorious victory with the Red Skies DLC. Used by soldiers throughout the war, particularly in battles between January and February 1942, the Soviet Airborne uniform was worn by soldiers to help them fight in even the most adverse weather conditions.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "c53e9d6495944aa89764cf6979ce23c5",
+        "entitlementType": "EXECUTABLE",
+        "id": "c53e9d6495944aa89764cf6979ce23c5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Red Skies Offer",
+            "height": 1440,
+            "md5": "fd70a47b3d573dfbcc6807d080d1cfd2",
+            "size": 379440,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-28T16:32:47.743Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-e7npj.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Red Skies Offer",
+            "height": 1600,
+            "md5": "291af5b5726b1b9b1d55dc1290367144",
+            "size": 243830,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-28T16:32:48.124Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-6ip2y.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Red Skies",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T10:24:27.851Z",
+        "description": "The efforts and sacrifices of the 1st Polish Independent Parachute Brigade are unfortunately much overlooked or diminished in the recounting of Operation Market Garden. And so now you can enlist as the brave troops that fought at Driel.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "2d5b51827d554262aaeea8b23b883ff6",
+        "entitlementType": "EXECUTABLE",
+        "id": "2d5b51827d554262aaeea8b23b883ff6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Polish Parachute Brigade Offer",
+            "height": 1440,
+            "md5": "a5ecb21959356b6995dc5fc20f59e5a9",
+            "size": 434562,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-28T16:23:04.238Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-ox8z7.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Polish Parachute Brigade Offer",
+            "height": 1600,
+            "md5": "57cc702bcebc42aa0b51f7fd8043f8a6",
+            "size": 244712,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-28T16:23:04.084Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-125w2.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Polish Parachute Brigade",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-30T11:17:38.688Z",
+        "description": "Summer has arrived and with it a new uniform for the US Infantry, Uniform Pack includes: US M1943 Combat Uniform, Pack available for free for a limited time as a thank you to our community!",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "48d2030f0ab0477b92727af86c9f77d1",
+        "entitlementType": "EXECUTABLE",
+        "id": "48d2030f0ab0477b92727af86c9f77d1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Summer Warfare Pack Offer",
+            "height": 1440,
+            "md5": "b516314b0edbd021c177d9bd7eeb1160",
+            "size": 441078,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-29T14:45:11.605Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1asqb.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Summer Warfare Pack Offer",
+            "height": 1600,
+            "md5": "1abf1e04fcefb1075ae65e657eea94b1",
+            "size": 325506,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-29T14:45:11.328Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1prnj.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Summer Warfare Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-12-16T18:12:24.889Z",
+        "description": "Hell Let Loose - The Soviet Pack_SeasonPassAudience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "85866e8b8e2d41bb968dce4862f526a4",
+        "entitlementType": "AUDIENCE",
+        "id": "85866e8b8e2d41bb968dce4862f526a4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-04-02T10:00:24.275Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - The Soviet Pack_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-12-16T18:12:06.823Z",
+        "description": "Hell Let Loose - The German Pack_SeasonPassAudience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "ff3ac162b2ff4f17b9e987fba084cb1e",
+        "entitlementType": "AUDIENCE",
+        "id": "ff3ac162b2ff4f17b9e987fba084cb1e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-04-02T10:00:24.275Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - The German Pack_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-12-16T18:12:33.870Z",
+        "description": "Hell Let Loose - The U.S Pack_SeasonPassAudience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "5cb531e7e561473a93738b0e0e778f1e",
+        "entitlementType": "AUDIENCE",
+        "id": "5cb531e7e561473a93738b0e0e778f1e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-04-02T10:00:24.275Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - The U.S Pack_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-04-02T10:00:28.784Z",
+        "description": "Add the Long Range Desert Group, DLC to your collection and be a part of the British 8th Army in the Siege of Tobruk.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "f2f00bb7b03641a8aa0670c39a02bcee",
+        "entitlementType": "EXECUTABLE",
+        "id": "f2f00bb7b03641a8aa0670c39a02bcee",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Long Range Desert Group Offer",
+            "height": 1440,
+            "md5": "e5fe0a877fd7aa9575a94311000ca825",
+            "size": 689492,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-03-06T16:56:50.548Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-ckc49.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Long Range Desert Group Offer",
+            "height": 1600,
+            "md5": "1826533690640c5bb41379e577ea0e80",
+            "size": 448848,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-03-06T16:56:50.198Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-syshm.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.784Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Long Range Desert Group",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-04-02T10:00:28.769Z",
+        "description": "Add the Western Desert Campaign DLC to your collection and be a part of the Battle of Tobruk.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "1cb005fda0454d60a24b88e9ec1cd953",
+        "entitlementType": "EXECUTABLE",
+        "id": "1cb005fda0454d60a24b88e9ec1cd953",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Western Desert Campaign Units Offer",
+            "height": 1440,
+            "md5": "4adf019b7be752926e3ca2bb191cdb12",
+            "size": 857070,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-03-06T17:00:43.717Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-bgbrf.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Western Desert Campaign Units Offer",
+            "height": 1600,
+            "md5": "d8bef57720b93de1b6a4ddf96084920a",
+            "size": 2630400,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-03-06T17:00:44.252Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-v8hqj.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T10:00:28.769Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Western Desert Campaign Units",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "581c8d4fd9574884bff66cbdbaa42def",
+    "entitlementType": "EXECUTABLE",
+    "id": "581c8d4fd9574884bff66cbdbaa42def",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Hell Let Loose Offer",
+        "height": 1440,
+        "md5": "5de9c2eef65fab7fc1da590d5780d1eb",
+        "size": 691564,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-03-25T16:36:09.109Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-qdnk1.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Hell Let Loose Offer",
+        "height": 1600,
+        "md5": "2b99cabf50b06452f8bcd7d2d43e81ba",
+        "size": 451200,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-03-25T16:36:08.773Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-5vzcj.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-02T10:00:29.553Z",
+    "mainGameItemList": [],
+    "namespace": "6430e58041234e41b8f81f68f01450ed",
+    "releaseInfo": [
+      {
+        "appId": "3e02273b543f4ff0a1c24d3b534a9ac3",
+        "id": "a5cd460527ef4e6da02f13cccde42c28",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Hell Let Loose",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "57426c3470b2442e89876d6e0237c6de"
+    },
+    "rev": 1
+  }
+}

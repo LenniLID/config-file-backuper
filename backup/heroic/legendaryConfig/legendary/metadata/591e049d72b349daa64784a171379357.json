@@ -1,0 +1,360 @@
+{
+  "app_name": "591e049d72b349daa64784a171379357",
+  "app_title": "The Evil Within",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "591e049d72b349daa64784a171379357",
+      "asset_id": "591e049d72b349daa64784a171379357",
+      "build_version": "0.0.0.6",
+      "catalog_item_id": "a43e7276399947b8b7b38b29f4f75a7d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "ed795f02aa6d4fbda853a9a82356304d"
+      },
+      "namespace": "d602fd70876141ba9bf4d54809c423d1",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-03-07T21:35:28.698Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/TangoGameworks/The Evil Within (Epic)"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheEvilWithin"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "d602fd70876141ba9bf4d54809c423d1"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Evil Within",
+    "developer": "Bethesda Softworks LLC",
+    "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2023-03-07T22:16:11.932Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TEWTheAssignment"
+          }
+        },
+        "description": "The Evil Within: The Assignment",
+        "developer": "Bethesda Softworks LLC",
+        "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+        "endOfSupport": false,
+        "entitlementName": "6d7d182330db4c61991665c388423cc8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6d7d182330db4c61991665c388423cc8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "d951d742ff366431bf434ebb5fe7e653",
+            "size": 575004,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-07-31T20:22:42.714Z",
+            "url": "https://cdn1.epicgames.com/item/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithinTheAssignment_TangoGameworks_DLC_S2_1200x1600-d951d742ff366431bf434ebb5fe7e653_1200x1600-d951d742ff366431bf434ebb5fe7e653",
+            "width": 1200
+          },
+          {
+            "height": 1080,
+            "md5": "98884aa21c84d4add40adde0e7e00acd",
+            "size": 500602,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-07-31T20:22:44.830Z",
+            "url": "https://cdn1.epicgames.com/item/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithinTheAssignment_TangoGameworks_DLC_G1A_00_1920x1080-98884aa21c84d4add40adde0e7e00acd_1920x1080-98884aa21c84d4add40adde0e7e00acd",
+            "width": 1920
+          }
+        ],
+        "lastModifiedDate": "2023-08-28T14:21:54.230Z",
+        "mainGameItem": {
+          "id": "a43e7276399947b8b7b38b29f4f75a7d",
+          "namespace": "d602fd70876141ba9bf4d54809c423d1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a43e7276399947b8b7b38b29f4f75a7d",
+            "namespace": "d602fd70876141ba9bf4d54809c423d1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d602fd70876141ba9bf4d54809c423d1",
+        "releaseInfo": [
+          {
+            "appId": "1d3edc6596d247589628a783f673b16c",
+            "compatibleApps": [],
+            "id": "d82bd24a40954a06a50d41b01dd0997e",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Evil Within: The Assignment",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2023-03-07T22:18:12.972Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TEWTheConsequence"
+          }
+        },
+        "description": "The Evil Within: The Consequence",
+        "developer": "Bethesda Softworks LLC",
+        "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+        "endOfSupport": false,
+        "entitlementName": "40b050d4eb154c4fbac9b6a353a281e7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "40b050d4eb154c4fbac9b6a353a281e7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "53ab61f63e27383393ee0554c9e05f06",
+            "size": 667455,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-07-31T20:29:08.779Z",
+            "url": "https://cdn1.epicgames.com/item/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithinTheConsequence_TangoGameworks_DLC_S2_1200x1600-53ab61f63e27383393ee0554c9e05f06_1200x1600-53ab61f63e27383393ee0554c9e05f06",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "740c25df2a3c8e63184206b1e3fdc749",
+            "size": 529653,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-07-31T20:29:11.242Z",
+            "url": "https://cdn1.epicgames.com/item/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithinTheConsequence_TangoGameworks_DLC_S1_2560x1440-740c25df2a3c8e63184206b1e3fdc749_2560x1440-740c25df2a3c8e63184206b1e3fdc749",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2023-08-28T14:22:37.517Z",
+        "mainGameItem": {
+          "id": "a43e7276399947b8b7b38b29f4f75a7d",
+          "namespace": "d602fd70876141ba9bf4d54809c423d1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a43e7276399947b8b7b38b29f4f75a7d",
+            "namespace": "d602fd70876141ba9bf4d54809c423d1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d602fd70876141ba9bf4d54809c423d1",
+        "releaseInfo": [
+          {
+            "appId": "2dd0df3320d14d568a22088bba1e6fa3",
+            "compatibleApps": [],
+            "dateAdded": "2023-05-23T18:08:01.178Z",
+            "id": "940e6e45ab8142ef8abd7beaf884f5d9",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Evil Within: The Consequence",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2023-03-07T22:18:47.696Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TEWTheExecutioner"
+          }
+        },
+        "description": "The Evil Within: The Executioner",
+        "developer": "Bethesda Softworks LLC",
+        "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+        "endOfSupport": false,
+        "entitlementName": "cd540abe621a4e1d89d1f00bf20df910",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cd540abe621a4e1d89d1f00bf20df910",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "865f2435234971931bd9a8dfe51ad2e9",
+            "size": 445756,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-07-31T20:27:13.302Z",
+            "url": "https://cdn1.epicgames.com/item/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithinTheExecutioner_TangoGameworks_DLC_S2_1200x1600-865f2435234971931bd9a8dfe51ad2e9_1200x1600-865f2435234971931bd9a8dfe51ad2e9",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "5f78727e066e0b58792869ce28824a4e",
+            "size": 866768,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-07-31T20:27:19.999Z",
+            "url": "https://cdn1.epicgames.com/item/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithinTheExecutioner_TangoGameworks_DLC_S1_2560x1440-5f78727e066e0b58792869ce28824a4e_2560x1440-5f78727e066e0b58792869ce28824a4e",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2023-08-28T14:21:05.484Z",
+        "mainGameItem": {
+          "id": "a43e7276399947b8b7b38b29f4f75a7d",
+          "namespace": "d602fd70876141ba9bf4d54809c423d1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a43e7276399947b8b7b38b29f4f75a7d",
+            "namespace": "d602fd70876141ba9bf4d54809c423d1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d602fd70876141ba9bf4d54809c423d1",
+        "releaseInfo": [
+          {
+            "appId": "3389af351b82461ba5650a724bf6e185",
+            "compatibleApps": [],
+            "dateAdded": "2023-05-23T18:08:27.313Z",
+            "id": "e00d97948cd04099a17c2e6846d2dec6",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Evil Within: The Executioner",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "a43e7276399947b8b7b38b29f4f75a7d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && dishonored)"
+    ],
+    "id": "a43e7276399947b8b7b38b29f4f75a7d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "16b7f817d8803517fbecbf3f175ac997",
+        "size": 743232,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-07-26T09:44:34.920Z",
+        "url": "https://cdn1.epicgames.com/item/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithin_TangoGameworks_S1_2560x1440-16b7f817d8803517fbecbf3f175ac997",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "18ffb6d4859f8f05d21833f7b8f4a2c7",
+        "size": 781780,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-07-26T09:44:37.233Z",
+        "url": "https://cdn1.epicgames.com/item/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithin_TangoGameworks_S2_1200x1600-18ffb6d4859f8f05d21833f7b8f4a2c7",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-08-28T14:13:09.523Z",
+    "mainGameItemList": [],
+    "namespace": "d602fd70876141ba9bf4d54809c423d1",
+    "releaseInfo": [
+      {
+        "appId": "591e049d72b349daa64784a171379357",
+        "id": "0a684717d9ee4adfb1b5d92b28c69175",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Evil Within",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

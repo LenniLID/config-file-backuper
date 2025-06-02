@@ -1,0 +1,108 @@
+{
+  "app_name": "0a2d9f6403244d12969e11da6713137b",
+  "app_title": "Fall Guys",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "0a2d9f6403244d12969e11da6713137b",
+      "asset_id": "0a2d9f6403244d12969e11da6713137b",
+      "build_version": "EGS_10015",
+      "catalog_item_id": "38ec4849ea4f4de6aa7b6fb0f2d278e1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "50118b7f954e450f8823df1614b24e80",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45677JW4O6a40cxsOpscCLcr3Z3j",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-15T16:53:00.114Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipCabinedWarning": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FallGuys"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "50118b7f954e450f8823df1614b24e80"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Fall Guys",
+    "developer": "EGFG LLC",
+    "developerId": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
+    "endOfSupport": false,
+    "entitlementName": "38ec4849ea4f4de6aa7b6fb0f2d278e1",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "38ec4849ea4f4de6aa7b6fb0f2d278e1",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "89c8edd4ffe307f5d760f286a28c3404",
+        "size": 2079020,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-08-15T22:38:46.675Z",
+        "url": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImageLandscape_2560x1440_2560x1440-89c8edd4ffe307f5d760f286a28c3404",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "4bd46574e78464352e1f2c55714701f7",
+        "size": 1218066,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-08-15T22:38:50.415Z",
+        "url": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImagePortrait_1200x1600_1200x1600-4bd46574e78464352e1f2c55714701f7",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-08-16T11:00:23.968Z",
+    "mainGameItemList": [],
+    "namespace": "50118b7f954e450f8823df1614b24e80",
+    "releaseInfo": [
+      {
+        "appId": "0a2d9f6403244d12969e11da6713137b",
+        "id": "6cf30892422f400490f427b6c3511d2c",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Fall Guys",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,553 @@
+{
+  "app_name": "4aff63ad39cb4fe7a61720d59a4cebc6",
+  "app_title": "Dakar Desert Rally",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "4aff63ad39cb4fe7a61720d59a4cebc6",
+      "asset_id": "4aff63ad39cb4fe7a61720d59a4cebc6",
+      "build_version": "2.3.420",
+      "catalog_item_id": "fe90738ef51c4da39fb9efc8720b6a5a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "b913b292bfb34c45815298f912f25b2d"
+      },
+      "namespace": "ac98aa34584648f2b71152e509191c1c",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-12-10T23:53:20.663Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DakarDesertRally"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ac98aa34584648f2b71152e509191c1c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Dakar Desert Rally",
+    "developer": "Saber Interactive",
+    "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-09T20:33:01.495Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ontario Season Pass audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "0ed93cf6046c4974a47e6c1f17258557",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0ed93cf6046c4974a47e6c1f17258557",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-01-15T11:57:52.159Z",
+        "mainGameItem": {
+          "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+          "namespace": "ac98aa34584648f2b71152e509191c1c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+            "namespace": "ac98aa34584648f2b71152e509191c1c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ac98aa34584648f2b71152e509191c1c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ontario Season Pass audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-09T20:30:24.399Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ontario Legends Pack audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "b0182452940f46a48f57c23bac0e97aa",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b0182452940f46a48f57c23bac0e97aa",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-09-22T09:35:55.382Z",
+        "mainGameItem": {
+          "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+          "namespace": "ac98aa34584648f2b71152e509191c1c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+            "namespace": "ac98aa34584648f2b71152e509191c1c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ac98aa34584648f2b71152e509191c1c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ontario Legends Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-09T20:31:51.220Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ontario Saudi Arabia Extended Map audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "0057a0e50b5e4143afddd5c8ab58a739",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0057a0e50b5e4143afddd5c8ab58a739",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-15T21:23:53.264Z",
+        "mainGameItem": {
+          "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+          "namespace": "ac98aa34584648f2b71152e509191c1c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+            "namespace": "ac98aa34584648f2b71152e509191c1c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ac98aa34584648f2b71152e509191c1c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ontario Saudi Arabia Extended Map audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-09T20:26:26.788Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ontario Hybrid Car audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "7fea181d514b4a59b5c0f51e8a2eb045",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7fea181d514b4a59b5c0f51e8a2eb045",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-17T23:23:34.455Z",
+        "mainGameItem": {
+          "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+          "namespace": "ac98aa34584648f2b71152e509191c1c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+            "namespace": "ac98aa34584648f2b71152e509191c1c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ac98aa34584648f2b71152e509191c1c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ontario Hybrid Car audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-10-21T20:54:12.556Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ontario Classics Vehicle Pack01 audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "b3169eae2f404b179142e21f32e935d8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b3169eae2f404b179142e21f32e935d8",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-04-12T21:17:08.050Z",
+        "mainGameItem": {
+          "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+          "namespace": "ac98aa34584648f2b71152e509191c1c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+            "namespace": "ac98aa34584648f2b71152e509191c1c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ac98aa34584648f2b71152e509191c1c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ontario Classics Vehicle Pack01 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-10-20T15:59:50.091Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ontario Snow Runner Pack audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "f222ca6a64d24330acae88cc35c1ae14",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f222ca6a64d24330acae88cc35c1ae14",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-27T23:01:42.419Z",
+        "mainGameItem": {
+          "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+          "namespace": "ac98aa34584648f2b71152e509191c1c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+            "namespace": "ac98aa34584648f2b71152e509191c1c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ac98aa34584648f2b71152e509191c1c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ontario Snow Runner Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-17T15:20:52.202Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ontario Snow Runner Cars Pack audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "aed6dbf8b84d4dceb04db93c76188919",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "aed6dbf8b84d4dceb04db93c76188919",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-11-16T12:00:07.661Z",
+        "mainGameItem": {
+          "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+          "namespace": "ac98aa34584648f2b71152e509191c1c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+            "namespace": "ac98aa34584648f2b71152e509191c1c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ac98aa34584648f2b71152e509191c1c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ontario Snow Runner Cars Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-10-20T16:08:00.656Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ontario Hybrid Vehicle Pack audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "eb59c14480e744479ce27c294057c3d0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "eb59c14480e744479ce27c294057c3d0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-11-16T12:00:07.663Z",
+        "mainGameItem": {
+          "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+          "namespace": "ac98aa34584648f2b71152e509191c1c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+            "namespace": "ac98aa34584648f2b71152e509191c1c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ac98aa34584648f2b71152e509191c1c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ontario Hybrid Vehicle Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-10-20T16:01:37.302Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ontario Classics Vehicle Pack02 audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "ebcfef232d5845f1869f8912806d064a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ebcfef232d5845f1869f8912806d064a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-11-16T12:00:07.664Z",
+        "mainGameItem": {
+          "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+          "namespace": "ac98aa34584648f2b71152e509191c1c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+            "namespace": "ac98aa34584648f2b71152e509191c1c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ac98aa34584648f2b71152e509191c1c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ontario Classics Vehicle Pack02 audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "fe90738ef51c4da39fb9efc8720b6a5a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "ffccd2b231c717b9e1e7cd10049f84aa",
+        "size": 1021391,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-10-24T15:03:01.677Z",
+        "url": "https://cdn1.epicgames.com/item/ac98aa34584648f2b71152e509191c1c/dakarwide_2560x1440-ffccd2b231c717b9e1e7cd10049f84aa",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "9b39c1ea860c6ed7bd704bf8768563fa",
+        "size": 1006685,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-10-24T15:03:07.278Z",
+        "url": "https://cdn1.epicgames.com/item/ac98aa34584648f2b71152e509191c1c/dakartall_1200x1600-9b39c1ea860c6ed7bd704bf8768563fa",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-11-16T12:00:07.715Z",
+    "mainGameItemList": [],
+    "namespace": "ac98aa34584648f2b71152e509191c1c",
+    "releaseInfo": [
+      {
+        "appId": "4aff63ad39cb4fe7a61720d59a4cebc6",
+        "id": "a7fcca5a42b641b08f5396aaf17bb0bd",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Dakar Desert Rally",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

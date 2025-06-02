@@ -1,0 +1,120 @@
+{
+  "app_name": "8dac074a82a6492ba969bd38df266e58",
+  "app_title": "Orwell: Keeping an Eye on You",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8dac074a82a6492ba969bd38df266e58",
+      "asset_id": "8dac074a82a6492ba969bd38df266e58",
+      "build_version": "win1.4.9207",
+      "catalog_item_id": "e40af7696fe84488b314137f0f76b7e9",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "750dfadbde8445f980601e84434359c5",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-19T21:32:28.131Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.osg"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/Orwell/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "KeepingAnEyeOnYou"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "750dfadbde8445f980601e84434359c5"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Orwell: Keeping an Eye on You",
+    "developer": "Daedalic Entertainment",
+    "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+    "endOfSupport": false,
+    "entitlementName": "e40af7696fe84488b314137f0f76b7e9",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "e40af7696fe84488b314137f0f76b7e9",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "df26557fc7586916a5c1d172c44f2232",
+        "size": 950090,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-03-11T21:20:22.315Z",
+        "url": "https://cdn1.epicgames.com/item/750dfadbde8445f980601e84434359c5/EGS_OrwellKeepinganEyeonYou_OsmoticStudios_S1_2560x1440-df26557fc7586916a5c1d172c44f2232_2560x1440-df26557fc7586916a5c1d172c44f2232",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "4e40d306f86fd5991b39b1aa200b9f74",
+        "size": 954109,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-03-11T21:20:34.294Z",
+        "url": "https://cdn1.epicgames.com/item/750dfadbde8445f980601e84434359c5/EGS_OrwellKeepinganEyeonYou_OsmoticStudios_S2_1200x1600-4e40d306f86fd5991b39b1aa200b9f74_1200x1600-4e40d306f86fd5991b39b1aa200b9f74",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-14T19:58:03.587Z",
+    "mainGameItemList": [],
+    "namespace": "750dfadbde8445f980601e84434359c5",
+    "releaseInfo": [
+      {
+        "appId": "8dac074a82a6492ba969bd38df266e58",
+        "id": "7f97f58522b54ca186188a3f7be9e7bb",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Orwell: Keeping an Eye on You",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,302 @@
+{
+  "app_name": "85efb11aaeec4239989113f9a598b372",
+  "app_title": "Runbow",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "85efb11aaeec4239989113f9a598b372",
+      "asset_id": "85efb11aaeec4239989113f9a598b372",
+      "build_version": "Runbow_1.7",
+      "catalog_item_id": "7c288902f9ec455c8816a3111fc3a530",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9e895c583363455586651ed282a0f1a7"
+      },
+      "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45670Xa9xAdqZLaVkhV7bids7scb",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-09-21T21:14:45.745Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/13AM Games/Runbow/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Runbow"
+      }
+    },
+    "description": "Runbow",
+    "developer": "13AM Games",
+    "developerId": "o-pnuulzlud57lxukjrj4nzg3yz6tw7a",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-21T21:14:45.746Z",
+        "description": "Runbow - Satura's Space Adventure",
+        "developer": "13AM Games",
+        "developerId": "o-pnuulzlud57lxukjrj4nzg3yz6tw7a",
+        "endOfSupport": false,
+        "entitlementName": "966dfb19a063416ba8cea5c067812e07",
+        "entitlementType": "EXECUTABLE",
+        "id": "966dfb19a063416ba8cea5c067812e07",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Runbow Runbow - Satura's Space Adventure Offer",
+            "height": 1440,
+            "md5": "4bc63fdcf441dc2fe1950c240b50c2ef",
+            "size": 1004860,
+            "type": "OfferImageWide",
+            "uploadedDate": "2022-07-18T19:04:42.252Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/runbow-runbow--saturas-space-adventure-offer-so38h.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Runbow Runbow - Satura's Space Adventure Offer",
+            "height": 1600,
+            "md5": "da5df8f23436d1f0824b02586733b449",
+            "size": 330772,
+            "type": "OfferImageTall",
+            "uploadedDate": "2022-07-18T19:10:19.946Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/download-runbow-runbow--saturas-space-adventure-offer-yh6vk.png",
+            "width": 1200
+          },
+          {
+            "alt": "Runbow Runbow - Satura's Space Adventure Offer",
+            "height": 1440,
+            "md5": "4bc63fdcf441dc2fe1950c240b50c2ef",
+            "size": 1004860,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-07-18T19:04:48.485Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/runbow-runbow--saturas-space-adventure-offer-b2ypt.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Runbow Runbow - Satura's Space Adventure Offer",
+            "height": 1600,
+            "md5": "da5df8f23436d1f0824b02586733b449",
+            "size": 330772,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-07-18T19:10:22.747Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/download-runbow-runbow--saturas-space-adventure-offer-12u40.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-09-21T21:14:45.746Z",
+        "mainGameItem": {
+          "id": "7c288902f9ec455c8816a3111fc3a530",
+          "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7c288902f9ec455c8816a3111fc3a530",
+            "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Runbow - Satura's Space Adventure",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-21T21:14:45.749Z",
+        "description": "Runbow - Costumes and Music Pack",
+        "developer": "13AM Games",
+        "developerId": "o-pnuulzlud57lxukjrj4nzg3yz6tw7a",
+        "endOfSupport": false,
+        "entitlementName": "4c0591c04e31467c9d27f9f632d88922",
+        "entitlementType": "EXECUTABLE",
+        "id": "4c0591c04e31467c9d27f9f632d88922",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Runbow Runbow - Costumes and Music Pack Offer",
+            "height": 1440,
+            "md5": "c589be618d7f01a94980728edac06b55",
+            "size": 785113,
+            "type": "OfferImageWide",
+            "uploadedDate": "2022-07-18T19:20:26.322Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/runbow-runbow--costumes-and-music-pack-offer-cvi5g.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Runbow Runbow - Costumes and Music Pack Offer",
+            "height": 1600,
+            "md5": "a0dce58d0a06f65ea060f01111423c9b",
+            "size": 458218,
+            "type": "OfferImageTall",
+            "uploadedDate": "2022-07-18T19:20:53.309Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/download-runbow-runbow--costumes-and-music-pack-offer-1hpmq.png",
+            "width": 1200
+          },
+          {
+            "alt": "Runbow Runbow - Costumes and Music Pack Offer",
+            "height": 1440,
+            "md5": "c589be618d7f01a94980728edac06b55",
+            "size": 785113,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-07-18T19:20:31.846Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/runbow-runbow--costumes-and-music-pack-offer-raho4.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Runbow Runbow - Costumes and Music Pack Offer",
+            "height": 1600,
+            "md5": "a0dce58d0a06f65ea060f01111423c9b",
+            "size": 458218,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-07-18T19:20:55.258Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/download-runbow-runbow--costumes-and-music-pack-offer-786wv.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-09-21T21:14:45.749Z",
+        "mainGameItem": {
+          "id": "7c288902f9ec455c8816a3111fc3a530",
+          "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7c288902f9ec455c8816a3111fc3a530",
+            "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Runbow - Costumes and Music Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-09-21T21:14:45.751Z",
+        "description": "DevSeasonPassAudience",
+        "developer": "13AM Games",
+        "developerId": "o-pnuulzlud57lxukjrj4nzg3yz6tw7a",
+        "endOfSupport": false,
+        "entitlementName": "d066723ca9464337b10c48aa0f02b646",
+        "entitlementType": "AUDIENCE",
+        "id": "d066723ca9464337b10c48aa0f02b646",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-09-21T21:14:45.751Z",
+        "mainGameItem": {
+          "id": "7c288902f9ec455c8816a3111fc3a530",
+          "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7c288902f9ec455c8816a3111fc3a530",
+            "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DevSeasonPassAudience",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "7c288902f9ec455c8816a3111fc3a530",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "7c288902f9ec455c8816a3111fc3a530",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Runbow Offer",
+        "height": 1440,
+        "md5": "198dbb5cdb505eb19f83a07112c686cc",
+        "size": 919852,
+        "type": "OfferImageWide",
+        "uploadedDate": "2022-07-19T14:15:17.455Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/runbow-offer-v8wvy.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Runbow Offer",
+        "height": 1600,
+        "md5": "db7212a4e623e49023d74dbdb0f347e2",
+        "size": 427766,
+        "type": "OfferImageTall",
+        "uploadedDate": "2022-07-19T14:15:36.118Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/download-runbow-offer-6amjn.png",
+        "width": 1200
+      },
+      {
+        "alt": "Runbow Offer",
+        "height": 1440,
+        "md5": "198dbb5cdb505eb19f83a07112c686cc",
+        "size": 919852,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-07-19T14:15:38.899Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/runbow-offer-gkfcs.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Runbow Offer",
+        "height": 1600,
+        "md5": "db7212a4e623e49023d74dbdb0f347e2",
+        "size": 427766,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-07-19T14:15:40.479Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/download-runbow-offer-16zfz.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-10-03T22:37:35.125Z",
+    "mainGameItemList": [],
+    "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861",
+    "releaseInfo": [
+      {
+        "appId": "85efb11aaeec4239989113f9a598b372",
+        "id": "7e80425bc21d4169be9768588eb12cd7",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Runbow",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

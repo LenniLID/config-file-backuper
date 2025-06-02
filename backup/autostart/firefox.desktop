@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=firefox
+Comment=Launches firefox
+Exec=firefox
+Terminal=false
+Icon=/path/to/your/icon.png
+Categories=Utility;

@@ -1,0 +1,551 @@
+{
+  "app_name": "63a665088eb1480298f1e57943b225d8",
+  "app_title": "Marvel's Guardians of the Galaxy",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "63a665088eb1480298f1e57943b225d8",
+      "asset_id": "63a665088eb1480298f1e57943b225d8",
+      "build_version": "2984448",
+      "catalog_item_id": "88f4bb0bb06e4962a2042d5e20fb6ace",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2e3b648be6ef4de58f764e9cdc9d94dd"
+      },
+      "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567OuSuN6qHqn77Z6PYr6ryIFaj",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-04-15T14:43:42.345Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Epic/Eidos Montreal/Marvel's Guardians of the Galaxy/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MarvelGOTG"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2a09fb19b47f46dfb11ebd382f132a8f"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Marvel's Guardians of the Galaxy",
+    "developer": "Eidos Interactive Corporation",
+    "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567OuSuN6qHqn77Z6PYr6ryIFaj",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-05-26T23:04:41.304Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "MGOTGDeluxeDLC"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "2a09fb19b47f46dfb11ebd382f132a8f"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Deluxe Upgrade DLC -  Sun Lord and City Lord Outfits",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "272c3b6f746c474d8934d283e545b2ca",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "272c3b6f746c474d8934d283e545b2ca",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "6aecbc6825954678a5a4f3b625988b19",
+            "size": 927141,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-20T22:11:11.016Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxy_EidosMontral_S3_2560x1440-6aecbc6825954678a5a4f3b625988b19",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "e23ece8de71ce73377620a5a83f72ef2",
+            "size": 657126,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-20T22:11:04.952Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxy_EidosMontral_S6_1200x1600-e23ece8de71ce73377620a5a83f72ef2",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-08-30T14:52:57.465Z",
+        "mainGameItem": {
+          "id": "88f4bb0bb06e4962a2042d5e20fb6ace",
+          "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "88f4bb0bb06e4962a2042d5e20fb6ace",
+            "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+        "releaseInfo": [
+          {
+            "appId": "77bc62b6661644b99b06666f9aff6e9e",
+            "id": "5ed485ea09d14fb8a4cd43ba95f6ad8c",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deluxe Upgrade DLC -  Sun Lord and City Lord Outfits",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567OuSuN6qHqn77Z6PYr6ryIFaj",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-10-04T19:27:46.909Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "MGOTGSleekLordOutfit"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "2a09fb19b47f46dfb11ebd382f132a8f"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Marvel's Guardians of the Galaxy: Sleek-Lord Outfit",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "0fd3ead949d74c599956f0b58fe2d813",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0fd3ead949d74c599956f0b58fe2d813",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "71ccf0fe41e6ccbd0e87a11f019c60c9",
+            "size": 356125,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-05T17:08:26.650Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/MAPLE_SL_DLC_Offer_Landscape_2560x1440 2_2560x1440-71ccf0fe41e6ccbd0e87a11f019c60c9",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "e6cd0cbcc679ee17b83889f9b6b062ca",
+            "size": 212518,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-05T17:08:32.350Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/MAPLE_SL_DLC_Offer_Portrait_1200x1600_1200x1600-e6cd0cbcc679ee17b83889f9b6b062ca",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-08-30T14:52:56.747Z",
+        "mainGameItem": {
+          "id": "88f4bb0bb06e4962a2042d5e20fb6ace",
+          "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "88f4bb0bb06e4962a2042d5e20fb6ace",
+            "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+        "releaseInfo": [
+          {
+            "appId": "0192ecf4e308424b84adab0296b56a36",
+            "compatibleApps": [],
+            "dateAdded": "2021-10-04T19:27:40.026Z",
+            "id": "ab25b73c98b04aa7b869f59d7fce15b5",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Marvel's Guardians of the Galaxy: Sleek-Lord Outfit",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567OuSuN6qHqn77Z6PYr6ryIFaj",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-05-26T22:51:29.326Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "MGOTGPrePurchase"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "2a09fb19b47f46dfb11ebd382f132a8f"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Marvel's Guardians of the Galaxy: Throwback Guardians Outfit Pack",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "60bd6af2c94d40dba3a07dd483370833",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "60bd6af2c94d40dba3a07dd483370833",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "b2e41d6a04fa28d5c6739dc00832efc3",
+            "size": 898004,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-04T21:12:26.996Z",
+            "url": "https://cdn1.epicgames.com/item/2a09fb19b47f46dfb11ebd382f132a8f/MAPLE_Throwback_DLC_Product_Landscape_2560x1440_KM02_2560x1440-b2e41d6a04fa28d5c6739dc00832efc3",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "d4956915a8df8b8edbe3e9510360b816",
+            "size": 484639,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-04T21:12:31.759Z",
+            "url": "https://cdn1.epicgames.com/item/2a09fb19b47f46dfb11ebd382f132a8f/MAPLE_Throwback_DLC_Product_Portrait_1200x1600_KM02_1200x1600-d4956915a8df8b8edbe3e9510360b816",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-08-30T14:52:59.943Z",
+        "longDescription": "Pre-Purchase",
+        "mainGameItem": {
+          "id": "88f4bb0bb06e4962a2042d5e20fb6ace",
+          "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "88f4bb0bb06e4962a2042d5e20fb6ace",
+            "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+        "releaseInfo": [
+          {
+            "appId": "0a2d6c79909c4216a614ad2e362d4a1c",
+            "id": "8a836a960ee1423ab79808a58a4dd2b6",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Marvel's Guardians of the Galaxy: Throwback Guardians Outfit Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567OuSuN6qHqn77Z6PYr6ryIFaj",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-17T19:00:10.606Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "MGOTGStarlord"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "2a09fb19b47f46dfb11ebd382f132a8f"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Marvel's Guardians of the Galaxy: Social-Lord Outfit",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "b2666e211d334d15a0c29188d0abb6c8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b2666e211d334d15a0c29188d0abb6c8",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "6aecbc6825954678a5a4f3b625988b19",
+            "size": 927141,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-20T22:21:45.864Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxy_EidosMontral_S3_2560x1440-6aecbc6825954678a5a4f3b625988b19",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "e23ece8de71ce73377620a5a83f72ef2",
+            "size": 657126,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-20T22:21:39.124Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxy_EidosMontral_S6_1200x1600-e23ece8de71ce73377620a5a83f72ef2",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-08-30T14:52:59.438Z",
+        "mainGameItem": {
+          "id": "88f4bb0bb06e4962a2042d5e20fb6ace",
+          "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "88f4bb0bb06e4962a2042d5e20fb6ace",
+            "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+        "releaseInfo": [
+          {
+            "appId": "9596620d263b40c083ddf1f0c662c8ff",
+            "id": "958469770a844b5bb9a1c2e2d0aabee3",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Marvel's Guardians of the Galaxy: Social-Lord Outfit",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "88f4bb0bb06e4962a2042d5e20fb6ace",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "88f4bb0bb06e4962a2042d5e20fb6ace",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "6aecbc6825954678a5a4f3b625988b19",
+        "size": 927141,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-10-01T22:53:36.227Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxyWide_2560x1440-6aecbc6825954678a5a4f3b625988b19",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "46bb438971863acc3b706e00b0f05a86",
+        "size": 657116,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-10-01T22:54:37.034Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxyTall_1200x1600-46bb438971863acc3b706e00b0f05a86",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-08-30T14:53:05.031Z",
+    "mainGameItemList": [],
+    "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+    "releaseInfo": [
+      {
+        "appId": "63a665088eb1480298f1e57943b225d8",
+        "id": "3a19a11b60144a85aa6d12aeca3e0684",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Marvel's Guardians of the Galaxy",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

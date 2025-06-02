@@ -1,0 +1,2414 @@
+{
+  "app_name": "592c359fb0e0413fb46dee2d24448eb4",
+  "app_title": "Destiny 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "592c359fb0e0413fb46dee2d24448eb4",
+      "asset_id": "592c359fb0e0413fb46dee2d24448eb4",
+      "build_version": "10170608",
+      "catalog_item_id": "06bd477f9fbe4259a1421fb3f559aa46",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567sgCbjmf8tW6NQHM0TalWIqRv",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-11-12T23:12:54.718Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Destiny2"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "428115def4ca4deea9d69c99c5a5a99e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Destiny 2",
+    "developer": "Bungie",
+    "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-17T20:07:24.740Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC6 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "efb2fddb807e41e399d752344d16abb1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "efb2fddb807e41e399d752344d16abb1",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-23T16:37:16.775Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow DLC6 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T23:33:47.023Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow VC1100 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "0184a222b408471f8409b90422c096ea",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0184a222b408471f8409b90422c096ea",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-06-19T08:19:46.674Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow VC1100 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T23:18:34.166Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC5 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "caaf69c9ac894be7a2ff979fdbeb686b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "caaf69c9ac894be7a2ff979fdbeb686b",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-10-15T17:46:30.493Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow DLC5 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-17T21:03:07.334Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC10 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "f78833171f9043bb8b090ee7677438f0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f78833171f9043bb8b090ee7677438f0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-21T06:15:33.542Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lightfall Premium Pack DLC10 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T23:34:31.638Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow VC2300 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "df656523aae04c9d81c349daff764f28",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "df656523aae04c9d81c349daff764f28",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-06-19T08:19:46.676Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow VC2300 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T23:32:44.403Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow VC500 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "4b06cd0493e54bd59f70a48cc8dc3f16",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4b06cd0493e54bd59f70a48cc8dc3f16",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-06-19T08:19:46.674Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "500 Destiny 2 Silver audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-17T20:48:39.839Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC8 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "e0dfdb9d282e49879ac797798d38eb98",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e0dfdb9d282e49879ac797798d38eb98",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-28T00:48:17.836Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lightfall Pre-Order Pack (DLC8) audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-17T21:40:31.924Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow BDL1 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "41d4aff377394f0cab92a1880ab3c48d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "41d4aff377394f0cab92a1880ab3c48d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-20T08:35:26.188Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow BDL1 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T23:17:21.624Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC4 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "904b57fb8bcd41a6be6c690a92ab3c15",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "904b57fb8bcd41a6be6c690a92ab3c15",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-08-30T18:40:46.574Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "30th anniv pack DLC4 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T23:35:24.570Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow VC3500 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "e9a805b900c247a896b9cb06354ab080",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e9a805b900c247a896b9cb06354ab080",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-06-19T08:19:46.677Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow VC3500 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-17T22:19:55.514Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow BDL5 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "1953fbb1d2b34ecabc7ae7572e3ab1fc",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1953fbb1d2b34ecabc7ae7572e3ab1fc",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-23T16:36:25.400Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow BDL5 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T23:36:05.168Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow VC6000 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "d01727bf56134bc0b35b1a32770beb36",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d01727bf56134bc0b35b1a32770beb36",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-06-19T08:19:46.675Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow VC6000 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-17T21:29:47.241Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC13 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "f2f748fe8c8346bdb8387c2b6ff26df6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f2f748fe8c8346bdb8387c2b6ff26df6",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-23T16:37:16.779Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow DLC13 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-17T20:58:03.703Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC9 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "dd8e44a75c314affa46a02249ddbd3c2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dd8e44a75c314affa46a02249ddbd3c2",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-21T06:15:33.525Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lightfall Annual Pass Upgrade DLC9 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-18T14:46:49.662Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow BDL6 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "332b32bf0c384c60b8547004c6a44e02",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "332b32bf0c384c60b8547004c6a44e02",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-21T06:15:33.478Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lightfall + Annual Pass Pre-Order Bundle (BDL6) audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T23:07:24.772Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC2 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "02dd82ec36de40fa93b1cec867ab145e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "02dd82ec36de40fa93b1cec867ab145e",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-08-30T18:46:16.195Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow DLC2 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-17T21:48:19.441Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow BDL2 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "a3fa63fe54514d9da87b5d6f65f92cd5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a3fa63fe54514d9da87b5d6f65f92cd5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-06T14:27:18.721Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Witch Queen Deluxe Edition (BDL2) audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-17T21:56:52.535Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow BDL3 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "531551a767f94f99b0d87f82a99e8825",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "531551a767f94f99b0d87f82a99e8825",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-23T16:36:25.466Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "SUNSET",
+        "title": "mellowyellow BDL3 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T22:35:26.062Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC1 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "342aa594551449d399534eb5efdf01c2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "342aa594551449d399534eb5efdf01c2",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-08-30T18:46:43.463Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow DLC1 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T23:12:36.332Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC3 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "69473d0e36eb44b9847b603114f4ae9d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "69473d0e36eb44b9847b603114f4ae9d",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-08-30T18:45:38.170Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow DLC3 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-17T21:10:38.421Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC11 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "218f9fb197374ce7a695d3f355fa9ce3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "218f9fb197374ce7a695d3f355fa9ce3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-21T06:15:33.472Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lightfall Exotic Weapon DLC11 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-18T15:37:08.380Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow BDL8 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "0349ad07f60546a390d5ffa30c3d18c9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0349ad07f60546a390d5ffa30c3d18c9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-21T06:15:33.466Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lightfall and Annual Pass Bundle BDL8 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-18T15:27:50.136Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow BDL7 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "ade5c4716ce3480598bdaec4d53b3746",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ade5c4716ce3480598bdaec4d53b3746",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-23T16:36:25.509Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "SUNSET",
+        "title": "mellowyellow BDL7 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-17T20:21:32.196Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC7 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "47c29e309bd34137b3ddeb7786793338",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "47c29e309bd34137b3ddeb7786793338",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-10-15T17:46:30.492Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lightfall (DLC7) audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-17T21:24:07.535Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC12 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "1ea7c816f2e44a999aaf2b2c92b0e87c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1ea7c816f2e44a999aaf2b2c92b0e87c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-28T00:48:17.800Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lightfall Exotic Emote DLC12 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-09T21:31:36.849Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Echoes Silver Bundle audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "90346fbd53414d369fa53c767a7d1f98",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "90346fbd53414d369fa53c767a7d1f98",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-10-08T16:59:58.150Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Echoes Silver Bundle audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-09T21:25:28.754Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC16 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "421843dfd45a439cae8d077a3f40edde",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "421843dfd45a439cae8d077a3f40edde",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-08-22T16:57:14.893Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow DLC16 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-09T21:25:54.638Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Armory Collection Bundle audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "2db224e7e0a842f48aed22db836785d5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2db224e7e0a842f48aed22db836785d5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-06-04T17:00:03.434Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Armory Collection Bundle audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-09T21:25:40.784Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC17 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "842d145598ca42209afc02e6f98c5085",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "842d145598ca42209afc02e6f98c5085",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-11-28T17:57:02.380Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow DLC17 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-09T21:26:09.855Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow BDL9 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "a14d6cafc26747208d9be7800e7098d6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a14d6cafc26747208d9be7800e7098d6",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-21T06:15:33.509Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow BDL9 audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-16T22:24:25.692Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Destiny 2: Lightfall + Annual Pass Bundle - Early Supporter",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "099c3e61968b49759f07e8c9cb56e465",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "099c3e61968b49759f07e8c9cb56e465",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-28T00:48:17.795Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Destiny 2: Lightfall + Annual Pass Bundle - Early Supporter",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-16T22:26:07.587Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Destiny 2: Lightfall - Early Supporter",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "9c156b12d4bb44969fa3e45fb8e4696f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9c156b12d4bb44969fa3e45fb8e4696f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-28T00:48:17.823Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Destiny 2: Lightfall - Early Supporter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-16T22:24:25.606Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Destiny 2: Lightfall + Annual Pass Bundle - Early Supporter audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "c1215dcf4f4747e2a115aa76d99c1d85",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c1215dcf4f4747e2a115aa76d99c1d85",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-21T06:15:33.514Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Destiny 2: Lightfall + Annual Pass Bundle - Early Supporter audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-16T22:26:07.497Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Destiny 2: Lightfall - Early Supporter audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "3991b040e1c543aa8f35ea53bab914a8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3991b040e1c543aa8f35ea53bab914a8",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-21T06:15:33.483Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Destiny 2: Lightfall - Early Supporter audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-01T00:32:29.179Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow BDL18 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "68eabeed0ca7468a9743edb016c8d78d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "68eabeed0ca7468a9743edb016c8d78d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-20T08:35:26.213Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow BDL18 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T15:07:53.602Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "TFS+AP Upgrade Early Supporter audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "b864c06c8fe140cd899ec888971fcba4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b864c06c8fe140cd899ec888971fcba4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-06-04T17:00:03.444Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "TFS+AP Upgrade Early Supporter audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-02-21T12:05:42.503Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "mellowyellow BDL19",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "0a0b997c1c6f4cc1b589b7c80f5afe00",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0a0b997c1c6f4cc1b589b7c80f5afe00",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-02-21T12:14:26.638Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow BDL19",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-02T12:40:56.491Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "mellowyellow DLC27",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "acb4b4ef91684ca59b612ef9f35bbb8f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "acb4b4ef91684ca59b612ef9f35bbb8f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-02T12:40:56.491Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow DLC27",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-02T12:41:13.658Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "mellowyellow DLC28",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "7e8a77bafdf74748bcdb13983d0db827",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7e8a77bafdf74748bcdb13983d0db827",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-02-04T16:27:20.756Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow DLC28",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-02T12:41:32.481Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "mellowyellow DLC29",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "a8c6c99bafb642b28d0bc015f5559cbc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a8c6c99bafb642b28d0bc015f5559cbc",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-02T12:41:32.481Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow DLC29",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-02T12:41:45.396Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "mellowyellow DLC30",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "01a093cebd27432d8dd139fcf28e7403",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "01a093cebd27432d8dd139fcf28e7403",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-02T12:41:45.396Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow DLC30",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-02-21T12:05:42.423Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow BDL19 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "63392a2dfe5c468c826022b485ed0abd",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "63392a2dfe5c468c826022b485ed0abd",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-06-07T07:41:04.733Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow BDL19 audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-08-27T11:15:51.738Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "mellowyellow BDL20",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "d471a9455b554003b63872cbb755720d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d471a9455b554003b63872cbb755720d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-08-27T11:15:51.738Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow BDL20",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-05-02T12:40:56.415Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mellowyellow DLC27 audience",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "1d15534dad234f04a7737d6fa217500b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1d15534dad234f04a7737d6fa217500b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-10-08T17:03:52.351Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow DLC27 audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-02-27T09:04:13.978Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "mellowyellow BDL38",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "e8f4692177de41b5a5f57803655bfba6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e8f4692177de41b5a5f57803655bfba6",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-02-27T09:04:13.978Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow BDL38",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-02-27T09:04:32.105Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "mellowyellow BDL36",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "219fba60fec149208829188aca1b5dc6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "219fba60fec149208829188aca1b5dc6",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-02-27T09:04:32.105Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow BDL36",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-02-27T09:04:44.543Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "mellowyellow BDL35",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "6ada38e27b7947e9a83f64ef46fc1e3f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6ada38e27b7947e9a83f64ef46fc1e3f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-02-27T09:04:44.543Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow BDL35",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-02-27T09:04:52.184Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "mellowyellow BDL37",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "f89f5a83994141a2948dedc1e6410c27",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f89f5a83994141a2948dedc1e6410c27",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-02-27T09:04:52.184Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06bd477f9fbe4259a1421fb3f559aa46",
+            "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow BDL37",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "06bd477f9fbe4259a1421fb3f559aa46",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "06bd477f9fbe4259a1421fb3f559aa46",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "8727d5a503bbc30d0d822790a269dc75",
+        "size": 731787,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-02-04T23:41:53.606Z",
+        "url": "https://cdn1.epicgames.com/item/428115def4ca4deea9d69c99c5a5a99e/EN_Bungie_D2_S26_OfferLandscape_S1_2560x1440_2560x1440-8727d5a503bbc30d0d822790a269dc75",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "e028bac34f94e8d86a27bdc12a381c5e",
+        "size": 522263,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-02-05T00:00:06.641Z",
+        "url": "https://cdn1.epicgames.com/item/428115def4ca4deea9d69c99c5a5a99e/EN_Bungie_D2_S26_OfferPortrait_S2_1200x16001_1200x1600-e028bac34f94e8d86a27bdc12a381c5e",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-27T09:04:52.194Z",
+    "mainGameItemList": [],
+    "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+    "releaseInfo": [
+      {
+        "appId": "592c359fb0e0413fb46dee2d24448eb4",
+        "id": "856b3b4212494f3db3a38be77b8cb902",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Destiny 2",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

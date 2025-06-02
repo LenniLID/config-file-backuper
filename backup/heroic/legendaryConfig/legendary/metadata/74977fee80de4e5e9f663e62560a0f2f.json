@@ -1,0 +1,108 @@
+{
+  "app_name": "74977fee80de4e5e9f663e62560a0f2f",
+  "app_title": "The Evil Within 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "74977fee80de4e5e9f663e62560a0f2f",
+      "asset_id": "74977fee80de4e5e9f663e62560a0f2f",
+      "build_version": "0.0.0.5",
+      "catalog_item_id": "2d77a2b3303349bca51291fcf0e29cd2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5891aa5c4c6f4aabbf555a679e02cfb9",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567eUNBDSA7jntrYbmmE2TIvZ0V",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-03-08T00:34:28.791Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/TangoGameworks/The Evil Within 2 (Epic)"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheEvilWithin2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "5891aa5c4c6f4aabbf555a679e02cfb9"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Evil Within 2",
+    "developer": "Bethesda Softworks LLC",
+    "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+    "endOfSupport": false,
+    "entitlementName": "2d77a2b3303349bca51291fcf0e29cd2",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && dishonored)"
+    ],
+    "id": "2d77a2b3303349bca51291fcf0e29cd2",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "c87f377e1990d84a98db5fb4836af9a9",
+        "size": 834289,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-07-26T10:54:52.139Z",
+        "url": "https://cdn1.epicgames.com/item/5891aa5c4c6f4aabbf555a679e02cfb9/EGS_TheEvilWithin2_TangoGameworks_S1_2560x1440-c87f377e1990d84a98db5fb4836af9a9",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "17d620c62723c63398e8d040eb04af7b",
+        "size": 446466,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-07-26T10:54:55.278Z",
+        "url": "https://cdn1.epicgames.com/item/5891aa5c4c6f4aabbf555a679e02cfb9/EGS_TheEvilWithin2_TangoGameworks_S2_1200x1600-17d620c62723c63398e8d040eb04af7b",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-10-23T19:01:57.022Z",
+    "mainGameItemList": [],
+    "namespace": "5891aa5c4c6f4aabbf555a679e02cfb9",
+    "releaseInfo": [
+      {
+        "appId": "74977fee80de4e5e9f663e62560a0f2f",
+        "id": "c4d34613695d4703ab2db252811294ea",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Evil Within 2",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

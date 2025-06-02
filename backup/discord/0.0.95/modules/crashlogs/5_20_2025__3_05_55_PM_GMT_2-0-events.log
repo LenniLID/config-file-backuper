@@ -1,0 +1,1206 @@
+5/20/2025, 3:05:55 PM GMT+2 0: 
+
+----------------------------------------------
+5/20/2025, 3:05:55 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/20/2025, 3:05:55 PM GMT+2 2: ✅ webContents.created web1 ""
+5/20/2025, 3:05:55 PM GMT+2 3: ✅ window.created win1 "discord"
+5/20/2025, 3:05:56 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/20/2025, 3:05:59 PM GMT+2 5: ✅ webContents.created web2 ""
+5/20/2025, 3:06:00 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/20/2025, 3:06:00 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/20/2025, 3:06:00 PM GMT+2 8: window.close win1
+5/20/2025, 3:06:00 PM GMT+2 9: webContents.destroyed web1
+5/20/2025, 3:06:00 PM GMT+2 10: window.closed win1
+5/20/2025, 3:09:38 PM GMT+2 0: 
+
+----------------------------------------------
+5/20/2025, 3:09:39 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/20/2025, 3:09:39 PM GMT+2 2: ✅ webContents.created web1 "index.html"
+5/20/2025, 3:09:39 PM GMT+2 3: ✅ window.created win1 "discord"
+5/20/2025, 3:09:39 PM GMT+2 4: ✅ webContents.created web2 ""
+5/20/2025, 3:09:39 PM GMT+2 5: ✅ window.created win2 "Discord"
+5/20/2025, 3:09:40 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/20/2025, 3:09:40 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/20/2025, 3:09:40 PM GMT+2 8: window.close win1
+5/20/2025, 3:09:40 PM GMT+2 9: webContents.destroyed web1
+5/20/2025, 3:09:40 PM GMT+2 10: window.closed win1
+5/20/2025, 3:10:31 PM GMT+2 11: ❌ webContents.nresponsive web2
+5/20/2025, 3:14:20 PM GMT+2 12: before-quit
+5/20/2025, 3:14:20 PM GMT+2 13: window.close win2
+5/20/2025, 3:14:20 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/20/2025, 3:14:20 PM GMT+2 15: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/20/2025, 3:15:05 PM GMT+2 0: 
+
+----------------------------------------------
+5/20/2025, 3:15:05 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/20/2025, 3:15:05 PM GMT+2 2: ✅ webContents.created web1 ""
+5/20/2025, 3:15:05 PM GMT+2 3: ✅ window.created win1 "discord"
+5/20/2025, 3:15:06 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/20/2025, 3:15:06 PM GMT+2 5: ✅ webContents.created web2 ""
+5/20/2025, 3:15:06 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/20/2025, 3:15:07 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/20/2025, 3:15:07 PM GMT+2 8: window.close win1
+5/20/2025, 3:15:07 PM GMT+2 9: webContents.destroyed web1
+5/20/2025, 3:15:07 PM GMT+2 10: window.closed win1
+5/20/2025, 6:46:53 PM GMT+2 0: 
+
+----------------------------------------------
+5/20/2025, 6:46:53 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/20/2025, 6:46:53 PM GMT+2 2: ✅ webContents.created web1 ""
+5/20/2025, 6:46:53 PM GMT+2 3: ✅ window.created win1 "discord"
+5/20/2025, 6:46:54 PM GMT+2 4: ✅ webContents.created web2 ""
+5/20/2025, 6:46:54 PM GMT+2 5: ✅ window.created win2 "Discord"
+5/20/2025, 6:46:54 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/20/2025, 6:46:55 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/20/2025, 6:46:55 PM GMT+2 8: window.close win1
+5/20/2025, 6:46:55 PM GMT+2 9: webContents.destroyed web1
+5/20/2025, 6:46:55 PM GMT+2 10: window.closed win1
+5/20/2025, 6:47:26 PM GMT+2 11: ❌ webContents.nresponsive web2
+5/20/2025, 7:04:36 PM GMT+2 12: before-quit
+5/20/2025, 7:04:36 PM GMT+2 13: window.close win2
+5/20/2025, 7:04:36 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/20/2025, 7:04:36 PM GMT+2 15: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/20/2025, 7:05:01 PM GMT+2 0: 
+
+----------------------------------------------
+5/20/2025, 7:05:01 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/20/2025, 7:05:01 PM GMT+2 2: ✅ webContents.created web1 ""
+5/20/2025, 7:05:01 PM GMT+2 3: ✅ window.created win1 "discord"
+5/20/2025, 7:05:01 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/20/2025, 7:05:01 PM GMT+2 5: ✅ webContents.created web2 ""
+5/20/2025, 7:05:01 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/20/2025, 7:05:04 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/20/2025, 7:05:04 PM GMT+2 8: window.close win1
+5/20/2025, 7:05:04 PM GMT+2 9: webContents.destroyed web1
+5/20/2025, 7:05:04 PM GMT+2 10: window.closed win1
+5/20/2025, 7:28:15 PM GMT+2 11: before-quit
+5/20/2025, 7:28:15 PM GMT+2 12: window.close win2
+5/20/2025, 7:28:15 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/20/2025, 7:28:20 PM GMT+2 0: 
+
+----------------------------------------------
+5/20/2025, 7:28:20 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/20/2025, 7:28:20 PM GMT+2 2: ✅ webContents.created web1 ""
+5/20/2025, 7:28:20 PM GMT+2 3: ✅ window.created win1 "discord"
+5/20/2025, 7:28:20 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/20/2025, 7:28:21 PM GMT+2 5: ✅ webContents.created web2 ""
+5/20/2025, 7:28:21 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/20/2025, 7:28:24 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/20/2025, 7:28:24 PM GMT+2 8: window.close win1
+5/20/2025, 7:28:24 PM GMT+2 9: webContents.destroyed web1
+5/20/2025, 7:28:24 PM GMT+2 10: window.closed win1
+5/20/2025, 8:55:15 PM GMT+2 0: 
+
+----------------------------------------------
+5/20/2025, 8:55:15 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/20/2025, 8:55:15 PM GMT+2 2: ✅ webContents.created web1 ""
+5/20/2025, 8:55:15 PM GMT+2 3: ✅ window.created win1 "discord"
+5/20/2025, 8:55:16 PM GMT+2 4: ✅ webContents.created web2 ""
+5/20/2025, 8:55:16 PM GMT+2 5: ✅ window.created win2 "Discord"
+5/20/2025, 8:55:16 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/20/2025, 8:55:23 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/20/2025, 8:55:23 PM GMT+2 8: window.close win1
+5/20/2025, 8:55:23 PM GMT+2 9: webContents.destroyed web1
+5/20/2025, 8:55:23 PM GMT+2 10: window.closed win1
+5/20/2025, 10:11:15 PM GMT+2 11: before-quit
+5/20/2025, 10:11:15 PM GMT+2 12: window.close win2
+5/20/2025, 10:11:15 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/20/2025, 10:11:15 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/20/2025, 10:11:15 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/21/2025, 4:24:06 PM GMT+2 0: 
+
+----------------------------------------------
+5/21/2025, 4:24:06 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/21/2025, 4:24:06 PM GMT+2 2: ✅ webContents.created web1 ""
+5/21/2025, 4:24:06 PM GMT+2 3: ✅ window.created win1 "discord"
+5/21/2025, 4:24:07 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/21/2025, 4:24:07 PM GMT+2 5: ✅ webContents.created web2 ""
+5/21/2025, 4:24:07 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/21/2025, 4:24:16 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/21/2025, 4:24:16 PM GMT+2 8: window.close win1
+5/21/2025, 4:24:16 PM GMT+2 9: webContents.destroyed web1
+5/21/2025, 4:24:16 PM GMT+2 10: window.closed win1
+5/21/2025, 7:38:22 PM GMT+2 11: before-quit
+5/21/2025, 7:38:22 PM GMT+2 12: window.close win2
+5/21/2025, 7:38:22 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/21/2025, 7:38:22 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/21/2025, 7:38:22 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/21/2025, 7:39:06 PM GMT+2 0: 
+
+----------------------------------------------
+5/21/2025, 7:39:06 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/21/2025, 7:39:06 PM GMT+2 2: ✅ webContents.created web1 ""
+5/21/2025, 7:39:06 PM GMT+2 3: ✅ window.created win1 "discord"
+5/21/2025, 7:39:07 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/21/2025, 7:39:07 PM GMT+2 5: ✅ webContents.created web2 ""
+5/21/2025, 7:39:07 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/21/2025, 7:40:08 PM GMT+2 0: 
+
+----------------------------------------------
+5/21/2025, 7:40:08 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/21/2025, 7:40:08 PM GMT+2 2: ✅ webContents.created web1 ""
+5/21/2025, 7:40:08 PM GMT+2 3: ✅ window.created win1 "discord"
+5/21/2025, 7:40:09 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/21/2025, 7:40:09 PM GMT+2 5: ✅ webContents.created web2 ""
+5/21/2025, 7:40:09 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/21/2025, 7:41:31 PM GMT+2 0: 
+
+----------------------------------------------
+5/21/2025, 7:41:31 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/21/2025, 7:41:31 PM GMT+2 2: ✅ webContents.created web1 ""
+5/21/2025, 7:41:31 PM GMT+2 3: ✅ window.created win1 "discord"
+5/21/2025, 7:41:32 PM GMT+2 4: ✅ webContents.created web2 ""
+5/21/2025, 7:41:32 PM GMT+2 5: ✅ window.created win2 "Discord"
+5/21/2025, 7:41:32 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/21/2025, 7:42:26 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/21/2025, 7:42:26 PM GMT+2 8: window.close win1
+5/21/2025, 7:42:26 PM GMT+2 9: webContents.destroyed web1
+5/21/2025, 7:42:26 PM GMT+2 10: window.closed win1
+5/21/2025, 7:45:18 PM GMT+2 11: before-quit
+5/21/2025, 7:45:18 PM GMT+2 12: window.close win2
+5/21/2025, 7:45:18 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/21/2025, 7:45:18 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/21/2025, 7:45:18 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/21/2025, 7:46:11 PM GMT+2 0: 
+
+----------------------------------------------
+5/21/2025, 7:46:11 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/21/2025, 7:46:11 PM GMT+2 2: ✅ webContents.created web1 ""
+5/21/2025, 7:46:11 PM GMT+2 3: ✅ window.created win1 "discord"
+5/21/2025, 7:46:12 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/21/2025, 7:46:12 PM GMT+2 5: ✅ webContents.created web2 ""
+5/21/2025, 7:46:12 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/21/2025, 7:47:39 PM GMT+2 0: 
+
+----------------------------------------------
+5/21/2025, 7:47:39 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/21/2025, 7:47:39 PM GMT+2 2: ✅ webContents.created web1 ""
+5/21/2025, 7:47:39 PM GMT+2 3: ✅ window.created win1 "discord"
+5/21/2025, 7:47:40 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/21/2025, 7:47:40 PM GMT+2 5: ✅ webContents.created web2 ""
+5/21/2025, 7:47:40 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/21/2025, 7:49:23 PM GMT+2 0: 
+
+----------------------------------------------
+5/21/2025, 7:49:23 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/21/2025, 7:49:23 PM GMT+2 2: ✅ webContents.created web1 ""
+5/21/2025, 7:49:23 PM GMT+2 3: ✅ window.created win1 "discord"
+5/21/2025, 7:49:24 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/21/2025, 7:49:24 PM GMT+2 5: ✅ webContents.created web2 ""
+5/21/2025, 7:49:24 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/21/2025, 7:49:24 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/21/2025, 7:49:24 PM GMT+2 8: window.close win1
+5/21/2025, 7:49:24 PM GMT+2 9: webContents.destroyed web1
+5/21/2025, 7:49:24 PM GMT+2 10: window.closed win1
+5/21/2025, 7:50:48 PM GMT+2 11: before-quit
+5/21/2025, 7:50:48 PM GMT+2 12: window.close win2
+5/21/2025, 7:50:48 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/21/2025, 7:50:48 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/21/2025, 7:50:48 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/21/2025, 7:52:10 PM GMT+2 0: 
+
+----------------------------------------------
+5/21/2025, 7:52:10 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/21/2025, 7:52:10 PM GMT+2 2: ✅ webContents.created web1 ""
+5/21/2025, 7:52:10 PM GMT+2 3: ✅ window.created win1 "discord"
+5/21/2025, 7:52:11 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/21/2025, 7:52:11 PM GMT+2 5: ✅ webContents.created web2 ""
+5/21/2025, 7:52:11 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/21/2025, 7:52:36 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/21/2025, 7:52:37 PM GMT+2 8: window.close win1
+5/21/2025, 7:52:37 PM GMT+2 9: webContents.destroyed web1
+5/21/2025, 7:52:37 PM GMT+2 10: window.closed win1
+5/21/2025, 11:01:13 PM GMT+2 11: before-quit
+5/21/2025, 11:01:13 PM GMT+2 12: window.close win2
+5/21/2025, 11:01:13 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/21/2025, 11:01:13 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/21/2025, 11:01:13 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/22/2025, 3:00:46 PM GMT+2 0: 
+
+----------------------------------------------
+5/22/2025, 3:00:46 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/22/2025, 3:00:46 PM GMT+2 2: ✅ webContents.created web1 ""
+5/22/2025, 3:00:46 PM GMT+2 3: ✅ window.created win1 "discord"
+5/22/2025, 3:00:46 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/22/2025, 3:00:46 PM GMT+2 5: ✅ webContents.created web2 ""
+5/22/2025, 3:00:47 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/22/2025, 3:01:40 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/22/2025, 3:01:40 PM GMT+2 8: window.close win1
+5/22/2025, 3:01:40 PM GMT+2 9: webContents.destroyed web1
+5/22/2025, 3:01:40 PM GMT+2 10: window.closed win1
+5/22/2025, 3:28:43 PM GMT+2 11: before-quit
+5/22/2025, 3:28:43 PM GMT+2 12: window.close win2
+5/22/2025, 3:28:43 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/22/2025, 3:28:43 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/22/2025, 3:30:05 PM GMT+2 0: 
+
+----------------------------------------------
+5/22/2025, 3:30:05 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/22/2025, 3:30:05 PM GMT+2 2: ✅ webContents.created web1 ""
+5/22/2025, 3:30:05 PM GMT+2 3: ✅ window.created win1 "discord"
+5/22/2025, 3:30:05 PM GMT+2 4: ✅ webContents.created web2 ""
+5/22/2025, 3:30:05 PM GMT+2 5: ✅ window.created win2 "Discord"
+5/22/2025, 3:30:05 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/22/2025, 3:30:12 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/22/2025, 3:30:12 PM GMT+2 8: window.close win1
+5/22/2025, 3:30:12 PM GMT+2 9: webContents.destroyed web1
+5/22/2025, 3:30:12 PM GMT+2 10: window.closed win1
+5/22/2025, 3:33:58 PM GMT+2 11: before-quit
+5/22/2025, 3:33:58 PM GMT+2 12: window.close win2
+5/22/2025, 3:33:58 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/22/2025, 3:33:58 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/22/2025, 3:33:58 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/22/2025, 3:35:19 PM GMT+2 0: 
+
+----------------------------------------------
+5/22/2025, 3:35:19 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/22/2025, 3:35:19 PM GMT+2 2: ✅ webContents.created web1 "index.html"
+5/22/2025, 3:35:19 PM GMT+2 3: ✅ window.created win1 "discord"
+5/22/2025, 3:35:20 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/22/2025, 3:35:20 PM GMT+2 5: ✅ webContents.created web2 ""
+5/22/2025, 3:35:20 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/22/2025, 3:35:28 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/22/2025, 3:35:28 PM GMT+2 8: window.close win1
+5/22/2025, 3:35:28 PM GMT+2 9: webContents.destroyed web1
+5/22/2025, 3:35:28 PM GMT+2 10: window.closed win1
+5/22/2025, 3:37:21 PM GMT+2 11: before-quit
+5/22/2025, 3:37:21 PM GMT+2 12: window.close win2
+5/22/2025, 3:37:21 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/22/2025, 3:37:21 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/22/2025, 3:37:21 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/22/2025, 3:38:44 PM GMT+2 0: 
+
+----------------------------------------------
+5/22/2025, 3:38:44 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/22/2025, 3:38:44 PM GMT+2 2: ✅ webContents.created web1 ""
+5/22/2025, 3:38:44 PM GMT+2 3: ✅ window.created win1 "discord"
+5/22/2025, 3:38:45 PM GMT+2 4: ✅ webContents.created web2 ""
+5/22/2025, 3:38:45 PM GMT+2 5: ✅ window.created win2 "Discord"
+5/22/2025, 3:38:45 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/22/2025, 3:38:54 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/22/2025, 3:38:54 PM GMT+2 8: window.close win1
+5/22/2025, 3:38:54 PM GMT+2 9: webContents.destroyed web1
+5/22/2025, 3:38:54 PM GMT+2 10: window.closed win1
+5/22/2025, 3:40:16 PM GMT+2 11: before-quit
+5/22/2025, 3:40:16 PM GMT+2 12: window.close win2
+5/22/2025, 3:40:16 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/22/2025, 3:40:16 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/22/2025, 3:40:16 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/22/2025, 3:42:28 PM GMT+2 0: 
+
+----------------------------------------------
+5/22/2025, 3:42:28 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/22/2025, 3:42:28 PM GMT+2 2: ✅ webContents.created web1 ""
+5/22/2025, 3:42:28 PM GMT+2 3: ✅ window.created win1 "discord"
+5/22/2025, 3:42:28 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/22/2025, 3:42:28 PM GMT+2 5: ✅ webContents.created web2 ""
+5/22/2025, 3:42:28 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/22/2025, 3:42:36 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/22/2025, 3:42:36 PM GMT+2 8: window.close win1
+5/22/2025, 3:42:36 PM GMT+2 9: webContents.destroyed web1
+5/22/2025, 3:42:36 PM GMT+2 10: window.closed win1
+5/22/2025, 3:43:28 PM GMT+2 11: before-quit
+5/22/2025, 3:43:28 PM GMT+2 12: window.close win2
+5/22/2025, 3:43:28 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/22/2025, 3:43:28 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/22/2025, 3:43:28 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/22/2025, 3:44:48 PM GMT+2 0: 
+
+----------------------------------------------
+5/22/2025, 3:44:48 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/22/2025, 3:44:48 PM GMT+2 2: ✅ webContents.created web1 ""
+5/22/2025, 3:44:48 PM GMT+2 3: ✅ window.created win1 "discord"
+5/22/2025, 3:44:49 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/22/2025, 3:44:49 PM GMT+2 5: ✅ webContents.created web2 ""
+5/22/2025, 3:44:49 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/22/2025, 3:44:56 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/22/2025, 3:44:56 PM GMT+2 8: window.close win1
+5/22/2025, 3:44:56 PM GMT+2 9: webContents.destroyed web1
+5/22/2025, 3:44:56 PM GMT+2 10: window.closed win1
+5/22/2025, 7:39:26 PM GMT+2 0: 
+
+----------------------------------------------
+5/22/2025, 7:39:26 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/22/2025, 7:39:26 PM GMT+2 2: ✅ webContents.created web1 ""
+5/22/2025, 7:39:26 PM GMT+2 3: ✅ window.created win1 "discord"
+5/22/2025, 7:39:26 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/22/2025, 7:39:27 PM GMT+2 5: ✅ webContents.created web2 ""
+5/22/2025, 7:39:27 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/22/2025, 7:39:34 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/22/2025, 7:39:34 PM GMT+2 8: window.close win1
+5/22/2025, 7:39:34 PM GMT+2 9: webContents.destroyed web1
+5/22/2025, 7:39:34 PM GMT+2 10: window.closed win1
+5/22/2025, 10:43:05 PM GMT+2 11: before-quit
+5/22/2025, 10:43:05 PM GMT+2 12: window.close win2
+5/22/2025, 10:43:05 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/22/2025, 10:43:05 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/22/2025, 10:43:05 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/23/2025, 2:40:08 PM GMT+2 0: 
+
+----------------------------------------------
+5/23/2025, 2:40:08 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/23/2025, 2:40:08 PM GMT+2 2: ✅ webContents.created web1 ""
+5/23/2025, 2:40:08 PM GMT+2 3: ✅ window.created win1 "discord"
+5/23/2025, 2:40:09 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/23/2025, 2:40:09 PM GMT+2 5: ✅ webContents.created web2 ""
+5/23/2025, 2:40:09 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/23/2025, 2:40:15 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/23/2025, 2:40:16 PM GMT+2 8: window.close win1
+5/23/2025, 2:40:16 PM GMT+2 9: webContents.destroyed web1
+5/23/2025, 2:40:16 PM GMT+2 10: window.closed win1
+5/23/2025, 11:35:42 PM GMT+2 11: before-quit
+5/24/2025, 11:28:24 AM GMT+2 0: 
+
+----------------------------------------------
+5/24/2025, 11:28:24 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/24/2025, 11:28:24 AM GMT+2 2: ✅ webContents.created web1 ""
+5/24/2025, 11:28:24 AM GMT+2 3: ✅ window.created win1 "discord"
+5/24/2025, 11:28:25 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/24/2025, 11:28:25 AM GMT+2 5: ✅ webContents.created web2 ""
+5/24/2025, 11:28:25 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/24/2025, 11:28:32 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/24/2025, 11:28:32 AM GMT+2 8: window.close win1
+5/24/2025, 11:28:32 AM GMT+2 9: webContents.destroyed web1
+5/24/2025, 11:28:32 AM GMT+2 10: window.closed win1
+5/24/2025, 5:20:49 PM GMT+2 11: before-quit
+5/24/2025, 5:20:49 PM GMT+2 12: window.close win2
+5/24/2025, 5:20:49 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/24/2025, 5:20:49 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/24/2025, 5:20:49 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/24/2025, 5:21:31 PM GMT+2 0: 
+
+----------------------------------------------
+5/24/2025, 5:21:31 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/24/2025, 5:21:31 PM GMT+2 2: ✅ webContents.created web1 ""
+5/24/2025, 5:21:31 PM GMT+2 3: ✅ window.created win1 "discord"
+5/24/2025, 5:21:31 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/24/2025, 5:21:31 PM GMT+2 5: ✅ webContents.created web2 ""
+5/24/2025, 5:21:31 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/24/2025, 5:21:40 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/24/2025, 5:21:40 PM GMT+2 8: window.close win1
+5/24/2025, 5:21:41 PM GMT+2 9: webContents.destroyed web1
+5/24/2025, 5:21:41 PM GMT+2 10: window.closed win1
+5/24/2025, 5:23:26 PM GMT+2 11: before-quit
+5/24/2025, 5:23:26 PM GMT+2 12: window.close win2
+5/24/2025, 5:23:26 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/24/2025, 5:23:26 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/24/2025, 5:23:26 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/24/2025, 5:24:01 PM GMT+2 0: 
+
+----------------------------------------------
+5/24/2025, 5:24:01 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/24/2025, 5:24:01 PM GMT+2 2: ✅ webContents.created web1 ""
+5/24/2025, 5:24:01 PM GMT+2 3: ✅ window.created win1 "discord"
+5/24/2025, 5:24:02 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/24/2025, 5:24:02 PM GMT+2 5: ✅ webContents.created web2 ""
+5/24/2025, 5:24:02 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/24/2025, 5:24:07 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/24/2025, 5:24:08 PM GMT+2 8: window.close win1
+5/24/2025, 5:24:08 PM GMT+2 9: webContents.destroyed web1
+5/24/2025, 5:24:08 PM GMT+2 10: window.closed win1
+5/24/2025, 9:37:35 PM GMT+2 11: before-quit
+5/24/2025, 9:37:35 PM GMT+2 12: window.close win2
+5/24/2025, 9:37:35 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/24/2025, 9:37:35 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/24/2025, 9:37:35 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/24/2025, 9:38:20 PM GMT+2 0: 
+
+----------------------------------------------
+5/24/2025, 9:38:20 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/24/2025, 9:38:20 PM GMT+2 2: ✅ webContents.created web1 ""
+5/24/2025, 9:38:20 PM GMT+2 3: ✅ window.created win1 "discord"
+5/24/2025, 9:38:21 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/24/2025, 9:38:21 PM GMT+2 5: ✅ webContents.created web2 ""
+5/24/2025, 9:38:21 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/24/2025, 9:38:29 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/24/2025, 9:38:29 PM GMT+2 8: window.close win1
+5/24/2025, 9:38:29 PM GMT+2 9: webContents.destroyed web1
+5/24/2025, 9:38:29 PM GMT+2 10: window.closed win1
+5/25/2025, 1:25:30 AM GMT+2 11: before-quit
+5/25/2025, 1:25:30 AM GMT+2 12: window.close win2
+5/25/2025, 1:25:30 AM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/25/2025, 1:48:02 PM GMT+2 0: 
+
+----------------------------------------------
+5/25/2025, 1:48:02 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/25/2025, 1:48:02 PM GMT+2 2: ✅ webContents.created web1 ""
+5/25/2025, 1:48:02 PM GMT+2 3: ✅ window.created win1 "discord"
+5/25/2025, 1:48:03 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/25/2025, 1:48:03 PM GMT+2 5: ✅ webContents.created web2 ""
+5/25/2025, 1:48:03 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/25/2025, 1:48:11 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/25/2025, 1:48:11 PM GMT+2 8: window.close win1
+5/25/2025, 1:48:11 PM GMT+2 9: webContents.destroyed web1
+5/25/2025, 1:48:11 PM GMT+2 10: window.closed win1
+5/25/2025, 5:09:18 PM GMT+2 0: 
+
+----------------------------------------------
+5/25/2025, 5:09:18 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/25/2025, 5:09:18 PM GMT+2 2: ✅ webContents.created web1 "index.html"
+5/25/2025, 5:09:18 PM GMT+2 3: ✅ window.created win1 "discord"
+5/25/2025, 5:09:19 PM GMT+2 4: ✅ webContents.created web2 ""
+5/25/2025, 5:09:19 PM GMT+2 5: ✅ window.created win2 "Discord"
+5/25/2025, 5:09:19 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/25/2025, 5:09:23 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/25/2025, 5:09:23 PM GMT+2 8: window.close win1
+5/25/2025, 5:09:23 PM GMT+2 9: webContents.destroyed web1
+5/25/2025, 5:09:23 PM GMT+2 10: window.closed win1
+5/25/2025, 7:04:44 PM GMT+2 11: window.close win2
+5/25/2025, 7:04:51 PM GMT+2 0: 
+
+----------------------------------------------
+5/25/2025, 7:04:51 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/25/2025, 7:05:37 PM GMT+2 12: ✅ webContents.did-finish-load web2
+5/25/2025, 11:05:57 PM GMT+2 13: before-quit
+5/25/2025, 11:05:57 PM GMT+2 14: window.close win2
+5/25/2025, 11:05:57 PM GMT+2 15: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/25/2025, 11:05:57 PM GMT+2 16: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/25/2025, 11:05:58 PM GMT+2 17: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/26/2025, 6:21:57 PM GMT+2 0: 
+
+----------------------------------------------
+5/26/2025, 6:21:57 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/26/2025, 6:21:57 PM GMT+2 2: ✅ webContents.created web1 ""
+5/26/2025, 6:21:57 PM GMT+2 3: ✅ window.created win1 "discord"
+5/26/2025, 6:21:57 PM GMT+2 4: ✅ webContents.created web2 ""
+5/26/2025, 6:21:57 PM GMT+2 5: ✅ window.created win2 "Discord"
+5/26/2025, 6:21:57 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/26/2025, 6:22:03 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/26/2025, 6:22:03 PM GMT+2 8: window.close win1
+5/26/2025, 6:22:03 PM GMT+2 9: webContents.destroyed web1
+5/26/2025, 6:22:03 PM GMT+2 10: window.closed win1
+5/27/2025, 7:31:42 PM GMT+2 0: 
+
+----------------------------------------------
+5/27/2025, 7:31:42 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/27/2025, 7:31:42 PM GMT+2 2: ✅ webContents.created web1 ""
+5/27/2025, 7:31:42 PM GMT+2 3: ✅ window.created win1 "discord"
+5/27/2025, 7:31:43 PM GMT+2 4: ✅ webContents.created web2 ""
+5/27/2025, 7:31:43 PM GMT+2 5: ✅ window.created win2 "Discord"
+5/27/2025, 7:31:43 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/27/2025, 7:32:36 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/27/2025, 7:32:36 PM GMT+2 8: window.close win1
+5/27/2025, 7:32:37 PM GMT+2 9: webContents.destroyed web1
+5/27/2025, 7:32:37 PM GMT+2 10: window.closed win1
+5/27/2025, 9:19:38 PM GMT+2 11: ❌ webContents.nresponsive web2
+5/27/2025, 9:21:05 PM GMT+2 12: ❌ webContents.nresponsive web2
+5/27/2025, 9:22:13 PM GMT+2 0: 
+
+----------------------------------------------
+5/27/2025, 9:22:13 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/27/2025, 9:22:13 PM GMT+2 2: ✅ webContents.created web1 "index.html"
+5/27/2025, 9:22:13 PM GMT+2 3: ✅ window.created win1 "discord"
+5/27/2025, 9:22:13 PM GMT+2 4: Wrote 320208 byte minidump to /home/lennilid/.config/discord/0.0.95/modules/crashlogs/5_27_2025__9_22_13_PM_GMT_2-0-minidump.dmp
+5/27/2025, 9:22:13 PM GMT+2 5: Sentry report: {"contexts":{"trace":{"trace_id":"d6c6edbc39d44ee585d2641a5ce37deb","span_id":"a6d4f287789ad6ab"},"app":{"app_name":"discord","app_version":"0.0.95","app_start_time":"2025-05-27T19:22:12.617Z"},"os":{"kernel_version":"6.12.28-1-MANJARO","name":"Ubuntu Linux","version":"\"25.0.3\""},"browser":{"name":"Chrome"},"chrome":{"name":"Chrome","type":"runtime","version":"134.0.6998.205"},"device":{"arch":"x64","family":"Desktop","language":"en-US","screen_density":1,"screen_resolution":"2560x1440","memory_size":16686649344,"free_memory":3657519104,"processor_count":12,"cpu_description":"AMD Ryzen 5 5600X 6-Core Processor","processor_frequency":3713},"node":{"name":"Node","type":"runtime","version":"22.14.0"},"runtime":{"name":"Electron","version":"35.3.0"}},"release":"0.0.95","user":{"ip_address":"{{auto}}"},"tags":{"event.origin":"electron","event.environment":"native","event.process":"browser","event_type":"native"},"level":"fatal","platform":"native","breadcrumbs":[{"timestamp":1748373732.947,"category":"console","level":"log","message":"Discord 0.0.95"},{"timestamp":1748373733.004,"category":"electron","message":"app.will-finish-launching","type":"ui"},{"timestamp":1748373733.006,"category":"electron","message":"app.ready","type":"ui"},{"timestamp":1748373733.011,"category":"electron","message":"app.session-created","type":"ui"},{"timestamp":1748373733.012,"category":"console","level":"warning","message":"(electron) 'session.getPreloads' is deprecated and will be removed. Please use 'session.getPreloadScripts' instead."},{"timestamp":1748373733.012,"category":"console","level":"warning","message":"(electron) 'session.setPreloads' is deprecated and will be removed. Please use 'session.registerPreloadScript' instead."},{"timestamp":1748373733.013,"category":"console","level":"log","message":"Starting app."},{"timestamp":1748373733.021,"category":"console","level":"log","message":"Starting updater."},{"timestamp":1748373733.03,"category":"console","level":"log","message":"5/27/2025, 9:22:13 PM GMT+2 [Modules] Modules initializing"},{"timestamp":1748373733.031,"category":"console","level":"log","message":"5/27/2025, 9:22:13 PM GMT+2 [Modules] Distribution: remote"},{"timestamp":1748373733.031,"category":"console","level":"log","message":"5/27/2025, 9:22:13 PM GMT+2 [Modules] Host updates: enabled"},{"timestamp":1748373733.031,"category":"console","level":"log","message":"5/27/2025, 9:22:13 PM GMT+2 [Modules] Module updates: enabled"},{"timestamp":1748373733.031,"category":"console","level":"log","message":"5/27/2025, 9:22:13 PM GMT+2 [Modules] Module install path: /home/lennilid/.config/discord/0.0.95/modules"},{"timestamp":1748373733.032,"category":"console","level":"log","message":"5/27/2025, 9:22:13 PM GMT+2 [Modules] Module installed file path: /home/lennilid/.config/discord/0.0.95/modules/installed.json"},{"timestamp":1748373733.032,"category":"console","level":"log","message":"5/27/2025, 9:22:13 PM GMT+2 [Modules] Module download path: /home/lennilid/.config/discord/0.0.95/modules/pending"},{"timestamp":1748373733.034,"category":"console","level":"log","message":"splashScreen.initSplash(false)"},{"timestamp":1748373733.034,"category":"console","level":"log","message":"CDM component API found"},{"timestamp":1748373733.048,"category":"electron","message":"app.web-contents-created","type":"ui"},{"timestamp":1748373733.049,"category":"electron","message":"app.browser-window-created","type":"ui"},{"timestamp":1748373733.11,"category":"console","level":"log","message":"blackbox: 5/27/2025, 9:22:13 PM GMT+2 0 \n\n----------------------------------------------"},{"timestamp":1748373733.112,"category":"console","level":"log","message":"CDM completed with status: cdm-ready-success"},{"timestamp":1748373733.119,"category":"console","level":"log","message":"blackbox: 5/27/2025, 9:22:13 PM GMT+2 1 Discord starting: {\"releaseChannel\":\"stable\",\"version\":\"0.0.95\"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules"}],"event_id":"e92861a094c341e6a60258a972be96d9","timestamp":1748373733.12,"sdk":{"integrations":["SentryMinidump","ElectronBreadcrumbs","Net","MainContext","ChildProcess","OnUncaughtException","PreloadInjection","AdditionalContext","Screenshots","RendererProfiling","InboundFilters","FunctionToString","LinkedErrors","RequestData","Console","Http","Undici","OnUnhandledRejection","ContextLines","LocalVariables","Modules"],"name":"sentry.javascript.electron","version":"4.24.0","packages":[{"name":"npm:@sentry/electron","version":"4.24.0"}]},"modules":{},"extra":{"release_channel":"stable","sentry":{"environment":"stable","release":"0.0.95"},"wm":"KDE,unknown","distro":"\"Manjaro Linux\""}}
+5/27/2025, 9:22:13 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/27/2025, 9:22:14 PM GMT+2 7: ✅ webContents.created web2 ""
+5/27/2025, 9:22:14 PM GMT+2 8: ✅ window.created win2 "Discord"
+5/27/2025, 9:22:17 PM GMT+2 9: ✅ webContents.did-finish-load web2
+5/27/2025, 9:22:17 PM GMT+2 10: window.close win1
+5/27/2025, 9:22:17 PM GMT+2 11: webContents.destroyed web1
+5/27/2025, 9:22:17 PM GMT+2 12: window.closed win1
+5/27/2025, 9:32:35 PM GMT+2 13: ❌ child-process-gone {
+  type: 'GPU',
+  reason: 'abnormal-exit',
+  exitCode: 8704,
+  serviceName: 'GPU'
+}
+5/27/2025, 9:32:35 PM GMT+2 14: Sentry report: {"contexts":{"trace":{"trace_id":"d6c6edbc39d44ee585d2641a5ce37deb","span_id":"a6d4f287789ad6ab"},"app":{"app_name":"discord","app_version":"0.0.95","app_start_time":"2025-05-27T19:22:12.617Z"},"os":{"kernel_version":"6.12.28-1-MANJARO","name":"Ubuntu Linux","version":"\"25.0.3\""},"browser":{"name":"Chrome"},"chrome":{"name":"Chrome","type":"runtime","version":"134.0.6998.205"},"device":{"arch":"x64","family":"Desktop","language":"en-US","screen_density":1,"screen_resolution":"2560x1440","memory_size":16686649344,"free_memory":5998407680,"processor_count":12,"cpu_description":"AMD Ryzen 5 5600X 6-Core Processor","processor_frequency":4616},"node":{"name":"Node","type":"runtime","version":"22.14.0"},"runtime":{"name":"Electron","version":"35.3.0"}},"environment":"stable","release":"0.0.95","user":{"ip_address":"{{auto}}","id":"1053992532612218950","username":"lennilid","email":"lennilid.discord@gmail.com"},"tags":{"event.origin":"electron","event.environment":"javascript","event.process":"GPU","event_type":"javascript","nativeBuildNumber":"null"},"event_id":"2cc8f2e118624ab4b3632e59664577e3","level":"warning","message":"'GPU' process exited with 'abnormal-exit'","platform":"node","timestamp":1748374355.818,"sdk":{"integrations":["SentryMinidump","ElectronBreadcrumbs","Net","MainContext","ChildProcess","OnUncaughtException","PreloadInjection","AdditionalContext","Screenshots","RendererProfiling","InboundFilters","FunctionToString","LinkedErrors","RequestData","Console","Http","Undici","OnUnhandledRejection","ContextLines","LocalVariables","Modules"]},"breadcrumbs":[{"timestamp":1748373848.513,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748373848.514,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748373848.514,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748373848.514,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748373848.514,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748373848.514,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748373848.514,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748373848.514,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748373848.514,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748373853.386,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748373853.387,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748373887.086,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748373911.387,"category":"ui.click","message":"div.message__5126c.cozyMessage__5126c.groupStart__5126c.wrapper_c19a55.cozy_c19a55.zalgo_c19a55"},{"timestamp":1748373916.301,"category":"ui.click","message":"div#message-content-1376939733745270845.markup__75297.messageContent_c19a55"},{"timestamp":1748373917.943,"category":"ui.click","message":"div#message-content-1376939733745270845.markup__75297.messageContent_c19a55"},{"timestamp":1748373920.984,"category":"ui.click","message":"div#message-content-1376939749817716870.markup__75297.messageContent_c19a55"},{"timestamp":1748373922.839,"category":"ui.click","message":"div.message__5126c.cozyMessage__5126c.groupStart__5126c.wrapper_c19a55.cozy_c19a55.zalgo_c19a55"},{"timestamp":1748373923.165,"category":"ui.click","message":"div#message-content-1376947028592033812.markup__75297.messageContent_c19a55"},{"timestamp":1748373924.04,"category":"ui.click","message":"span"},{"timestamp":1748373924.866,"category":"ui.click","message":"div#message-content-1376959800994168923.markup__75297.messageContent_c19a55"},{"timestamp":1748373926.122,"category":"ui.click","message":"div#message-content-1376959812105015336.markup__75297.messageContent_c19a55"},{"timestamp":1748373928.087,"category":"ui.click","message":"ol.scrollerInner__36d07[aria-label=\"Nachrichten in 🤓community-feedback\"]"},{"timestamp":1748373928.461,"category":"ui.click","message":"div#message-content-1376959835869937735.markup__75297.messageContent_c19a55"},{"timestamp":1748373929.591,"category":"ui.click","message":"div#message-content-1376959835869937735.markup__75297.messageContent_c19a55"},{"timestamp":1748373929.885,"category":"ui.click","message":"span"},{"timestamp":1748373930.856,"category":"ui.click","message":"div#message-content-1376959835869937735.markup__75297.messageContent_c19a55"},{"timestamp":1748373931.466,"category":"ui.click","message":"span"},{"timestamp":1748373932.006,"category":"ui.click","message":"div#message-content-1376959835869937735.markup__75297.messageContent_c19a55"},{"timestamp":1748373935.64,"category":"ui.click","message":"div#message-content-1376959896137891901.markup__75297.messageContent_c19a55"},{"timestamp":1748373936.067,"category":"ui.click","message":"div.message__5126c.cozyMessage__5126c.groupStart__5126c.wrapper_c19a55.cozy_c19a55.zalgo_c19a55"},{"timestamp":1748373937.434,"category":"ui.click","message":"div#message-content-1376959908335059004.markup__75297.messageContent_c19a55"},{"timestamp":1748373949.273,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748373958.858,"category":"ui.click","message":"div.nameAndDecorators__20a53 > div.name__20a53 > div.overflow__82b15"},{"timestamp":1748373960.638,"category":"ui.click","message":"g > g > g > g > path"},{"timestamp":1748373966.675,"category":"ui.click","message":"a.originalLink_af017a"},{"timestamp":1748373967.784,"category":"ui.click","message":"div.carouselModal_d3a6f0.theme-dark.theme-midnight.images-dark.root__49fc1"},{"timestamp":1748373968.359,"category":"ui.click","message":"a.originalLink_af017a"},{"timestamp":1748373969.233,"category":"ui.click","message":"div.carouselModal_d3a6f0.theme-dark.theme-midnight.images-dark.root__49fc1"},{"timestamp":1748373969.94,"category":"ui.click","message":"a.originalLink_af017a"},{"timestamp":1748373970.646,"category":"ui.click","message":"div.carouselModal_d3a6f0.theme-dark.theme-midnight.images-dark.root__49fc1"},{"timestamp":1748373971.23,"category":"ui.click","message":"a.originalLink_af017a"},{"timestamp":1748373971.934,"category":"ui.click","message":"div.carouselModal_d3a6f0.theme-dark.theme-midnight.images-dark.root__49fc1"},{"timestamp":1748373972.797,"category":"ui.click","message":"a.originalLink_af017a"},{"timestamp":1748373973.387,"category":"ui.click","message":"div.carouselModal_d3a6f0.theme-dark.theme-midnight.images-dark.root__49fc1"},{"timestamp":1748373974.366,"category":"ui.click","message":"a.originalLink_af017a"},{"timestamp":1748373975.536,"category":"ui.click","message":"div.carouselModal_d3a6f0.theme-dark.theme-midnight.images-dark.root__49fc1"},{"timestamp":1748373976.145,"category":"ui.click","message":"a.originalLink_af017a"},{"timestamp":1748373980.946,"category":"ui.click","message":"div.carouselModal_d3a6f0.theme-dark.theme-midnight.images-dark.root__49fc1"},{"timestamp":1748373997.737,"category":"ui.click","message":"div.buttonWrapper__24af7 > div.lottieIcon__5eb9b.lottieIconColors__5eb9b > svg"},{"timestamp":1748373999.284,"category":"ui.click","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @ItssMarie\"]"},{"timestamp":1748373999.989,"category":"ui.input","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @ItssMarie\"]"},{"timestamp":1748374002.002,"category":"console","level":"log","message":"legacyModuleUpdater: installed-module discord_spellcheck 1 1 true"},{"timestamp":1748374002.002,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: UPDATER_HISTORY_QUERY_AND_TRUNCATE"},{"timestamp":1748374002.068,"category":"ui.input","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @ItssMarie\"]"},{"timestamp":1748374005.045,"category":"ui.input","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @ItssMarie\"]"},{"timestamp":1748374010.385,"category":"ui.input","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @ItssMarie\"]"},{"timestamp":1748374016.201,"category":"ui.input","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @ItssMarie\"]"},{"timestamp":1748374021.213,"category":"ui.click","message":"div > span > span > span"},{"timestamp":1748374032.029,"category":"ui.click","message":"div.overflow__82b15"},{"timestamp":1748374049.941,"category":"ui.click","message":"div.nameAndDecorators__20a53 > div.name__20a53 > div.overflow__82b15"},{"timestamp":1748374051.915,"category":"ui.click","message":"div.overflow__82b15"},{"timestamp":1748374056.428,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748374057.179,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748374058.047,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748374069.869,"category":"ui.click","message":"div.childWrapper__6e9f8.childWrapperNoHoverBg__6e9f8 > svg"},{"timestamp":1748374090.201,"category":"ui.click","message":"div.quickSelectValue_ebaca5"},{"timestamp":1748374092.124,"category":"ui.click","message":"div.regionSelectName__5621e"},{"timestamp":1748374101.02,"category":"ui.click","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @Bread\"]"},{"timestamp":1748374106.064,"category":"ui.click","message":"div.root_bfe55a > div > div.root_c8dbe9.voiceCallWrapper_a21736"},{"timestamp":1748374107.197,"category":"ui.click","message":"div.quickSelectValue_ebaca5"},{"timestamp":1748374122.882,"category":"ui.click","message":"div.quickSelectValue_ebaca5"},{"timestamp":1748374126.522,"category":"ui.click","message":"div.quickSelectPopoutOption_ebaca5"},{"timestamp":1748374140.02,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748374177.776,"category":"ui.click","message":"div.listItem__650eb > div.listItemWrapper__91816 > div.wrapper_cc5dd2 > svg"},{"timestamp":1748374178.84,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748374180.035,"category":"ui.click","message":"div.quickSelectValue_ebaca5"},{"timestamp":1748374180.88,"category":"ui.click","message":"div.regionSelectName__5621e"},{"timestamp":1748374185.395,"category":"ui.click","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @Bread\"]"},{"timestamp":1748374187.138,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748374205.612,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748374209.052,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748374218.62,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748374255.186,"category":"ui.click","message":"a.link__972a0[aria-label=\"ItssMarie (Direktnachricht)\"]"},{"timestamp":1748374257.844,"category":"ui.click","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @ItssMarie\"]"},{"timestamp":1748374259.468,"category":"ui.input","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @ItssMarie\"]"},{"timestamp":1748374263.734,"category":"ui.input","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @ItssMarie\"]"},{"timestamp":1748374274.857,"category":"ui.input","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @ItssMarie\"]"},{"timestamp":1748374279.218,"category":"ui.click","message":"div"},{"timestamp":1748374281.443,"category":"ui.click","message":"div.contents__201d5.button__24af7.button__74017"},{"timestamp":1748374293.439,"category":"ui.click","message":"div"},{"timestamp":1748374299.848,"category":"ui.click","message":"span.unselectable__10651"},{"timestamp":1748374301.384,"category":"ui.click","message":"div.lottieIcon__5eb9b.lottieIconColors__5eb9b.centerIcon_f1ceac.fullRegionIcon_f1ceac.controlIcon_f1ceac"},{"timestamp":1748374309.894,"category":"ui.click","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @Bread\"]"},{"timestamp":1748374310.626,"category":"ui.input","message":"div.markup__75297.editor__1b31f.slateTextArea_ec4baf.fontSize16Padding__74017[aria-label=\"Nachricht an @Bread\"]"},{"timestamp":1748374344.152,"category":"electron","message":"screen.display-added","type":"ui"},{"timestamp":1748374344.152,"category":"electron","message":"screen.display-metrics-changed","type":"ui"},{"timestamp":1748374351.191,"category":"electron","message":"screen.display-metrics-changed","type":"ui"},{"timestamp":1748374351.417,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748374351.417,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748374355.818,"category":"electron","message":"app.child-process-gone","type":"ui"}],"sdkProcessingMetadata":{"dynamicSamplingContext":{"environment":"stable","release":"0.0.95","public_key":"d2558f321dfc7ab68366d8258fd256c7","trace_id":"d6c6edbc39d44ee585d2641a5ce37deb"}},"modules":{},"extra":{"release_channel":"stable","sentry":{"environment":"stable","release":"0.0.95","user":{"id":"1053992532612218950","username":"lennilid","email":"lennilid.discord@gmail.com"}},"wm":"KDE,unknown","distro":"\"Manjaro Linux\"","nativeBuildNumber":"null","user_id":"1053992532612218950","username":"lennilid","email":"lennilid.discord@gmail.com"}}
+5/27/2025, 9:33:31 PM GMT+2 15: before-quit
+5/27/2025, 9:33:31 PM GMT+2 16: window.close win2
+5/27/2025, 9:35:47 PM GMT+2 0: 
+
+----------------------------------------------
+5/27/2025, 9:35:47 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/27/2025, 9:35:47 PM GMT+2 2: ✅ webContents.created web1 "index.html"
+5/27/2025, 9:35:47 PM GMT+2 3: ✅ window.created win1 "discord"
+5/27/2025, 9:35:47 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/27/2025, 9:35:47 PM GMT+2 5: ✅ webContents.created web2 ""
+5/27/2025, 9:35:47 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/27/2025, 9:35:59 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/27/2025, 9:35:59 PM GMT+2 8: window.close win1
+5/27/2025, 9:35:59 PM GMT+2 9: webContents.destroyed web1
+5/27/2025, 9:35:59 PM GMT+2 10: window.closed win1
+5/28/2025, 12:12:10 AM GMT+2 11: before-quit
+5/28/2025, 12:12:10 AM GMT+2 12: window.close win2
+5/28/2025, 12:12:10 AM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/28/2025, 12:12:10 AM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/28/2025, 12:12:10 AM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/28/2025, 6:57:32 PM GMT+2 0: 
+
+----------------------------------------------
+5/28/2025, 6:57:32 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/28/2025, 6:57:32 PM GMT+2 2: ✅ webContents.created web1 ""
+5/28/2025, 6:57:32 PM GMT+2 3: ✅ window.created win1 "discord"
+5/28/2025, 6:57:33 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/28/2025, 6:57:33 PM GMT+2 5: ✅ webContents.created web2 ""
+5/28/2025, 6:57:33 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/28/2025, 6:57:40 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/28/2025, 6:57:40 PM GMT+2 8: window.close win1
+5/28/2025, 6:57:40 PM GMT+2 9: webContents.destroyed web1
+5/28/2025, 6:57:40 PM GMT+2 10: window.closed win1
+5/28/2025, 9:30:15 PM GMT+2 11: before-quit
+5/28/2025, 9:30:15 PM GMT+2 12: window.close win2
+5/28/2025, 9:30:15 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/28/2025, 9:30:15 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/28/2025, 9:30:15 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/28/2025, 9:30:51 PM GMT+2 0: 
+
+----------------------------------------------
+5/28/2025, 9:30:51 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/28/2025, 9:30:51 PM GMT+2 2: ✅ webContents.created web1 ""
+5/28/2025, 9:30:51 PM GMT+2 3: ✅ window.created win1 "discord"
+5/28/2025, 9:30:52 PM GMT+2 4: ✅ webContents.created web2 ""
+5/28/2025, 9:30:52 PM GMT+2 5: ✅ window.created win2 "Discord"
+5/28/2025, 9:30:52 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/28/2025, 9:31:00 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/28/2025, 9:31:00 PM GMT+2 8: window.close win1
+5/28/2025, 9:31:00 PM GMT+2 9: webContents.destroyed web1
+5/28/2025, 9:31:00 PM GMT+2 10: window.closed win1
+5/29/2025, 1:21:08 PM GMT+2 0: 
+
+----------------------------------------------
+5/29/2025, 1:21:08 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/29/2025, 1:21:08 PM GMT+2 2: ✅ webContents.created web1 ""
+5/29/2025, 1:21:08 PM GMT+2 3: ✅ window.created win1 "discord"
+5/29/2025, 1:21:08 PM GMT+2 4: ✅ webContents.created web2 ""
+5/29/2025, 1:21:08 PM GMT+2 5: ✅ window.created win2 "Discord"
+5/29/2025, 1:21:09 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/29/2025, 1:21:21 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/29/2025, 1:21:21 PM GMT+2 8: window.close win1
+5/29/2025, 1:21:21 PM GMT+2 9: webContents.destroyed web1
+5/29/2025, 1:21:21 PM GMT+2 10: window.closed win1
+5/29/2025, 5:32:44 PM GMT+2 11: window.close win2
+5/29/2025, 5:32:47 PM GMT+2 0: 
+
+----------------------------------------------
+5/29/2025, 5:32:47 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/29/2025, 5:33:05 PM GMT+2 12: window.close win2
+5/29/2025, 5:33:19 PM GMT+2 0: 
+
+----------------------------------------------
+5/29/2025, 5:33:20 PM GMT+2 13: window.close win2
+5/29/2025, 5:33:35 PM GMT+2 0: 
+
+----------------------------------------------
+5/29/2025, 6:07:55 PM GMT+2 0: 
+
+----------------------------------------------
+5/29/2025, 6:07:55 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/29/2025, 6:07:55 PM GMT+2 2: ✅ webContents.created web1 ""
+5/29/2025, 6:07:55 PM GMT+2 3: ✅ window.created win1 "discord"
+5/29/2025, 6:07:55 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/29/2025, 6:07:55 PM GMT+2 5: ✅ webContents.created web2 ""
+5/29/2025, 6:07:55 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/29/2025, 6:08:01 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/29/2025, 6:08:01 PM GMT+2 8: window.close win1
+5/29/2025, 6:08:01 PM GMT+2 9: webContents.destroyed web1
+5/29/2025, 6:08:01 PM GMT+2 10: window.closed win1
+5/29/2025, 7:47:39 PM GMT+2 0: 
+
+----------------------------------------------
+5/29/2025, 7:47:39 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/29/2025, 9:53:46 PM GMT+2 0: 
+
+----------------------------------------------
+5/29/2025, 9:53:46 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/29/2025, 9:53:46 PM GMT+2 2: ✅ webContents.created web1 ""
+5/29/2025, 9:53:46 PM GMT+2 3: ✅ window.created win1 "discord"
+5/29/2025, 9:53:46 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/29/2025, 9:53:46 PM GMT+2 5: ✅ webContents.created web2 ""
+5/29/2025, 9:53:46 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/29/2025, 9:53:52 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/29/2025, 9:53:52 PM GMT+2 8: window.close win1
+5/29/2025, 9:53:52 PM GMT+2 9: webContents.destroyed web1
+5/29/2025, 9:53:52 PM GMT+2 10: window.closed win1
+5/29/2025, 9:58:25 PM GMT+2 11: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/29/2025, 9:58:25 PM GMT+2 12: before-quit
+5/29/2025, 9:58:25 PM GMT+2 13: window.close win2
+5/29/2025, 9:58:25 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/29/2025, 9:58:25 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/29/2025, 10:09:12 PM GMT+2 0: 
+
+----------------------------------------------
+5/29/2025, 10:09:12 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/29/2025, 10:09:12 PM GMT+2 2: ✅ webContents.created web1 ""
+5/29/2025, 10:09:12 PM GMT+2 3: ✅ window.created win1 "discord"
+5/29/2025, 10:09:12 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/29/2025, 10:09:12 PM GMT+2 5: ✅ webContents.created web2 ""
+5/29/2025, 10:09:12 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/29/2025, 10:09:18 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/29/2025, 10:09:18 PM GMT+2 8: window.close win1
+5/29/2025, 10:09:18 PM GMT+2 9: webContents.destroyed web1
+5/29/2025, 10:09:18 PM GMT+2 10: window.closed win1
+5/29/2025, 10:49:33 PM GMT+2 11: before-quit
+5/29/2025, 10:49:33 PM GMT+2 12: window.close win2
+5/29/2025, 10:49:33 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/29/2025, 10:49:33 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/29/2025, 10:49:33 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/30/2025, 5:23:17 PM GMT+2 0: 
+
+----------------------------------------------
+5/30/2025, 5:23:17 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/30/2025, 5:23:17 PM GMT+2 2: ✅ webContents.created web1 ""
+5/30/2025, 5:23:17 PM GMT+2 3: ✅ window.created win1 "discord"
+5/30/2025, 5:23:18 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/30/2025, 5:23:18 PM GMT+2 5: ✅ webContents.created web2 ""
+5/30/2025, 5:23:18 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/30/2025, 5:23:26 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/30/2025, 5:23:26 PM GMT+2 8: window.close win1
+5/30/2025, 5:23:26 PM GMT+2 9: webContents.destroyed web1
+5/30/2025, 5:23:26 PM GMT+2 10: window.closed win1
+5/30/2025, 5:25:21 PM GMT+2 0: 
+
+----------------------------------------------
+5/30/2025, 5:25:21 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/30/2025, 5:25:21 PM GMT+2 2: ✅ webContents.created web1 ""
+5/30/2025, 5:25:21 PM GMT+2 3: ✅ window.created win1 "discord"
+5/30/2025, 5:25:21 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/30/2025, 5:25:21 PM GMT+2 5: ✅ webContents.created web2 ""
+5/30/2025, 5:25:21 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/30/2025, 5:25:27 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/30/2025, 5:25:27 PM GMT+2 8: window.close win1
+5/30/2025, 5:25:27 PM GMT+2 9: webContents.destroyed web1
+5/30/2025, 5:25:27 PM GMT+2 10: window.closed win1
+5/31/2025, 12:38:14 AM GMT+2 11: before-quit
+5/31/2025, 12:38:56 PM GMT+2 0: 
+
+----------------------------------------------
+5/31/2025, 12:38:56 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/31/2025, 12:38:56 PM GMT+2 2: ✅ webContents.created web1 ""
+5/31/2025, 12:38:56 PM GMT+2 3: ✅ window.created win1 "discord"
+5/31/2025, 12:38:56 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/31/2025, 12:38:57 PM GMT+2 5: ✅ webContents.created web2 ""
+5/31/2025, 12:38:57 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/31/2025, 12:39:10 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/31/2025, 12:39:10 PM GMT+2 8: window.close win1
+5/31/2025, 12:39:10 PM GMT+2 9: webContents.destroyed web1
+5/31/2025, 12:39:10 PM GMT+2 10: window.closed win1
+5/31/2025, 1:07:40 PM GMT+2 11: before-quit
+5/31/2025, 1:07:40 PM GMT+2 12: window.close win2
+5/31/2025, 1:07:40 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/31/2025, 1:07:40 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/31/2025, 1:07:40 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/31/2025, 1:09:12 PM GMT+2 0: 
+
+----------------------------------------------
+5/31/2025, 1:09:12 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/31/2025, 1:09:12 PM GMT+2 2: ✅ webContents.created web1 ""
+5/31/2025, 1:09:12 PM GMT+2 3: ✅ window.created win1 "discord"
+5/31/2025, 1:09:12 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/31/2025, 1:09:12 PM GMT+2 5: ✅ webContents.created web2 ""
+5/31/2025, 1:09:12 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/31/2025, 1:09:19 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/31/2025, 1:09:19 PM GMT+2 8: window.close win1
+5/31/2025, 1:09:19 PM GMT+2 9: webContents.destroyed web1
+5/31/2025, 1:09:19 PM GMT+2 10: window.closed win1
+5/31/2025, 1:17:25 PM GMT+2 11: before-quit
+5/31/2025, 1:17:25 PM GMT+2 12: window.close win2
+5/31/2025, 1:17:25 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/31/2025, 1:17:25 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/31/2025, 1:17:25 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/31/2025, 8:54:17 PM GMT+2 0: 
+
+----------------------------------------------
+5/31/2025, 8:54:17 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/31/2025, 8:54:17 PM GMT+2 2: ✅ webContents.created web1 ""
+5/31/2025, 8:54:17 PM GMT+2 3: ✅ window.created win1 "discord"
+5/31/2025, 8:54:18 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/31/2025, 8:54:18 PM GMT+2 5: ✅ webContents.created web2 ""
+5/31/2025, 8:54:18 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/31/2025, 6:55:08 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/31/2025, 6:55:08 PM GMT+2 8: window.close win1
+5/31/2025, 6:55:08 PM GMT+2 9: webContents.destroyed web1
+5/31/2025, 6:55:08 PM GMT+2 10: window.closed win1
+5/31/2025, 6:57:14 PM GMT+2 11: before-quit
+5/31/2025, 6:57:14 PM GMT+2 12: window.close win2
+5/31/2025, 6:57:14 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/31/2025, 6:57:14 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+5/31/2025, 6:57:14 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+5/31/2025, 6:58:19 PM GMT+2 0: 
+
+----------------------------------------------
+5/31/2025, 6:58:19 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/31/2025, 6:58:19 PM GMT+2 2: ✅ webContents.created web1 ""
+5/31/2025, 6:58:19 PM GMT+2 3: ✅ window.created win1 "discord"
+5/31/2025, 6:58:19 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/31/2025, 6:58:19 PM GMT+2 5: ✅ webContents.created web2 ""
+5/31/2025, 6:58:19 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/31/2025, 6:58:28 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/31/2025, 6:58:28 PM GMT+2 8: window.close win1
+5/31/2025, 6:58:28 PM GMT+2 9: webContents.destroyed web1
+5/31/2025, 6:58:28 PM GMT+2 10: window.closed win1
+5/31/2025, 7:09:18 PM GMT+2 11: before-quit
+5/31/2025, 7:10:04 PM GMT+2 0: 
+
+----------------------------------------------
+5/31/2025, 7:10:04 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/31/2025, 7:10:04 PM GMT+2 2: ✅ webContents.created web1 ""
+5/31/2025, 7:10:04 PM GMT+2 3: ✅ window.created win1 "discord"
+5/31/2025, 7:10:04 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/31/2025, 7:10:04 PM GMT+2 5: ✅ webContents.created web2 ""
+5/31/2025, 7:10:04 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/31/2025, 7:10:10 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/31/2025, 7:10:10 PM GMT+2 8: window.close win1
+5/31/2025, 7:10:10 PM GMT+2 9: webContents.destroyed web1
+5/31/2025, 7:10:10 PM GMT+2 10: window.closed win1
+5/31/2025, 7:12:06 PM GMT+2 11: before-quit
+5/31/2025, 7:12:49 PM GMT+2 0: 
+
+----------------------------------------------
+5/31/2025, 7:12:49 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/31/2025, 7:12:49 PM GMT+2 2: ✅ webContents.created web1 ""
+5/31/2025, 7:12:49 PM GMT+2 3: ✅ window.created win1 "discord"
+5/31/2025, 7:12:49 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/31/2025, 7:12:49 PM GMT+2 5: ✅ webContents.created web2 ""
+5/31/2025, 7:12:49 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/31/2025, 7:12:54 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/31/2025, 7:12:54 PM GMT+2 8: window.close win1
+5/31/2025, 7:12:54 PM GMT+2 9: webContents.destroyed web1
+5/31/2025, 7:12:54 PM GMT+2 10: window.closed win1
+5/31/2025, 7:15:43 PM GMT+2 11: before-quit
+5/31/2025, 7:15:43 PM GMT+2 12: window.close win2
+5/31/2025, 7:16:22 PM GMT+2 0: 
+
+----------------------------------------------
+5/31/2025, 7:16:22 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/31/2025, 7:16:22 PM GMT+2 2: ✅ webContents.created web1 ""
+5/31/2025, 7:16:22 PM GMT+2 3: ✅ window.created win1 "discord"
+5/31/2025, 7:16:22 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/31/2025, 7:16:22 PM GMT+2 5: ✅ webContents.created web2 ""
+5/31/2025, 7:16:22 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/31/2025, 7:16:37 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/31/2025, 7:16:37 PM GMT+2 8: window.close win1
+5/31/2025, 7:16:37 PM GMT+2 9: webContents.destroyed web1
+5/31/2025, 7:16:37 PM GMT+2 10: window.closed win1
+5/31/2025, 8:42:35 PM GMT+2 0: 
+
+----------------------------------------------
+5/31/2025, 8:42:35 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/31/2025, 8:42:35 PM GMT+2 2: ✅ webContents.created web1 ""
+5/31/2025, 8:42:35 PM GMT+2 3: ✅ window.created win1 "discord"
+5/31/2025, 8:42:35 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/31/2025, 8:42:35 PM GMT+2 5: ✅ webContents.created web2 ""
+5/31/2025, 8:42:35 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/31/2025, 8:42:40 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/31/2025, 8:42:41 PM GMT+2 8: window.close win1
+5/31/2025, 8:42:41 PM GMT+2 9: webContents.destroyed web1
+5/31/2025, 8:42:41 PM GMT+2 10: window.closed win1
+5/31/2025, 11:57:10 PM GMT+2 0: 
+
+----------------------------------------------
+5/31/2025, 11:57:10 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+5/31/2025, 11:57:10 PM GMT+2 2: ✅ webContents.created web1 ""
+5/31/2025, 11:57:10 PM GMT+2 3: ✅ window.created win1 "discord"
+5/31/2025, 11:57:10 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/31/2025, 11:57:13 PM GMT+2 5: ✅ webContents.created web2 ""
+5/31/2025, 11:57:13 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/31/2025, 11:57:18 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/31/2025, 11:57:19 PM GMT+2 8: window.close win1
+5/31/2025, 11:57:19 PM GMT+2 9: webContents.destroyed web1
+5/31/2025, 11:57:19 PM GMT+2 10: window.closed win1
+6/1/2025, 12:19:20 AM GMT+2 11: ❌ child-process-gone {
+  type: 'GPU',
+  reason: 'abnormal-exit',
+  exitCode: 8704,
+  serviceName: 'GPU'
+}
+6/1/2025, 12:19:20 AM GMT+2 12: Sentry report: {"contexts":{"trace":{"trace_id":"7666e475c88d448ea2e4eb269fa15372","span_id":"af34a71acb4c96e6"},"app":{"app_name":"discord","app_version":"0.0.95","app_start_time":"2025-05-31T21:57:09.792Z"},"os":{"kernel_version":"6.12.28-1-MANJARO","name":"Ubuntu Linux","version":"\"25.0.3\""},"browser":{"name":"Chrome"},"chrome":{"name":"Chrome","type":"runtime","version":"134.0.6998.205"},"device":{"arch":"x64","family":"Desktop","language":"en-US","screen_density":1,"screen_resolution":"2560x1440","memory_size":16686637056,"free_memory":4681469952,"processor_count":12,"cpu_description":"AMD Ryzen 5 5600X 6-Core Processor","processor_frequency":3712},"node":{"name":"Node","type":"runtime","version":"22.14.0"},"runtime":{"name":"Electron","version":"35.3.0"}},"environment":"stable","release":"0.0.95","user":{"ip_address":"{{auto}}","id":"1053992532612218950","username":"lennilid","email":"lennilid.discord@gmail.com"},"tags":{"event.origin":"electron","event.environment":"javascript","event.process":"GPU","event_type":"javascript","nativeBuildNumber":"null"},"event_id":"7879914eb6fd4a12aa170519cfdeef15","level":"warning","message":"'GPU' process exited with 'abnormal-exit'","platform":"node","timestamp":1748729960.254,"sdk":{"integrations":["SentryMinidump","ElectronBreadcrumbs","Net","MainContext","ChildProcess","OnUncaughtException","PreloadInjection","AdditionalContext","Screenshots","RendererProfiling","InboundFilters","FunctionToString","LinkedErrors","RequestData","Console","Http","Undici","OnUnhandledRejection","ContextLines","LocalVariables","Modules"]},"breadcrumbs":[{"timestamp":1748729159.189,"category":"ui.click","message":"div#user-context-user-profile.item_c1e9c4.labelContainer_c1e9c4.colorDefault_c1e9c4.focused_c1e9c4"},{"timestamp":1748729163.53,"category":"ui.click","message":"div.layerContainer_da8173 > div.backdrop__78332.withLayer__78332"},{"timestamp":1748729165.388,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729165.388,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729226.357,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729226.357,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729227.358,"category":"ui.click","message":"div.tile__2f4f7.tile__90dc5 > div.tileChild__2f4f7"},{"timestamp":1748729229.423,"category":"ui.click","message":"div.tileChild__2f4f7 > div.overlayContainer__2f4f7"},{"timestamp":1748729231.114,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729231.114,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729280.797,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729280.803,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748729280.803,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729282.348,"category":"ui.click","message":"a.originalLink_af017a"},{"timestamp":1748729313.124,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748729313.124,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729314.421,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748729314.421,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729314.751,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748729314.751,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729316.783,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748729316.783,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729318.042,"category":"ui.click","message":"a.originalLink_af017a"},{"timestamp":1748729318.802,"category":"ui.click","message":"div.carouselModal_d3a6f0.theme-dark.theme-midnight.images-dark.root__49fc1"},{"timestamp":1748729319.581,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748729319.581,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729427.212,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748729427.212,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729429.261,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748729433.442,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729433.442,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729488.821,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729488.821,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729492,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748729499.257,"category":"ui.click","message":"div.label_c1e9c4"},{"timestamp":1748729510.048,"category":"ui.click","message":"div.layerContainer_da8173 > div.backdrop__78332.withLayer__78332"},{"timestamp":1748729511.341,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748729514.048,"category":"ui.click","message":"div#user-context-user-profile.item_c1e9c4.labelContainer_c1e9c4.colorDefault_c1e9c4.focused_c1e9c4"},{"timestamp":1748729514.821,"category":"ui.click","message":"div.scroller_fcb628.thin_d125d2.scrollerBase_d125d2.fade_d125d2"},{"timestamp":1748729515.116,"category":"ui.click","message":"div.tabBarItem_d1d9f3.item_b3f026.selected_b3f026.themed_b3f026[aria-label=\"5 gemeinsame Freunde\"]"},{"timestamp":1748729520.009,"category":"ui.click","message":"div.defaultColor__4bd52.text-sm/normal_cf4812"},{"timestamp":1748729522.882,"category":"ui.click","message":"div.defaultColor__4bd52.text-sm/normal_cf4812"},{"timestamp":1748729523.433,"category":"ui.click","message":"div.inner_c0bea0 > div.body__24502 > div.container_d1d9f3"},{"timestamp":1748729524.13,"category":"ui.click","message":"div.defaultColor__4bd52.text-sm/normal_cf4812"},{"timestamp":1748729528.388,"category":"ui.click","message":"div.layerContainer_da8173 > div.backdrop__78332.withLayer__78332"},{"timestamp":1748729542.836,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729542.836,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729544.328,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729544.329,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729544.67,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729544.67,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729590.929,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729590.929,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729592.502,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729592.502,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729611.372,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729611.372,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729612.85,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729612.85,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729639.241,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729639.253,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748729639.253,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729642.278,"category":"ui.click","message":"a.originalLink_af017a"},{"timestamp":1748729643.517,"category":"ui.click","message":"div.carouselModal_d3a6f0.theme-dark.theme-midnight.images-dark.root__49fc1"},{"timestamp":1748729644.168,"category":"ui.click","message":"a.originalLink_af017a"},{"timestamp":1748729644.794,"category":"ui.click","message":"div.carouselModal_d3a6f0.theme-dark.theme-midnight.images-dark.root__49fc1"},{"timestamp":1748729648.644,"category":"ui.click","message":"div.label_c1e9c4"},{"timestamp":1748729649.033,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748729649.033,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729657.196,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1323478925858308108"}},{"timestamp":1748729657.196,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729658.322,"category":"ui.click","message":"a.originalLink_af017a"},{"timestamp":1748729663.602,"category":"ui.click","message":"div.carouselModal_d3a6f0.theme-dark.theme-midnight.images-dark.root__49fc1"},{"timestamp":1748729669.115,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748729674.957,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729674.957,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729843.097,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729843.097,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729844.263,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729844.263,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729844.366,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729844.367,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729844.367,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729846.556,"category":"ui.click","message":"g > g > g > g > path"},{"timestamp":1748729872.5,"category":"ui.click","message":"g > g > g > g > path"},{"timestamp":1748729875.77,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748729883.057,"category":"ui.click","message":"div.listItem__650eb > div.listItemWrapper__91816 > div.wrapper_cc5dd2 > svg"},{"timestamp":1748729884.42,"category":"ui.click","message":"div.childWrapper__6e9f8.childWrapperNoHoverBg__6e9f8 > svg"},{"timestamp":1748729886.774,"category":"ui.click","message":"div.wrapper_cc5dd2 > svg > foreignobject > div.wrapper__6e9f8.selected__6e9f8"},{"timestamp":1748729893.073,"category":"ui.click","message":"svg"},{"timestamp":1748729896.537,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729896.537,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729898.629,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729898.629,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1748729899.29,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/774271756549619722/1179087198579064914"}},{"timestamp":1748729899.29,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1748729948.599,"category":"electron","message":"screen.display-added","type":"ui"},{"timestamp":1748729948.603,"category":"electron","message":"screen.display-metrics-changed","type":"ui"},{"timestamp":1748729949.034,"category":"electron","message":"screen.display-metrics-changed","type":"ui"},{"timestamp":1748729960.253,"category":"electron","message":"app.child-process-gone","type":"ui"}],"sdkProcessingMetadata":{"dynamicSamplingContext":{"environment":"stable","release":"0.0.95","public_key":"d2558f321dfc7ab68366d8258fd256c7","trace_id":"7666e475c88d448ea2e4eb269fa15372"}},"modules":{},"extra":{"release_channel":"stable","sentry":{"environment":"stable","release":"0.0.95","user":{"id":"1053992532612218950","username":"lennilid","email":"lennilid.discord@gmail.com"}},"wm":"KDE,unknown","distro":"\"Manjaro Linux\"","nativeBuildNumber":"null","user_id":"1053992532612218950","username":"lennilid","email":"lennilid.discord@gmail.com"}}
+6/1/2025, 1:07:48 AM GMT+2 13: before-quit
+6/1/2025, 1:07:48 AM GMT+2 14: window.close win2
+6/1/2025, 1:07:48 AM GMT+2 15: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+6/1/2025, 1:07:48 AM GMT+2 16: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+6/1/2025, 1:07:48 AM GMT+2 17: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+6/1/2025, 1:02:55 PM GMT+2 0: 
+
+----------------------------------------------
+6/1/2025, 1:02:55 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+6/1/2025, 1:02:55 PM GMT+2 2: ✅ webContents.created web1 ""
+6/1/2025, 1:02:55 PM GMT+2 3: ✅ window.created win1 "discord"
+6/1/2025, 1:02:56 PM GMT+2 4: ✅ webContents.did-finish-load web1
+6/1/2025, 1:02:56 PM GMT+2 5: ✅ webContents.created web2 ""
+6/1/2025, 1:02:56 PM GMT+2 6: ✅ window.created win2 "Discord"
+6/1/2025, 1:03:02 PM GMT+2 7: ✅ webContents.did-finish-load web2
+6/1/2025, 1:03:02 PM GMT+2 8: window.close win1
+6/1/2025, 1:03:02 PM GMT+2 9: webContents.destroyed web1
+6/1/2025, 1:03:02 PM GMT+2 10: window.closed win1
+6/1/2025, 2:00:46 PM GMT+2 11: before-quit
+6/1/2025, 2:00:46 PM GMT+2 12: window.close win2
+6/1/2025, 2:00:46 PM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+6/1/2025, 2:00:46 PM GMT+2 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+6/1/2025, 2:00:46 PM GMT+2 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+6/1/2025, 2:04:05 PM GMT+2 0: 
+
+----------------------------------------------
+6/1/2025, 2:04:05 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+6/1/2025, 2:04:05 PM GMT+2 2: ✅ webContents.created web1 ""
+6/1/2025, 2:04:05 PM GMT+2 3: ✅ window.created win1 "discord"
+6/1/2025, 2:04:06 PM GMT+2 4: ✅ webContents.did-finish-load web1
+6/1/2025, 2:04:06 PM GMT+2 5: ✅ webContents.created web2 ""
+6/1/2025, 2:04:06 PM GMT+2 6: ✅ window.created win2 "Discord"
+6/1/2025, 2:04:58 PM GMT+2 7: ✅ webContents.did-finish-load web2
+6/1/2025, 2:04:59 PM GMT+2 8: window.close win1
+6/1/2025, 2:04:59 PM GMT+2 9: webContents.destroyed web1
+6/1/2025, 2:04:59 PM GMT+2 10: window.closed win1
+6/1/2025, 10:09:33 PM GMT+2 11: before-quit
+6/1/2025, 10:09:33 PM GMT+2 12: window.close win2
+6/2/2025, 2:08:28 PM GMT+2 0: 
+
+----------------------------------------------
+6/2/2025, 2:08:28 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+6/2/2025, 2:08:28 PM GMT+2 2: ✅ webContents.created web1 "index.html"
+6/2/2025, 2:08:28 PM GMT+2 3: ✅ window.created win1 "discord"
+6/2/2025, 2:08:28 PM GMT+2 4: ✅ webContents.did-finish-load web1
+6/2/2025, 2:08:28 PM GMT+2 5: ✅ webContents.created web2 ""
+6/2/2025, 2:08:28 PM GMT+2 6: ✅ window.created win2 "Discord"
+6/2/2025, 2:09:20 PM GMT+2 7: ✅ webContents.did-finish-load web2
+6/2/2025, 2:09:21 PM GMT+2 8: window.close win1
+6/2/2025, 2:09:21 PM GMT+2 9: webContents.destroyed web1
+6/2/2025, 2:09:21 PM GMT+2 10: window.closed win1
+6/2/2025, 2:32:07 PM GMT+2 11: before-quit
+6/2/2025, 3:43:53 PM GMT+2 0: 
+
+----------------------------------------------
+6/2/2025, 3:43:53 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+6/2/2025, 3:43:53 PM GMT+2 2: ✅ webContents.created web1 ""
+6/2/2025, 3:43:53 PM GMT+2 3: ✅ window.created win1 "discord"
+6/2/2025, 3:43:53 PM GMT+2 4: ✅ webContents.did-finish-load web1
+6/2/2025, 3:43:54 PM GMT+2 5: ✅ webContents.created web2 ""
+6/2/2025, 3:43:54 PM GMT+2 6: ✅ window.created win2 "Discord"
+6/2/2025, 4:42:18 PM GMT+2 0: 
+
+----------------------------------------------
+6/2/2025, 4:42:18 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/lennilid/.config/discord/0.0.95/modules
+6/2/2025, 4:42:18 PM GMT+2 2: ✅ webContents.created web1 ""
+6/2/2025, 4:42:18 PM GMT+2 3: ✅ window.created win1 "discord"
+6/2/2025, 4:42:18 PM GMT+2 4: ✅ webContents.did-finish-load web1
+6/2/2025, 4:42:18 PM GMT+2 5: ✅ webContents.created web2 ""
+6/2/2025, 4:42:18 PM GMT+2 6: ✅ window.created win2 "Discord"
+6/2/2025, 4:42:26 PM GMT+2 7: ✅ webContents.did-finish-load web2
+6/2/2025, 4:42:26 PM GMT+2 8: window.close win1
+6/2/2025, 4:42:26 PM GMT+2 9: webContents.destroyed web1
+6/2/2025, 4:42:26 PM GMT+2 10: window.closed win1

@@ -1,0 +1,88 @@
+{
+  "app_name": "30647199e65341c2be84d81fa6964ff0",
+  "app_title": "Dodo Peak",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "30647199e65341c2be84d81fa6964ff0",
+      "asset_id": "30647199e65341c2be84d81fa6964ff0",
+      "build_version": "1_5_5",
+      "catalog_item_id": "435f086b9e2e4da9882d36585cd998c5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bb7c671271434874bdba003f1c7b32d2"
+      },
+      "namespace": "cea01263911a4e179a5e3892ef710930",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567UNZFdpEr4XBzA4aazQq6xL02",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-03-15T17:16:06.682Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/DodoPeak/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DodoPeakRXRkn"
+      }
+    },
+    "description": "A throwback to the classic arcade platformers of the past with a modern twist! Play as a dodo bird to find and rescue your lost babies from a series of dangerous island peaks.",
+    "developer": "Moving Pieces Interactive",
+    "developerId": "o-99amq5dm46yptbqyp4fd5f2rllp5d4",
+    "endOfSupport": false,
+    "entitlementName": "435f086b9e2e4da9882d36585cd998c5",
+    "entitlementType": "EXECUTABLE",
+    "id": "435f086b9e2e4da9882d36585cd998c5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Dodo Peak Offer",
+        "height": 1440,
+        "md5": "b7c1a5063a6fa239cf7d9dc13f37b672",
+        "size": 474660,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-03-31T19:54:33.089Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/f12a1b6884a4432dbd042e98a7eda29c/dodo-peak-1ckvr.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Dodo Peak Offer",
+        "height": 1600,
+        "md5": "ba02cb9e45f6c2168718e7a6aca5cfdd",
+        "size": 2808775,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-03-31T19:54:36.464Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/f12a1b6884a4432dbd042e98a7eda29c/dodo-peak-1o1sj.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-08-16T19:59:46.700Z",
+    "mainGameItemList": [],
+    "namespace": "cea01263911a4e179a5e3892ef710930",
+    "releaseInfo": [
+      {
+        "appId": "30647199e65341c2be84d81fa6964ff0",
+        "id": "652c3376b9b842e4ba7fe4b6410f847f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Dodo Peak",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

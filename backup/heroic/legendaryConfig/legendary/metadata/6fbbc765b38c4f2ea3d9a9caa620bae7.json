@@ -1,0 +1,163 @@
+{
+  "app_name": "6fbbc765b38c4f2ea3d9a9caa620bae7",
+  "app_title": "Discord",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "6fbbc765b38c4f2ea3d9a9caa620bae7",
+      "asset_id": "6fbbc765b38c4f2ea3d9a9caa620bae7",
+      "build_version": "1.0.9192.win",
+      "catalog_item_id": "135a58d131b342f4bb1b9ec0c494cc96",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5f3c898b2a3244af99e9900e015717f8",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "software"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-02-16T00:27:23.190Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Discord"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "5f3c898b2a3244af99e9900e015717f8"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Discord",
+    "developer": "Discord Inc",
+    "developerId": "o-78dgatrfv9b22akubafkyfcm3sbxf5",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-11-15T00:55:12.972Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "BohriumOfferNov2024",
+        "developer": "Discord Inc",
+        "developerId": "o-78dgatrfv9b22akubafkyfcm3sbxf5",
+        "endOfSupport": false,
+        "entitlementName": "273fc8a732064ec2b638987eb6227d10",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "273fc8a732064ec2b638987eb6227d10",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-11-26T00:11:46.817Z",
+        "mainGameItem": {
+          "id": "135a58d131b342f4bb1b9ec0c494cc96",
+          "namespace": "5f3c898b2a3244af99e9900e015717f8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "135a58d131b342f4bb1b9ec0c494cc96",
+            "namespace": "5f3c898b2a3244af99e9900e015717f8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5f3c898b2a3244af99e9900e015717f8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BohriumOfferNov2024",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "135a58d131b342f4bb1b9ec0c494cc96",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "135a58d131b342f4bb1b9ec0c494cc96",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "7e960066e153510e27bdded06d99ff5e",
+        "size": 87602,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-05-19T01:26:37.014Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-b72c609ef567_1200x1600-7e960066e153510e27bdded06d99ff5e",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "53f5d8dfeecbcb54b5ef5cc2acd8f21f",
+        "size": 138972,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-05-19T01:26:45.669Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s1-2560x1440-834f227d1383_2560x1440-53f5d8dfeecbcb54b5ef5cc2acd8f21f",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2024-11-26T00:11:46.837Z",
+    "mainGameItemList": [],
+    "namespace": "5f3c898b2a3244af99e9900e015717f8",
+    "releaseInfo": [
+      {
+        "appId": "6fbbc765b38c4f2ea3d9a9caa620bae7",
+        "dateAdded": "2021-02-16T00:47:30.000Z",
+        "id": "6d520a3dbe154d1d903167070e0e58ef",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Discord",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

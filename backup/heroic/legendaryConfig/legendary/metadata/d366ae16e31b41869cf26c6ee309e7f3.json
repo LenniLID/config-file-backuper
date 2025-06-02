@@ -1,0 +1,150 @@
+{
+  "app_name": "d366ae16e31b41869cf26c6ee309e7f3",
+  "app_title": "Soulstice",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "d366ae16e31b41869cf26c6ee309e7f3",
+      "asset_id": "d366ae16e31b41869cf26c6ee309e7f3",
+      "build_version": "Soulstice_release_live_v1.26",
+      "catalog_item_id": "055dcd4c95a54ff58edb145ddbec3e3e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "cb8afc06acb14f6a8cf3ab01f4b361ce",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567WGxMuZ1HHUaUtYSuEI4nrKkC",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-12-06T12:43:45.034Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Soulstice"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "cb8afc06acb14f6a8cf3ab01f4b361ce"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Soulstice",
+    "developer": "Maximum Entertainment",
+    "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-23T15:02:55.698Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "DucanaItemPack",
+        "developer": "Maximum Entertainment",
+        "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+        "endOfSupport": false,
+        "entitlementName": "cf9d0d2abc7f4f3183dc28850726e8ce",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cf9d0d2abc7f4f3183dc28850726e8ce",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-01-17T20:23:22.474Z",
+        "mainGameItem": {
+          "id": "055dcd4c95a54ff58edb145ddbec3e3e",
+          "namespace": "cb8afc06acb14f6a8cf3ab01f4b361ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "055dcd4c95a54ff58edb145ddbec3e3e",
+            "namespace": "cb8afc06acb14f6a8cf3ab01f4b361ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "cb8afc06acb14f6a8cf3ab01f4b361ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DucanaItemPack",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "055dcd4c95a54ff58edb145ddbec3e3e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "055dcd4c95a54ff58edb145ddbec3e3e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "dd33485a66a99704353c5ab09183612d",
+        "size": 816207,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-08-22T15:57:02.385Z",
+        "url": "https://cdn1.epicgames.com/item/cb8afc06acb14f6a8cf3ab01f4b361ce/EGS_Soulstice_ReplyGameStudios_S1_2560x1440-dd33485a66a99704353c5ab09183612d",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "274ca009b4e488257a0f5f8c3b4ebf04",
+        "size": 333534,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-08-22T15:57:08.184Z",
+        "url": "https://cdn1.epicgames.com/item/cb8afc06acb14f6a8cf3ab01f4b361ce/EGS_Soulstice_ReplyGameStudios_S2_1200x1600-274ca009b4e488257a0f5f8c3b4ebf04",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:35:22.286Z",
+    "mainGameItemList": [],
+    "namespace": "cb8afc06acb14f6a8cf3ab01f4b361ce",
+    "releaseInfo": [
+      {
+        "appId": "d366ae16e31b41869cf26c6ee309e7f3",
+        "id": "1be0e94591424653b7fe59ef0c6d18fa",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Soulstice",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

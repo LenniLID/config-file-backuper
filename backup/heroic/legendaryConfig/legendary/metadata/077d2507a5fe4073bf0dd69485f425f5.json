@@ -1,0 +1,103 @@
+{
+  "app_name": "077d2507a5fe4073bf0dd69485f425f5",
+  "app_title": "Cursed to Golf",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "077d2507a5fe4073bf0dd69485f425f5",
+      "asset_id": "077d2507a5fe4073bf0dd69485f425f5",
+      "build_version": "2.0.1",
+      "catalog_item_id": "b8c897b0f6ff46ca857f422dab301832",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "92f79665699244caaefcdfd65a931a79"
+      },
+      "namespace": "2cdc5a2758a6445d8d4f399ecb469aaf",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-07-07T14:39:47.015Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "CursedtoGolfT8SBu"
+      }
+    },
+    "description": "Cursed to Golf is a golf-like adventure where every shot counts. Players are tasked with making it out of Golf Purgatory to become a Golfing Legend.",
+    "developer": "Thunderful Publishing",
+    "developerId": "o-spnhay87hpg87p8jckfensnks84z8f",
+    "endOfSupport": false,
+    "entitlementName": "b8c897b0f6ff46ca857f422dab301832",
+    "entitlementType": "EXECUTABLE",
+    "id": "b8c897b0f6ff46ca857f422dab301832",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Cursed to Golf Offer",
+        "height": 1440,
+        "md5": "a6b2f7922c2afcf5606d362cba17d7e3",
+        "size": 3432129,
+        "type": "OfferImageWide",
+        "uploadedDate": "2022-07-13T14:16:25.665Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a323e5521a98467dbbd24aa9bb3ee9a4/cursed-to-golf-offer-zln8n.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Cursed to Golf Offer",
+        "height": 1600,
+        "md5": "511b0a64e0d6a2853b271c761e3b226a",
+        "size": 1947797,
+        "type": "OfferImageTall",
+        "uploadedDate": "2022-07-13T14:16:38.019Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a323e5521a98467dbbd24aa9bb3ee9a4/download-cursed-to-golf-offer-17avs.png",
+        "width": 1200
+      },
+      {
+        "alt": "Cursed to Golf Offer",
+        "height": 1440,
+        "md5": "a6b2f7922c2afcf5606d362cba17d7e3",
+        "size": 3432129,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-07-13T14:16:42.650Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a323e5521a98467dbbd24aa9bb3ee9a4/cursed-to-golf-offer-sj4l7.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Cursed to Golf Offer",
+        "height": 1600,
+        "md5": "511b0a64e0d6a2853b271c761e3b226a",
+        "size": 1947797,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-07-13T14:16:46.399Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a323e5521a98467dbbd24aa9bb3ee9a4/download-cursed-to-golf-offer-1hejy.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-10-28T15:59:04.114Z",
+    "mainGameItemList": [],
+    "namespace": "2cdc5a2758a6445d8d4f399ecb469aaf",
+    "releaseInfo": [
+      {
+        "appId": "077d2507a5fe4073bf0dd69485f425f5",
+        "id": "2f5d16c1e4b54c519fc2114fb4874ef0",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Cursed to Golf",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,69 @@
+(22:10:36) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary
+(22:10:36) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl
+(22:10:36) INFO:    [Connection]:       Connectivity: check-online
+(22:10:36) INFO:    [Connection]:       Pinging external endpoints
+(22:10:36) INFO:    [Gog]:              Checking for existing gog manifests
+(22:10:36) WARNING: [Backend]:          Protocol already registered.
+(22:10:36) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/lennilid/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+(22:10:36) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/lennilid/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/lennilid/.config/heroic/gog_store/auth.json --version
+(22:10:36) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/lennilid/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/nile --version
+(22:10:36) INFO:    [Connection]:       Connectivity: online
+(22:10:36) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(22:10:36) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/lennilid/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/lennilid/.config/heroic/gog_store/auth.json auth
+(22:10:36) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(22:10:36) INFO:    [Backend]:          
+System Information:
+CPU: 12x AMD Ryzen 5 5600X 6-Core Processor
+Memory: 16.69 GB (used: 4.18 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation GA104 [GeForce RTX 3060 Ti Lite Hash Rate]
+    IDs: D=2489 V=10de SD=153c SV=10de
+    Driver: nvidia
+OS: Manjaro Linux 6.12.28-1-MANJARO (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.17.0 Cutty Flam Franky
+  Legendary: 0.20.37 Exit 17 (Heroic)
+  gogdl: 1.1.2
+  comet: comet 0.2.0
+  Nile: 1.1.2 Will A. Zeppeli
+
+(22:10:36) INFO:    [Frontend]:         Refreshing undefined Library
+(22:10:36) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(22:10:36) INFO:    [Legendary]:        Refreshing library...
+(22:10:36) INFO:    [Legendary]:        Refreshing Epic Games...
+(22:10:36) INFO:    [Backend]:          Frontend Ready
+(22:10:36) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/lennilid/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(22:10:36) INFO:    [Backend]:          Checking for new Heroic Updates
+(22:10:36) INFO:    [Backend]:          Checking for current version changelog
+(22:10:38) INFO:    [Legendary]:        Game list updated, got 96 games & DLCs
+(22:10:38) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(22:10:38) INFO:    [Backend]:          Launching Bloons TD 6 (7786b355a13b47a6b3915335117cd0b2)
+(22:10:38) INFO:    [Backend]:          Preventing display from sleep
+(22:10:38) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton - Experimental
+(22:10:38) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/lennilid/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(22:10:38) INFO:    [Backend]:          Preventing machine to sleep
+(22:10:38) INFO:    [Winetricks]:       Downloading Winetricks
+(22:10:38) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton - Experimental
+(22:10:38) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton - Experimental
+(22:10:38) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton - Experimental
+(22:10:38) DEBUG:   [Backend]:          Running Wine command: createprefix
+(22:10:39) INFO:    [Legendary]:        Found 0 games to update
+(22:10:41) INFO:    [WineDownloader]:   Updating wine versions info
+(22:10:41) INFO:    [WineDownloader]:   Fetching upstream information...
+(22:10:41) INFO:    [Backend]:          Starting the Download Queue
+(22:10:41) INFO:    [WineDownloader]:   wine versions updated
+(22:10:43) INFO:    [Legendary]:        Launching Bloons TD 6: HEROIC_APP_NAME=7786b355a13b47a6b3915335117cd0b2 HEROIC_APP_RUNNER=legendary GAMEID=umu-0 HEROIC_APP_SOURCE=epic STORE=egs STEAM_COMPAT_INSTALL_PATH=/home/lennilid/Games/Heroic/BloonsTD6 LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/lennilid/.steam/steam WINEPREFIX="/home/lennilid/Games/Heroic/Prefixes/default/Bloons TD 6" STEAM_COMPAT_DATA_PATH="/home/lennilid/Games/Heroic/Prefixes/default/Bloons TD 6" PROTONPATH="/home/lennilid/.local/share/Steam/steamapps/common/Proton - Experimental" WINE_FULLSCREEN_FSR=0 PROTON_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 PROTON_EAC_RUNTIME=/home/lennilid/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/lennilid/.config/heroic/tools/runtimes/battleye_runtime STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-BloonsTD6 PROTON_LOG_DIR=/home/lennilid LEGENDARY_CONFIG_PATH=/home/lennilid/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary launch 7786b355a13b47a6b3915335117cd0b2 --no-wine --wrapper "/home/lennilid/.config/heroic/tools/runtimes/umu/umu_run.py" --language en
+(22:10:43) INFO:    [Backend]:          Preventing display to sleep
+(23:05:03) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(23:05:03) INFO:    [Frontend]:         Refreshing legendary Library
+(23:05:03) INFO:    [Legendary]:        Refreshing library...
+(23:05:03) INFO:    [Legendary]:        Refreshing Epic Games...
+(23:05:03) INFO:    [Backend]:          Stopping Power Saver Blocker
+(23:05:03) INFO:    [Backend]:          Stopping Display Sleep Blocker
+(23:05:03) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/lennilid/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(23:05:04) INFO:    [Legendary]:        Game list updated, got 96 games & DLCs

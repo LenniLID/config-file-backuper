@@ -1,0 +1,208 @@
+{
+  "app_name": "574977bf807c4c3cabfe8ab19708205c",
+  "app_title": "Model Builder: Aether DLC",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "574977bf807c4c3cabfe8ab19708205c",
+      "asset_id": "574977bf807c4c3cabfe8ab19708205c",
+      "build_version": "1.1.8i",
+      "catalog_item_id": "c5d553e831a548ccacd7334998cd2e17",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2ac6bcd5910d4435a1fced61f997df8a"
+      },
+      "namespace": "23499f64e5304139b514c3e674c5c0d6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "addons"
+      }
+    ],
+    "creationDate": "2024-06-27T21:57:30.157Z",
+    "customAttributes": {},
+    "description": "Model Builder: Aether DLC",
+    "developer": "Green Man Gaming Publishing",
+    "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+    "endOfSupport": false,
+    "entitlementName": "c5d553e831a548ccacd7334998cd2e17",
+    "entitlementType": "EXECUTABLE",
+    "id": "c5d553e831a548ccacd7334998cd2e17",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Model Builder Model Builder: Aether DLC Offer",
+        "height": 1440,
+        "md5": "58dd499c87b9f826329eb8c4a465a1c5",
+        "size": 1460693,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-11-20T11:12:46.419Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-14ih8.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Model Builder Model Builder: Aether DLC Offer",
+        "height": 1600,
+        "md5": "3eb42d7028b152eb19065008d0888a01",
+        "size": 927264,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-11-20T11:12:40.971Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1f31a.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-06-27T21:57:30.157Z",
+    "mainGameItem": {
+      "applicationId": "fghi4567MrJn7DOaf82JWMBFrxPTtI8G",
+      "categories": [
+        {
+          "path": "games"
+        },
+        {
+          "path": "applications"
+        }
+      ],
+      "creationDate": "2022-09-29T13:38:13.418Z",
+      "customAttributes": {
+        "FolderName": {
+          "type": "STRING",
+          "value": "ModelBuilder"
+        }
+      },
+      "description": "Model Builder: Complete Edition",
+      "developer": "Green Man Gaming Publishing",
+      "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+      "endOfSupport": false,
+      "entitlementName": "b3dde22db4e14b4cb644271f02038e25",
+      "entitlementType": "EXECUTABLE",
+      "id": "b3dde22db4e14b4cb644271f02038e25",
+      "itemType": "DURABLE",
+      "keyImages": [
+        {
+          "alt": "Model Builder Offer",
+          "height": 1440,
+          "md5": "00074d151af07093febfe9814c2e8e64",
+          "size": 3961208,
+          "type": "DieselGameBox",
+          "uploadedDate": "2024-06-26T09:57:54.765Z",
+          "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-9z2bz.png",
+          "width": 2560
+        },
+        {
+          "alt": "Download Model Builder Offer",
+          "height": 1600,
+          "md5": "561c43c9b7c64410b24261b3a57954a7",
+          "size": 1976835,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2024-06-26T09:57:54.138Z",
+          "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-19dtm.png",
+          "width": 1200
+        }
+      ],
+      "lastModifiedDate": "2024-06-27T21:57:30.399Z",
+      "mainGameItemList": [],
+      "namespace": "23499f64e5304139b514c3e674c5c0d6",
+      "releaseInfo": [
+        {
+          "appId": "4a31c45c04e243cc97f3e47bc663fb18",
+          "id": "c99baf23387e4de4b3668cd3ea664007",
+          "platform": [
+            "Win32",
+            "Windows"
+          ]
+        }
+      ],
+      "requiresSecureAccount": false,
+      "status": "ACTIVE",
+      "title": "Model Builder: Complete Edition",
+      "unsearchable": false
+    },
+    "mainGameItemList": [
+      {
+        "applicationId": "fghi4567MrJn7DOaf82JWMBFrxPTtI8G",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-09-29T13:38:13.418Z",
+        "customAttributes": {
+          "FolderName": {
+            "type": "STRING",
+            "value": "ModelBuilder"
+          }
+        },
+        "description": "Model Builder: Complete Edition",
+        "developer": "Green Man Gaming Publishing",
+        "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+        "endOfSupport": false,
+        "entitlementName": "b3dde22db4e14b4cb644271f02038e25",
+        "entitlementType": "EXECUTABLE",
+        "id": "b3dde22db4e14b4cb644271f02038e25",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Model Builder Offer",
+            "height": 1440,
+            "md5": "00074d151af07093febfe9814c2e8e64",
+            "size": 3961208,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-26T09:57:54.765Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-9z2bz.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Model Builder Offer",
+            "height": 1600,
+            "md5": "561c43c9b7c64410b24261b3a57954a7",
+            "size": 1976835,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-26T09:57:54.138Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-19dtm.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-27T21:57:30.399Z",
+        "mainGameItemList": [],
+        "namespace": "23499f64e5304139b514c3e674c5c0d6",
+        "releaseInfo": [
+          {
+            "appId": "4a31c45c04e243cc97f3e47bc663fb18",
+            "id": "c99baf23387e4de4b3668cd3ea664007",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Model Builder: Complete Edition",
+        "unsearchable": false
+      }
+    ],
+    "namespace": "23499f64e5304139b514c3e674c5c0d6",
+    "releaseInfo": [
+      {
+        "appId": "574977bf807c4c3cabfe8ab19708205c",
+        "id": "9985282cf63048488e24a3c2805daf87",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Model Builder: Aether DLC",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

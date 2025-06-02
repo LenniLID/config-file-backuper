@@ -1,0 +1,304 @@
+{
+  "app_name": "7458160f5c18450cad7e95844a5dcdff",
+  "app_title": "Melvor Idle",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "7458160f5c18450cad7e95844a5dcdff",
+      "asset_id": "7458160f5c18450cad7e95844a5dcdff",
+      "build_version": "1.0.0-14-x64-sdk",
+      "catalog_item_id": "446c4af29db54979a6d0c39f0c068d58",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "91e4fe1bd557445b9059e388f19db5be"
+      },
+      "namespace": "207c42b0325d40ebb0414041dac29b19",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567j2cX8DV6rg8hefhQhfGlIcn0",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-11-29T22:14:44.919Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "MelvorIdleXLcGb"
+      },
+      "notarizedAndSigned": {
+        "type": "STRING",
+        "value": "true"
+      }
+    },
+    "description": "Inspired by RuneScape, Melvor Idle takes the core of what makes an adventure game so addictive and strips it down to its purest form! This is a feature-rich, idle/incremental game combining a distinctly familiar feel with a fresh gameplay experience.",
+    "developer": "Jagex",
+    "developerId": "o-pabxa6wl5qzfbkdutrz85c2mnrptrr",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-12-04T10:25:58.657Z",
+        "customAttributes": {},
+        "description": "Throne of the Herald expansion continues the story of our hero as you discover more about the mystic forces that surround the lands of Melvor, and the dark forces that remain hidden outside of the Capital.",
+        "developer": "Jagex",
+        "developerId": "o-pabxa6wl5qzfbkdutrz85c2mnrptrr",
+        "endOfSupport": false,
+        "entitlementName": "dab2aebce3844ead82b6fdde129c7c57",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "dab2aebce3844ead82b6fdde129c7c57",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Melvor Idle Throne of the Herald Offer",
+            "height": 1440,
+            "md5": "f27a5392a97cde9e596668b4d5e98271",
+            "size": 458661,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-12-04T10:45:32.462Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/1caf32ecc37545b0ad7a3fb6293fef28/melvor-idle-1bvl3.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Melvor Idle Throne of the Herald Offer",
+            "height": 1600,
+            "md5": "e2e5b90d7566a555f1dcc20a5263fcbe",
+            "size": 324083,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-12-04T10:45:37.300Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/1caf32ecc37545b0ad7a3fb6293fef28/melvor-idle-1o501.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-03-04T15:00:21.021Z",
+        "mainGameItem": {
+          "id": "446c4af29db54979a6d0c39f0c068d58",
+          "namespace": "207c42b0325d40ebb0414041dac29b19",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "446c4af29db54979a6d0c39f0c068d58",
+            "namespace": "207c42b0325d40ebb0414041dac29b19",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "207c42b0325d40ebb0414041dac29b19",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Throne of the Herald",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-12-04T10:26:33.572Z",
+        "description": "Atlas of Discovery, Melvor Idle\u2019s second expansion, is all about exploration! Discover eight new Combat Areas packed with dozens of monsters to fight and hundreds of new items to find.",
+        "developer": "Jagex",
+        "developerId": "o-pabxa6wl5qzfbkdutrz85c2mnrptrr",
+        "endOfSupport": false,
+        "entitlementName": "92898f38e5214ddb8ee93186adce9499",
+        "entitlementType": "EXECUTABLE",
+        "id": "92898f38e5214ddb8ee93186adce9499",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Melvor Idle Atlas of Discovery Offer",
+            "height": 1440,
+            "md5": "9b67957834a66c58d9633585d85ca4b0",
+            "size": 374083,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-12-04T10:35:04.329Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/1caf32ecc37545b0ad7a3fb6293fef28/melvor-idle-us1ts.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Melvor Idle Atlas of Discovery Offer",
+            "height": 1600,
+            "md5": "28509bdfb6c66520f74cb12e8277e550",
+            "size": 256941,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-12-04T10:35:11.372Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/1caf32ecc37545b0ad7a3fb6293fef28/melvor-idle-8ue8n.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-03-04T15:00:21.021Z",
+        "mainGameItem": {
+          "id": "446c4af29db54979a6d0c39f0c068d58",
+          "namespace": "207c42b0325d40ebb0414041dac29b19",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "446c4af29db54979a6d0c39f0c068d58",
+            "namespace": "207c42b0325d40ebb0414041dac29b19",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "207c42b0325d40ebb0414041dac29b19",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Atlas of Discovery",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-04T15:00:21.087Z",
+        "description": "Melvor Idle DLC Bundle_SeasonPassAudience",
+        "developer": "Jagex",
+        "developerId": "o-pabxa6wl5qzfbkdutrz85c2mnrptrr",
+        "endOfSupport": false,
+        "entitlementName": "dff0e47d1df14fc099fb2ec0a903409e",
+        "entitlementType": "AUDIENCE",
+        "id": "dff0e47d1df14fc099fb2ec0a903409e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-03-04T15:00:21.441Z",
+        "mainGameItem": {
+          "id": "446c4af29db54979a6d0c39f0c068d58",
+          "namespace": "207c42b0325d40ebb0414041dac29b19",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "446c4af29db54979a6d0c39f0c068d58",
+            "namespace": "207c42b0325d40ebb0414041dac29b19",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "207c42b0325d40ebb0414041dac29b19",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Melvor Idle DLC Bundle_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-02-27T16:16:24.655Z",
+        "description": "Discover a new dimension to Melvor Idle as you descend into the Abyssal Realm! Encounter \nnew challenges, unique environments and mechanics while mastering new Abyssal Skills. As \nyou delve deeper, the stakes get higher... but will you rise to glory?",
+        "developer": "Jagex",
+        "developerId": "o-pabxa6wl5qzfbkdutrz85c2mnrptrr",
+        "endOfSupport": false,
+        "entitlementName": "b8206433e9f74525abd7a62b6dfb1c2e",
+        "entitlementType": "EXECUTABLE",
+        "id": "b8206433e9f74525abd7a62b6dfb1c2e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Melvor Idle Into the Abyss Offer",
+            "height": 1440,
+            "md5": "936b8d3bc04f31d9fe42a6037e37a604",
+            "size": 1737538,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-02-28T10:59:42.581Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/1caf32ecc37545b0ad7a3fb6293fef28/melvor-idle-wdw7i.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Melvor Idle Into the Abyss Offer",
+            "height": 1600,
+            "md5": "67cf4dbce4dd0369bf856a78f13713df",
+            "size": 1030921,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-02-28T10:59:47.217Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/1caf32ecc37545b0ad7a3fb6293fef28/melvor-idle-11qw4.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-07T08:04:07.547Z",
+        "mainGameItem": {
+          "id": "446c4af29db54979a6d0c39f0c068d58",
+          "namespace": "207c42b0325d40ebb0414041dac29b19",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "446c4af29db54979a6d0c39f0c068d58",
+            "namespace": "207c42b0325d40ebb0414041dac29b19",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "207c42b0325d40ebb0414041dac29b19",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Into the Abyss",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "446c4af29db54979a6d0c39f0c068d58",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "446c4af29db54979a6d0c39f0c068d58",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Melvor Idle Offer",
+        "height": 1440,
+        "md5": "bab92e435f9c159c7e7b47867857f5a1",
+        "size": 298848,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-12-04T12:06:43.191Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/1caf32ecc37545b0ad7a3fb6293fef28/melvor-idle-12p3m.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Melvor Idle Offer",
+        "height": 1600,
+        "md5": "f2c385bf24bb13b0cdeb0c646e533a17",
+        "size": 190585,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-12-04T12:06:41.820Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/1caf32ecc37545b0ad7a3fb6293fef28/melvor-idle-1jrfx.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-03-14T12:00:02.806Z",
+    "mainGameItemList": [],
+    "namespace": "207c42b0325d40ebb0414041dac29b19",
+    "releaseInfo": [
+      {
+        "appId": "7458160f5c18450cad7e95844a5dcdff",
+        "id": "09b3fa3843314b0595546f1ad1108fa5",
+        "platform": [
+          "Mac",
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Melvor Idle",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

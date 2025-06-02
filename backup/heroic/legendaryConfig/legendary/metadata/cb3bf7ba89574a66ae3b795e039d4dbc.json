@@ -1,0 +1,108 @@
+{
+  "app_name": "cb3bf7ba89574a66ae3b795e039d4dbc",
+  "app_title": "The Outer Worlds: Spacer's Choice Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "cb3bf7ba89574a66ae3b795e039d4dbc",
+      "asset_id": "cb3bf7ba89574a66ae3b795e039d4dbc",
+      "build_version": "0.0.0.6415",
+      "catalog_item_id": "d5726dbbf0e44081bb2b439b1d0dfca0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "dc61166eea95474e912953b163791d42",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-04-21T20:19:37.442Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/The Outer Worlds Epic Games"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TOWSpacersChoice"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "dc61166eea95474e912953b163791d42"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Outer Worlds: Spacer's Choice Edition",
+    "developer": "Private Division",
+    "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+    "endOfSupport": false,
+    "entitlementName": "d5726dbbf0e44081bb2b439b1d0dfca0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "d5726dbbf0e44081bb2b439b1d0dfca0",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "24b156886564b75bf9aa823a0a0eb18e",
+        "size": 1040209,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-09-06T18:59:47.698Z",
+        "url": "https://cdn1.epicgames.com/item/dc61166eea95474e912953b163791d42/EGS_TheOuterWorldsSpacersChoiceEdition_ObsidianEntertainment_S2_1200x1600-24b156886564b75bf9aa823a0a0eb18e",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "dd9211a8277a2392a9dd5b108858ba33",
+        "size": 1045704,
+        "type": "DieselGameBoxWide",
+        "uploadedDate": "2022-09-06T18:59:52.407Z",
+        "url": "https://cdn1.epicgames.com/item/dc61166eea95474e912953b163791d42/EGS_TheOuterWorldsSpacersChoiceEdition_ObsidianEntertainment_S1_2560x1440-dd9211a8277a2392a9dd5b108858ba33",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2024-01-23T19:33:58.277Z",
+    "mainGameItemList": [],
+    "namespace": "dc61166eea95474e912953b163791d42",
+    "releaseInfo": [
+      {
+        "appId": "cb3bf7ba89574a66ae3b795e039d4dbc",
+        "id": "e3c5aa6d5c79412cae8ef39510c1ea3a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Outer Worlds: Spacer's Choice Edition",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

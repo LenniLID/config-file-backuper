@@ -1,0 +1,309 @@
+{
+  "app_name": "c195b58b0379438bb31a5b99d365d56c",
+  "app_title": "Europa Universalis IV: Common Sense Expansion Pack",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "c195b58b0379438bb31a5b99d365d56c",
+      "asset_id": "c195b58b0379438bb31a5b99d365d56c",
+      "build_version": "V4_1eefef4174016240e005",
+      "catalog_item_id": "bd4fa2bd2a9948608379512b12d1738c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a9c99f2755ac4568ba2d5663099b5bfe"
+      },
+      "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-02-22T18:35:47.672Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "EPCommonSense"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "80d3aeb1d7c3434981e0bcbc47700a83"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Europa Universalis IV: Common Sense Expansion Pack",
+    "developer": "Paradox Interactive",
+    "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "endOfSupport": false,
+    "entitlementName": "bd4fa2bd2a9948608379512b12d1738c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "bd4fa2bd2a9948608379512b12d1738c",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "8ffe8800ca9d58570838d9b62d00778d",
+        "size": 1041393,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-09-29T20:28:43.422Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIVCommonSenseEP_ParadoxDevelopmentStudios_DLC_S1_2560x1440-8ffe8800ca9d58570838d9b62d00778d_2560x1440-8ffe8800ca9d58570838d9b62d00778d",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "818dd2da5720bd094a7f35d47b586ce3",
+        "size": 1040757,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-09-29T20:28:37.876Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIVCommonSenseEP_ParadoxDevelopmentStudios_DLC_S2_1200x1600-818dd2da5720bd094a7f35d47b586ce3_1200x1600-818dd2da5720bd094a7f35d47b586ce3",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-09-29T21:25:13.747Z",
+    "mainGameItem": {
+      "ageGatings": {},
+      "applicationId": "fghi4567luxcTB823pCwC4K8R1EwG7DX",
+      "categories": [
+        {
+          "path": "public"
+        },
+        {
+          "path": "games"
+        },
+        {
+          "path": "applications"
+        }
+      ],
+      "creationDate": "2020-06-30T21:52:26.836Z",
+      "customAttributes": {
+        "CanRunOffline": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "CanSkipKoreanIdVerification": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "FolderName": {
+          "type": "STRING",
+          "value": "EuropaUniversalis4"
+        },
+        "MonitorPresence": {
+          "type": "STRING",
+          "value": "false"
+        },
+        "PresenceId": {
+          "type": "STRING",
+          "value": "80d3aeb1d7c3434981e0bcbc47700a83"
+        },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "[]"
+        },
+        "UseAccessControl": {
+          "type": "STRING",
+          "value": "false"
+        }
+      },
+      "description": "Europa Universalis IV",
+      "developer": "Paradox Interactive",
+      "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+      "endOfSupport": false,
+      "entitlementName": "93aba3588eac4dac86a1b578f6e10186",
+      "entitlementType": "EXECUTABLE",
+      "eulaIds": [
+        "(egstore && paradoxinteractive)"
+      ],
+      "id": "93aba3588eac4dac86a1b578f6e10186",
+      "installModes": [],
+      "itemType": "DURABLE",
+      "keyImages": [
+        {
+          "height": 1440,
+          "md5": "aa3002ec221d43dcd7e49f5458e74766",
+          "size": 948158,
+          "type": "DieselGameBox",
+          "uploadedDate": "2021-09-28T21:40:47.162Z",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S3_2560x1440-aa3002ec221d43dcd7e49f5458e74766",
+          "width": 2560
+        },
+        {
+          "height": 1600,
+          "md5": "381fe4bad2c0951566b465ab1a46726d",
+          "size": 994052,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2021-09-28T21:40:36.082Z",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S4_1200x1600-381fe4bad2c0951566b465ab1a46726d",
+          "width": 1200
+        }
+      ],
+      "lastModifiedDate": "2024-09-10T16:15:43.340Z",
+      "mainGameItemList": [],
+      "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+      "releaseInfo": [
+        {
+          "appId": "da0103e959e54d139d0c109ded3b3672",
+          "compatibleApps": [],
+          "dateAdded": "2020-12-10T00:00:00.000Z",
+          "id": "eda7d2abf3564c658cf0b83b21486967",
+          "platform": [
+            "Windows",
+            "Mac"
+          ]
+        }
+      ],
+      "status": "ACTIVE",
+      "title": "Europa Universalis IV",
+      "unsearchable": false
+    },
+    "mainGameItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567luxcTB823pCwC4K8R1EwG7DX",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-06-30T21:52:26.836Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "EuropaUniversalis4"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "80d3aeb1d7c3434981e0bcbc47700a83"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Europa Universalis IV",
+        "developer": "Paradox Interactive",
+        "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+        "endOfSupport": false,
+        "entitlementName": "93aba3588eac4dac86a1b578f6e10186",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "(egstore && paradoxinteractive)"
+        ],
+        "id": "93aba3588eac4dac86a1b578f6e10186",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "aa3002ec221d43dcd7e49f5458e74766",
+            "size": 948158,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-09-28T21:40:47.162Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S3_2560x1440-aa3002ec221d43dcd7e49f5458e74766",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "381fe4bad2c0951566b465ab1a46726d",
+            "size": 994052,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-09-28T21:40:36.082Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S4_1200x1600-381fe4bad2c0951566b465ab1a46726d",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-10T16:15:43.340Z",
+        "mainGameItemList": [],
+        "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+        "releaseInfo": [
+          {
+            "appId": "da0103e959e54d139d0c109ded3b3672",
+            "compatibleApps": [],
+            "dateAdded": "2020-12-10T00:00:00.000Z",
+            "id": "eda7d2abf3564c658cf0b83b21486967",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Europa Universalis IV",
+        "unsearchable": false
+      }
+    ],
+    "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+    "releaseInfo": [
+      {
+        "appId": "c195b58b0379438bb31a5b99d365d56c",
+        "compatibleApps": [],
+        "dateAdded": "2020-12-09T00:00:00.000Z",
+        "id": "877b4a9200e5471cadeed6cae5d64d24",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Europa Universalis IV: Common Sense Expansion Pack",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

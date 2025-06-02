@@ -1,0 +1,38 @@
+/**
+ * @name Фрирен из аниме "Провожающая в последний путь Фрирен"
+ * @author Solta
+ * @version 1.0.0
+ * @description Тема с Фрирен
+ * @source https://github.com/So1ta/friren-ThemeDiscord
+ * @authorLink https://steamcommunity.com/id/soltadayz/
+*/
+/* 
+ Используется видео в формате gif. Разрешение 1280x720. 30 fps
+*/
+
+@import url("https://so1ta.github.io/css/usp-base.css");
+
+
+:root {
+  --background: url("https://i.imgur.com/mhNwzZP.gif");
+  --font:                       "Inter";
+  --transparencyalpha:          0.5;
+  --transparencycolor:          0,0,0;
+  --messagetransparency:        0;
+  --guildchanneltransparency:   0;
+  --chatinputtransparency:      0;
+  --memberlisttransparency:     0;
+  --accentcolor:                255,153,0,0.5;
+}
+
+.theme-dark {
+  --text-normal:                #ffffff;
+  --text-muted:                 #ffffff;
+  --header-primary:             #ffffff;
+  --channels-default:           #ff9900;
+  --header-secondary:           #ff9900;
+  --interactive-normal:         #ff9900;
+  --interactive-hover:          #ffffff;
+  --interactive-active:         #ffffff;
+  --background-modifier-accent: #fff2;
+}

@@ -1,0 +1,122 @@
+{
+  "app_name": "adeae8bbfc94427db57c7dfecce3f1d4",
+  "app_title": "Fallout 3: Game of the Year Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "adeae8bbfc94427db57c7dfecce3f1d4",
+      "asset_id": "adeae8bbfc94427db57c7dfecce3f1d4",
+      "build_version": "1.11",
+      "catalog_item_id": "b1b4e0b67a044575820cb5e63028dcae",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fa702d34a37248ba98fb17f680c085e3",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-07-14T17:30:42.191Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "falloutprefs.ini, *.fos"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/Fallout3/Saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "fallout3"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "10000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "fa702d34a37248ba98fb17f680c085e3"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Fallout 3: Game of the Year Edition",
+    "developer": "Bethesda Softworks LLC",
+    "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+    "endOfSupport": false,
+    "entitlementName": "b1b4e0b67a044575820cb5e63028dcae",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && fallout)"
+    ],
+    "id": "b1b4e0b67a044575820cb5e63028dcae",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "073f5b4cf358f437a052a3c29806efa0",
+        "size": 767552,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-10-06T11:36:41.939Z",
+        "url": "https://cdn1.epicgames.com/item/fa702d34a37248ba98fb17f680c085e3/EGS_Fallout3GameoftheYearEdition_BethesdaGameStudios_S1_2560x1440-073f5b4cf358f437a052a3c29806efa0",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "e2ba392652a1f57c4feb65d6bbd1f963",
+        "size": 524976,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-10-06T11:36:34.552Z",
+        "url": "https://cdn1.epicgames.com/item/fa702d34a37248ba98fb17f680c085e3/EGS_Fallout3GameoftheYearEdition_BethesdaGameStudios_S2_1200x1600-e2ba392652a1f57c4feb65d6bbd1f963",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-06-28T14:00:39.245Z",
+    "mainGameItemList": [],
+    "namespace": "fa702d34a37248ba98fb17f680c085e3",
+    "releaseInfo": [
+      {
+        "appId": "adeae8bbfc94427db57c7dfecce3f1d4",
+        "id": "698447c043c540b9bdcd259920396deb",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Fallout 3: Game of the Year Edition",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

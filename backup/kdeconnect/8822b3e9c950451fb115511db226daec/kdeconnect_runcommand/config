@@ -1,0 +1,2 @@
+[General]
+commands="@ByteArray({\"0892331d_c64d_43aa_91c6_75958407e354\":{\"command\":\" shutdown -h 150; openrgb --profile none\",\"name\":\"plex\"},\"8eafd733_4cb4_474e_880d_e6a8d9ab792b\":{\"command\":\"shutdown -h now\",\"name\":\"out\"},\"e21a3d12_900d_42d0_aecc_84f622a814c1\":{\"command\":\"shutdown -h 9999;openrgb --profile aqua\",\"name\":\"cancel\"}})"

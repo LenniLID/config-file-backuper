@@ -1,0 +1,1328 @@
+{
+  "app_name": "aafc587fbf654758802c8e41e4fb3255",
+  "app_title": "ARK: Survival Evolved",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "aafc587fbf654758802c8e41e4fb3255",
+      "asset_id": "aafc587fbf654758802c8e41e4fb3255",
+      "build_version": "358.26.win",
+      "catalog_item_id": "743e47ee84ac49a1a49f4781da70e0d0",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "744fad1de2c2457699a60a62aafcd10f"
+      },
+      "namespace": "ark",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-03-23T17:43:29.664Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ARKSurvivalEvolved"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ark"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "SkipAutoInstallDlc": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "extraLaunchOption_001_Args": {
+        "type": "STRING",
+        "value": "-nobattleye"
+      },
+      "extraLaunchOption_001_Name": {
+        "type": "STRING",
+        "value": "Play ARK: No BattlEye AntiCheat, Unofficial Servers Only"
+      },
+      "extraLaunchOption_002_Args": {
+        "type": "STRING",
+        "value": "-sm4 -nomansky"
+      },
+      "extraLaunchOption_002_Name": {
+        "type": "STRING",
+        "value": "Launch ARK (DirectX 10, Low-End Graphics)"
+      },
+      "extraLaunchOption_003_Args": {
+        "type": "STRING",
+        "value": "-allowansel"
+      },
+      "extraLaunchOption_003_Name": {
+        "type": "STRING",
+        "value": "Launch ARK with NVIDIA Ansel"
+      },
+      "extraLaunchOption_004_Args": {
+        "type": "STRING",
+        "value": "-nobattleye -TotalConversionMod=0"
+      },
+      "extraLaunchOption_004_Name": {
+        "type": "STRING",
+        "value": "Launch ARK (Reset Active Total Conversion)"
+      },
+      "extraLaunchOption_005_Args": {
+        "type": "STRING",
+        "value": "-lowmemory -sm4 -nomansky"
+      },
+      "extraLaunchOption_005_Name": {
+        "type": "STRING",
+        "value": "Launch ARK (Extremely Low Memory)"
+      },
+      "extraLaunchOption_006_Args": {
+        "type": "STRING",
+        "value": "-nomansky"
+      },
+      "extraLaunchOption_006_Name": {
+        "type": "STRING",
+        "value": "Launch ARK (No Sky Effects)"
+      },
+      "extraLaunchOption_007_Args": {
+        "type": "STRING",
+        "value": "-nobattleye -resetres"
+      },
+      "extraLaunchOption_007_Name": {
+        "type": "STRING",
+        "value": "Reset Game Resolution"
+      },
+      "extraLaunchOption_008_Args": {
+        "type": "STRING",
+        "value": "4"
+      },
+      "extraLaunchOption_008_Name": {
+        "type": "STRING",
+        "value": "Uninstall BattlEye"
+      }
+    },
+    "description": "ARK: Survival Evolved",
+    "developer": "Studio Wildcard",
+    "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-05-11T23:00:45.822Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ARKGenesis2"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ark"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "ARK Genesis 2",
+        "developer": "Studio Wildcard",
+        "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "endOfSupport": false,
+        "entitlementName": "37a58fa2e6564037bc0641930e65d5cd",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "37a58fa2e6564037bc0641930e65d5cd",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "1dff4f517cccbfffa5d66d12a9b8acc6",
+            "size": 999161,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-06-10T22:33:13.419Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S1-2560x1440-1dff4f517cccbfffa5d66d12a9b8acc6.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "769c735a6bafd98eef937cd391bff8e0",
+            "size": 1019043,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-06-10T22:33:29.566Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-769c735a6bafd98eef937cd391bff8e0.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-11-11T16:19:48.305Z",
+        "mainGameItem": {
+          "id": "743e47ee84ac49a1a49f4781da70e0d0",
+          "namespace": "ark",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "743e47ee84ac49a1a49f4781da70e0d0",
+            "namespace": "ark",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ark",
+        "releaseInfo": [
+          {
+            "appId": "2ef456723ec04b4aa04ad498973b86f6",
+            "dateAdded": "2020-03-28T00:00:00.000Z",
+            "id": "11b239088217436ea81bf3c5af8337fd",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "ARK Genesis 2",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-05-28T21:54:16.814Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Ragnarok"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ark"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "ARK Ragnarok",
+        "developer": "Studio Wildcard",
+        "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "endOfSupport": false,
+        "entitlementName": "e5fb718ceea24f12a6e59602f6a29c6c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e5fb718ceea24f12a6e59602f6a29c6c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "57a08b3edd6d54d179427a7e7af8d7fd",
+            "size": 745003,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-06-01T16:03:50.124Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-57a08b3edd6d54d179427a7e7af8d7fd.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "cebef6fbf975e9be62a11bdf52a77672",
+            "size": 441308,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-06-10T23:19:50.060Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_RagnarokARKExpansionTALL-1200x1600-cebef6fbf975e9be62a11bdf52a77672.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-06-11T14:27:42.814Z",
+        "mainGameItem": {
+          "id": "743e47ee84ac49a1a49f4781da70e0d0",
+          "namespace": "ark",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "743e47ee84ac49a1a49f4781da70e0d0",
+            "namespace": "ark",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ark",
+        "releaseInfo": [
+          {
+            "appId": "40404abd974443de81c875af6323f329",
+            "dateAdded": "2020-03-28T00:00:00.000Z",
+            "id": "11b239088217436ea81bf3c5af8337fd",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "ARK Ragnarok",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-05-11T22:28:04.946Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Aberration"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ark"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "ARK Aberration",
+        "developer": "Studio Wildcard",
+        "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "endOfSupport": false,
+        "entitlementName": "1d0b20ac2d2a4eaebae9a372bac08aed",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1d0b20ac2d2a4eaebae9a372bac08aed",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "9bfc2385b3619fd40ad9709d006bac9c",
+            "size": 1006594,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-06-01T16:45:27.686Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKAberration_StudioWildcard_DLC_S1-2560x1440-9bfc2385b3619fd40ad9709d006bac9c.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "da14621020a10c5ae4f6aebac3edf952",
+            "size": 1001185,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-06-01T16:45:35.866Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKAberration_StudioWildcard_DLC_S2-1200x1600-da14621020a10c5ae4f6aebac3edf952.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-06-11T14:27:42.814Z",
+        "mainGameItem": {
+          "id": "743e47ee84ac49a1a49f4781da70e0d0",
+          "namespace": "ark",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "743e47ee84ac49a1a49f4781da70e0d0",
+            "namespace": "ark",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ark",
+        "releaseInfo": [
+          {
+            "appId": "38a050f6a6814582b4e2c28d6c069ae6",
+            "dateAdded": "2020-03-28T00:00:00.000Z",
+            "id": "11b239088217436ea81bf3c5af8337fd",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "ARK Aberration",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-05-11T22:47:05.875Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ARKGenesis1"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ark"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "ARK Genesis 1",
+        "developer": "Studio Wildcard",
+        "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "endOfSupport": false,
+        "entitlementName": "f0c1d267c9f04abba4cde4d940a24622",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f0c1d267c9f04abba4cde4d940a24622",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "1dff4f517cccbfffa5d66d12a9b8acc6",
+            "size": 999161,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-06-10T22:59:51.606Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S1-2560x1440-1dff4f517cccbfffa5d66d12a9b8acc6.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "769c735a6bafd98eef937cd391bff8e0",
+            "size": 1019043,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-06-10T23:00:09.571Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-769c735a6bafd98eef937cd391bff8e0.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-06-11T14:27:42.814Z",
+        "mainGameItem": {
+          "id": "743e47ee84ac49a1a49f4781da70e0d0",
+          "namespace": "ark",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "743e47ee84ac49a1a49f4781da70e0d0",
+            "namespace": "ark",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ark",
+        "releaseInfo": [
+          {
+            "appId": "155aa8899e6d498886e8ba4c03b2ed59",
+            "dateAdded": "2020-03-28T00:00:00.000Z",
+            "id": "11b239088217436ea81bf3c5af8337fd",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "ARK Genesis 1",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-05-11T22:32:36.559Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ARKExtinction"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ark"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "ARK Extinction",
+        "developer": "Studio Wildcard",
+        "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "endOfSupport": false,
+        "entitlementName": "906d7a9edc23408199e7bc79715f4a58",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "906d7a9edc23408199e7bc79715f4a58",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "398e03248edc6104f0cc16be02f4b451",
+            "size": 934923,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-06-01T16:44:01.715Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKExtinction_StudioWildcard_DLC_S1-2560x1440-398e03248edc6104f0cc16be02f4b451.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "21e6c4a02ee6d242dc1b6538fbd48275",
+            "size": 1013129,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-06-01T16:44:10.422Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKExtinction_StudioWildcard_DLC_S2-1200x1600-21e6c4a02ee6d242dc1b6538fbd48275.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-06-11T14:27:42.814Z",
+        "mainGameItem": {
+          "id": "743e47ee84ac49a1a49f4781da70e0d0",
+          "namespace": "ark",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "743e47ee84ac49a1a49f4781da70e0d0",
+            "namespace": "ark",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ark",
+        "releaseInfo": [
+          {
+            "appId": "c3dc963da86e4a13b5b8a696959d4e5e",
+            "dateAdded": "2020-03-28T00:00:00.000Z",
+            "id": "11b239088217436ea81bf3c5af8337fd",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "ARK Extinction",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-12-13T19:40:29.845Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ARKLostIsland"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ark"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "ARK Lost Island",
+        "developer": "Studio Wildcard",
+        "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "endOfSupport": false,
+        "entitlementName": "094da37630e84ab389a4ec359d6f7aaa",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "094da37630e84ab389a4ec359d6f7aaa",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "6fa2c1db07b8cd865076ef333cbaee24",
+            "size": 990814,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-12-14T19:17:28.365Z",
+            "url": "https://cdn1.epicgames.com/item/ark/EGS_LostIslandARKExpansionMap_StudioWildcard_DLC_S1_2560x1440-6fa2c1db07b8cd865076ef333cbaee24",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "a8e8a9ce16278379f8eaddbc168fcf4f",
+            "size": 871021,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-12-14T19:17:32.869Z",
+            "url": "https://cdn1.epicgames.com/item/ark/EGS_LostIslandARKExpansionMap_StudioWildcard_DLC_S2_1200x1600-a8e8a9ce16278379f8eaddbc168fcf4f",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-12-14T19:52:19.073Z",
+        "mainGameItem": {
+          "id": "743e47ee84ac49a1a49f4781da70e0d0",
+          "namespace": "ark",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "743e47ee84ac49a1a49f4781da70e0d0",
+            "namespace": "ark",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ark",
+        "releaseInfo": [
+          {
+            "appId": "deaeb7a174e74a10b1caa9a5dc1d7697",
+            "compatibleApps": [],
+            "dateAdded": "2020-03-28T00:00:00.000Z",
+            "id": "e38261164de546f1a360cef75ea3db56",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ARK Lost Island",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-05-28T21:53:29.892Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ARKCenter"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ark"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "ARK The Center",
+        "developer": "Studio Wildcard",
+        "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "endOfSupport": false,
+        "entitlementName": "c76f31b0c4ea4b99bc80ce6844212802",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c76f31b0c4ea4b99bc80ce6844212802",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "7542bcf9b85934d5ac62d53efeef6416",
+            "size": 918346,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-06-10T23:31:39.813Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_TheCenterARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-7542bcf9b85934d5ac62d53efeef6416.jpg",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "89babcad6baf67d8543742d8de919db2",
+            "size": 1010707,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-06-10T23:32:07.770Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_TheCenterARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-89babcad6baf67d8543742d8de919db2.jpg",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2020-06-11T14:27:42.814Z",
+        "mainGameItem": {
+          "id": "743e47ee84ac49a1a49f4781da70e0d0",
+          "namespace": "ark",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "743e47ee84ac49a1a49f4781da70e0d0",
+            "namespace": "ark",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ark",
+        "releaseInfo": [
+          {
+            "appId": "028eaf5aa1bf4867b4bf163303d338d3",
+            "dateAdded": "2020-03-28T00:00:00.000Z",
+            "id": "11b239088217436ea81bf3c5af8337fd",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "ARK The Center",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-05-28T21:56:00.213Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "CrystalIsles"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ark"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "ARK Crystal Isles",
+        "developer": "Studio Wildcard",
+        "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "endOfSupport": false,
+        "entitlementName": "b560fb0489764a5bb7197761562ec16a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b560fb0489764a5bb7197761562ec16a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "69362bdd35ee84abc616f06b9c5430e3",
+            "size": 839439,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-06-10T23:49:31.970Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_CrystalIslesARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-69362bdd35ee84abc616f06b9c5430e3.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "728f7f9cec6d40b17e06e35fe7f5edb1",
+            "size": 654232,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-06-10T23:49:47.539Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_CrystalIslesARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-728f7f9cec6d40b17e06e35fe7f5edb1.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-06-11T14:27:42.814Z",
+        "mainGameItem": {
+          "id": "743e47ee84ac49a1a49f4781da70e0d0",
+          "namespace": "ark",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "743e47ee84ac49a1a49f4781da70e0d0",
+            "namespace": "ark",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ark",
+        "releaseInfo": [
+          {
+            "appId": "59e7d1f8e717413586341e227a12aa58",
+            "dateAdded": "2020-03-28T00:00:00.000Z",
+            "id": "11b239088217436ea81bf3c5af8337fd",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "ARK Crystal Isles",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-04-22T20:48:49.498Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ARKFjordur"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ark"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "ARK Fjordur",
+        "developer": "Studio Wildcard",
+        "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "endOfSupport": false,
+        "entitlementName": "4c3d3fad6d0a42659113933165f0accf",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4c3d3fad6d0a42659113933165f0accf",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "3265804dd9b793d785e5fc0c88f66793",
+            "size": 995921,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-06-10T20:17:25.180Z",
+            "url": "https://cdn1.epicgames.com/item/ark/EGS_FjordurARKExpansionMap_StudioWildcard_DLC_S1_2560x1440-3265804dd9b793d785e5fc0c88f66793",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "e908f469c1dace302a88fc8e6a1ad5e0",
+            "size": 934812,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-06-10T20:17:28.871Z",
+            "url": "https://cdn1.epicgames.com/item/ark/EGS_FjordurARKExpansionMap_StudioWildcard_DLC_S2_1200x1600-e908f469c1dace302a88fc8e6a1ad5e0",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-06-12T19:05:14.540Z",
+        "mainGameItem": {
+          "id": "743e47ee84ac49a1a49f4781da70e0d0",
+          "namespace": "ark",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "743e47ee84ac49a1a49f4781da70e0d0",
+            "namespace": "ark",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ark",
+        "releaseInfo": [
+          {
+            "appId": "c8100452cf954e2292152d17182386ff",
+            "compatibleApps": [],
+            "dateAdded": "2020-03-28T00:00:00.000Z",
+            "id": "feb7d156d5e34eabbb67a018f680a8ba",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ARK Fjordur",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-05-11T22:17:16.915Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ScorchedEarth"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ark"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "ARK Scorched Earth",
+        "developer": "Studio Wildcard",
+        "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "endOfSupport": false,
+        "entitlementName": "551ae469c0294f729edf66512506c46e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "551ae469c0294f729edf66512506c46e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "7044aba826505468a03216eca3d74304",
+            "size": 996880,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-06-01T16:46:28.057Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKScorchedEarth_StudioWildcard_DLC_S1-2560x1440-7044aba826505468a03216eca3d74304.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "23f851460c2b6e7b489544df7b9b8621",
+            "size": 1017103,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-06-01T16:46:36.205Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKScorchedEarth_StudioWildcard_DLC_S2-1200x1600-23f851460c2b6e7b489544df7b9b8621.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-06-11T14:27:42.814Z",
+        "mainGameItem": {
+          "id": "743e47ee84ac49a1a49f4781da70e0d0",
+          "namespace": "ark",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "743e47ee84ac49a1a49f4781da70e0d0",
+            "namespace": "ark",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ark",
+        "releaseInfo": [
+          {
+            "appId": "7dc86e5a3fd34ddca9b0e58b57363eb0",
+            "dateAdded": "2020-03-28T00:00:00.000Z",
+            "id": "11b239088217436ea81bf3c5af8337fd",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "ARK Scorched Earth",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-05-28T21:55:02.088Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Valguero"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ark"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "ARK Valguero",
+        "developer": "Studio Wildcard",
+        "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "endOfSupport": false,
+        "entitlementName": "8a86839da0b94334851f4c07b0d161a9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8a86839da0b94334851f4c07b0d161a9",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "ac1543ffc6225457c0d4c8b93557d951",
+            "size": 1014057,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-06-01T16:07:15.241Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ValgueroARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-ac1543ffc6225457c0d4c8b93557d951.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "f9b0a95b6536d99e18384643d8898465",
+            "size": 1000864,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-06-01T16:07:25.292Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ValgueroARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-f9b0a95b6536d99e18384643d8898465.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-06-11T14:27:42.814Z",
+        "mainGameItem": {
+          "id": "743e47ee84ac49a1a49f4781da70e0d0",
+          "namespace": "ark",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "743e47ee84ac49a1a49f4781da70e0d0",
+            "namespace": "ark",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ark",
+        "releaseInfo": [
+          {
+            "appId": "e25eb863aafb4453b9f9fd17af3ae6d2",
+            "dateAdded": "2020-03-28T00:00:00.000Z",
+            "id": "11b239088217436ea81bf3c5af8337fd",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "ARK Valguero",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "743e47ee84ac49a1a49f4781da70e0d0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "743e47ee84ac49a1a49f4781da70e0d0",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "c316afb7c33a9dfb892eef6b99169e43",
+        "size": 966339,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-06-10T16:30:54.400Z",
+        "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKSurvivalEvolved_StudioWildcard_S1-2560x1440-c316afb7c33a9dfb892eef6b99169e43.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "5b58fdefea9f885c7426e894a1034921",
+        "size": 710510,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-06-10T16:31:09.702Z",
+        "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-06-11T14:27:42.814Z",
+    "mainGameItemList": [],
+    "namespace": "ark",
+    "releaseInfo": [
+      {
+        "appId": "aafc587fbf654758802c8e41e4fb3255",
+        "dateAdded": "2020-03-28T00:00:00.000Z",
+        "id": "11b239088217436ea81bf3c5af8337fd",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "ARK: Survival Evolved",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,208 @@
+{
+  "app_name": "9c162cd16b7c44b9abfa21296343dfea",
+  "app_title": "Model Builder: Titan-Forge DLC no.2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "9c162cd16b7c44b9abfa21296343dfea",
+      "asset_id": "9c162cd16b7c44b9abfa21296343dfea",
+      "build_version": "1.1.8i",
+      "catalog_item_id": "91cdc33a1d944e3983693e6d3af16d96",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2ac6bcd5910d4435a1fced61f997df8a"
+      },
+      "namespace": "23499f64e5304139b514c3e674c5c0d6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "addons"
+      }
+    ],
+    "creationDate": "2024-06-27T21:57:30.152Z",
+    "customAttributes": {},
+    "description": "Model Builder: Titan-Forge DLC no.2",
+    "developer": "Green Man Gaming Publishing",
+    "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+    "endOfSupport": false,
+    "entitlementName": "91cdc33a1d944e3983693e6d3af16d96",
+    "entitlementType": "EXECUTABLE",
+    "id": "91cdc33a1d944e3983693e6d3af16d96",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Model Builder Model Builder: Titan-Forge DLC no.2 Offer",
+        "height": 1440,
+        "md5": "85d2791ba2e3544ba7b7c41d156a8ddb",
+        "size": 1862309,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-11-20T10:46:16.502Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1423k.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Model Builder Model Builder: Titan-Forge DLC no.2 Offer",
+        "height": 1600,
+        "md5": "6aa1f711d7cd7971b55edacaf606d690",
+        "size": 1127091,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-11-20T10:46:10.482Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-cjc4s.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-06-27T21:57:30.152Z",
+    "mainGameItem": {
+      "applicationId": "fghi4567MrJn7DOaf82JWMBFrxPTtI8G",
+      "categories": [
+        {
+          "path": "games"
+        },
+        {
+          "path": "applications"
+        }
+      ],
+      "creationDate": "2022-09-29T13:38:13.418Z",
+      "customAttributes": {
+        "FolderName": {
+          "type": "STRING",
+          "value": "ModelBuilder"
+        }
+      },
+      "description": "Model Builder: Complete Edition",
+      "developer": "Green Man Gaming Publishing",
+      "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+      "endOfSupport": false,
+      "entitlementName": "b3dde22db4e14b4cb644271f02038e25",
+      "entitlementType": "EXECUTABLE",
+      "id": "b3dde22db4e14b4cb644271f02038e25",
+      "itemType": "DURABLE",
+      "keyImages": [
+        {
+          "alt": "Model Builder Offer",
+          "height": 1440,
+          "md5": "00074d151af07093febfe9814c2e8e64",
+          "size": 3961208,
+          "type": "DieselGameBox",
+          "uploadedDate": "2024-06-26T09:57:54.765Z",
+          "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-9z2bz.png",
+          "width": 2560
+        },
+        {
+          "alt": "Download Model Builder Offer",
+          "height": 1600,
+          "md5": "561c43c9b7c64410b24261b3a57954a7",
+          "size": 1976835,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2024-06-26T09:57:54.138Z",
+          "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-19dtm.png",
+          "width": 1200
+        }
+      ],
+      "lastModifiedDate": "2024-06-27T21:57:30.399Z",
+      "mainGameItemList": [],
+      "namespace": "23499f64e5304139b514c3e674c5c0d6",
+      "releaseInfo": [
+        {
+          "appId": "4a31c45c04e243cc97f3e47bc663fb18",
+          "id": "c99baf23387e4de4b3668cd3ea664007",
+          "platform": [
+            "Win32",
+            "Windows"
+          ]
+        }
+      ],
+      "requiresSecureAccount": false,
+      "status": "ACTIVE",
+      "title": "Model Builder: Complete Edition",
+      "unsearchable": false
+    },
+    "mainGameItemList": [
+      {
+        "applicationId": "fghi4567MrJn7DOaf82JWMBFrxPTtI8G",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-09-29T13:38:13.418Z",
+        "customAttributes": {
+          "FolderName": {
+            "type": "STRING",
+            "value": "ModelBuilder"
+          }
+        },
+        "description": "Model Builder: Complete Edition",
+        "developer": "Green Man Gaming Publishing",
+        "developerId": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+        "endOfSupport": false,
+        "entitlementName": "b3dde22db4e14b4cb644271f02038e25",
+        "entitlementType": "EXECUTABLE",
+        "id": "b3dde22db4e14b4cb644271f02038e25",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Model Builder Offer",
+            "height": 1440,
+            "md5": "00074d151af07093febfe9814c2e8e64",
+            "size": 3961208,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-26T09:57:54.765Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-9z2bz.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Model Builder Offer",
+            "height": 1600,
+            "md5": "561c43c9b7c64410b24261b3a57954a7",
+            "size": 1976835,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-26T09:57:54.138Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-19dtm.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-27T21:57:30.399Z",
+        "mainGameItemList": [],
+        "namespace": "23499f64e5304139b514c3e674c5c0d6",
+        "releaseInfo": [
+          {
+            "appId": "4a31c45c04e243cc97f3e47bc663fb18",
+            "id": "c99baf23387e4de4b3668cd3ea664007",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Model Builder: Complete Edition",
+        "unsearchable": false
+      }
+    ],
+    "namespace": "23499f64e5304139b514c3e674c5c0d6",
+    "releaseInfo": [
+      {
+        "appId": "9c162cd16b7c44b9abfa21296343dfea",
+        "id": "9b5db1224c604287a9ec91965a5df231",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Model Builder: Titan-Forge DLC no.2",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,31 @@
+{
+  "7786b355a13b47a6b3915335117cd0b2": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableMsync": false,
+    "enableFsync": true,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "battlEyeRuntime": true,
+    "eacRuntime": true,
+    "language": "",
+    "beforeLaunchScriptPath": "",
+    "afterLaunchScriptPath": "",
+    "verboseLogs": false,
+    "wineVersion": {
+      "bin": "/home/lennilid/.local/share/Steam/steamapps/common/Proton - Experimental/proton",
+      "name": "Proton - Proton - Experimental",
+      "type": "proton"
+    },
+    "winePrefix": "/home/lennilid/Games/Heroic/Prefixes/default/Bloons TD 6",
+    "wineCrossoverBottle": ""
+  },
+  "version": "v0",
+  "explicit": true
+}

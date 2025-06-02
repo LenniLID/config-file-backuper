@@ -1,0 +1,690 @@
+{
+  "app_name": "a617890cec1542d6ba760ba13f79225e",
+  "app_title": "Train Valley 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a617890cec1542d6ba760ba13f79225e",
+      "asset_id": "a617890cec1542d6ba760ba13f79225e",
+      "build_version": "1.7.0.6",
+      "catalog_item_id": "9fcdf953ddb94212a2ce0496a7e73652",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "0ffb2eb66725450aa32cffa5786c7655",
+        "update_type": "PATCH"
+      },
+      "namespace": "5c59642227a2412fb38f324d1772914e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-12-13T20:59:01.669Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Oroboro games/TrainValley2/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TrainValley2vmDaQ"
+      }
+    },
+    "description": "Build even more complex railway networks than ever before! Building on the success of the original, you\u2019ll get more of what you loved about the original and then some. With increasingly difficult and complex challenges from local industries, the Valley has never felt so vast!",
+    "developer": "Postmeta Games",
+    "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-02-02T10:50:21.377Z",
+        "customAttributes": {},
+        "description": "The good old gameplay of the original Train Valley comes to the modern rails of Train Valley 2 in the Passenger Flow DLC.",
+        "developer": "Postmeta Games",
+        "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+        "endOfSupport": false,
+        "entitlementName": "98b9432a891d4a6aa2f364d20f82123b",
+        "entitlementType": "EXECUTABLE",
+        "id": "98b9432a891d4a6aa2f364d20f82123b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Train Valley 2 Train Valley 2 - Passenger Flow Offer",
+            "height": 1440,
+            "md5": "3e83575ab8a21f73c0ffb8e8e2381efe",
+            "size": 709775,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-02-02T12:24:10.024Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-train-valley-2--passenger-flow-offer-10fp9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Train Valley 2 Train Valley 2 - Passenger Flow Offer",
+            "height": 1600,
+            "md5": "eeb8de9f03f8b9ea0478723cedbd0919",
+            "size": 804338,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-02-02T12:24:24.831Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/download-train-valley-2-train-valley-2--passenger-flow-offer-1t62d.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T06:58:52.500Z",
+        "mainGameItem": {
+          "id": "9fcdf953ddb94212a2ce0496a7e73652",
+          "namespace": "5c59642227a2412fb38f324d1772914e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9fcdf953ddb94212a2ce0496a7e73652",
+            "namespace": "5c59642227a2412fb38f324d1772914e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c59642227a2412fb38f324d1772914e",
+        "releaseInfo": [
+          {
+            "appId": "d47f1afe35ae4fd18b458d4cc6729963",
+            "id": "f14a20b1d6a145d18b1bf1afeb91a9c0",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Train Valley 2 - Passenger Flow",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-22T16:41:39.682Z",
+        "customAttributes": {},
+        "description": "Train Valley 2: Ruby includes 50 new levels with a smart combination of different mechanics and train ages. Try to beat all the brain-teasing missions.",
+        "developer": "Postmeta Games",
+        "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+        "endOfSupport": false,
+        "entitlementName": "e6fb297e24da4e81baf415bec7a925fe",
+        "entitlementType": "EXECUTABLE",
+        "id": "e6fb297e24da4e81baf415bec7a925fe",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Train Valley 2 Train Valley 2: Workshop Gems - Ruby Offer",
+            "height": 1440,
+            "md5": "9a539d59d4cd015a99a96ade7718f861",
+            "size": 231104,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-09-08T16:24:56.092Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-train-valley-2-workshop-gems--ruby-offer-126t3.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Train Valley 2 Train Valley 2: Workshop Gems - Ruby Offer",
+            "height": 1600,
+            "md5": "7b76f3aa8fb9515ee40e2d5eca633a1d",
+            "size": 150297,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-09-08T16:25:03.780Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/download-train-valley-2-train-valley-2-workshop-gems--ruby-offer-185mv.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T06:58:52.500Z",
+        "mainGameItem": {
+          "id": "9fcdf953ddb94212a2ce0496a7e73652",
+          "namespace": "5c59642227a2412fb38f324d1772914e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9fcdf953ddb94212a2ce0496a7e73652",
+            "namespace": "5c59642227a2412fb38f324d1772914e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c59642227a2412fb38f324d1772914e",
+        "releaseInfo": [
+          {
+            "appId": "0f46ac16beea4e7bb638aff9014ab3e4",
+            "id": "1d2b1dd03a404d93b3889e629f9e111e",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Train Valley 2: Workshop Gems - Ruby",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-01-21T12:30:30.483Z",
+        "customAttributes": {},
+        "description": "Myths And Rails unleashes the most bizarre and silly episodes of your railroad transportation company\u2019s everyday schedule. Intergalactic trade agreements, alternate timelines, forgotten treasures and flying cars - timely deliveries are the key to success.",
+        "developer": "Postmeta Games",
+        "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+        "endOfSupport": false,
+        "entitlementName": "dd41f1fef946403aaa3e4b1285dfee1c",
+        "entitlementType": "EXECUTABLE",
+        "id": "dd41f1fef946403aaa3e4b1285dfee1c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Train Valley 2 Train Valley 2 - Myths & Rails Offer",
+            "height": 1440,
+            "md5": "80231e0a3f05137f84c2a752f0800f36",
+            "size": 293995,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-05-06T14:06:11.647Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-train-valley-2--myths-and-rails-offer-dfwsi.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Train Valley 2 Train Valley 2 - Myths & Rails Offer",
+            "height": 1600,
+            "md5": "bca2e020060bc87b7eef4e7ae5335ddc",
+            "size": 188217,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-05-06T14:05:52.067Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/download-train-valley-2-train-valley-2--myths-and-rails-offer-1bkcy.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T06:58:52.500Z",
+        "mainGameItem": {
+          "id": "9fcdf953ddb94212a2ce0496a7e73652",
+          "namespace": "5c59642227a2412fb38f324d1772914e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9fcdf953ddb94212a2ce0496a7e73652",
+            "namespace": "5c59642227a2412fb38f324d1772914e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c59642227a2412fb38f324d1772914e",
+        "releaseInfo": [
+          {
+            "appId": "f80e0c6b0dc74b8885e064f9ad79c422",
+            "id": "1c0350782d3f4fff8b6c64db6e4b113f",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Train Valley 2 - Myths & Rails",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-22T17:35:00.884Z",
+        "customAttributes": {},
+        "description": "Train Valley 2: Sapphire includes 57 new levels with a smart combination of different mechanics and train ages. Try to beat all the brain-teasing missions.",
+        "developer": "Postmeta Games",
+        "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+        "endOfSupport": false,
+        "entitlementName": "6ea9687aa6bd49be88068a86ae99571f",
+        "entitlementType": "EXECUTABLE",
+        "id": "6ea9687aa6bd49be88068a86ae99571f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Train Valley 2 Train Valley 2: Workshop Gems - Sapphire Offer",
+            "height": 1440,
+            "md5": "22e3219f3419034fe91245ae0c088aac",
+            "size": 257566,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-10-26T15:18:27.635Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-1650y.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Train Valley 2 Train Valley 2: Workshop Gems - Sapphire Offer",
+            "height": 1600,
+            "md5": "ce62589314ebfbf57107372bb5c38681",
+            "size": 156342,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-10-26T15:18:30.935Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-1hix1.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T06:58:52.500Z",
+        "mainGameItem": {
+          "id": "9fcdf953ddb94212a2ce0496a7e73652",
+          "namespace": "5c59642227a2412fb38f324d1772914e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9fcdf953ddb94212a2ce0496a7e73652",
+            "namespace": "5c59642227a2412fb38f324d1772914e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c59642227a2412fb38f324d1772914e",
+        "releaseInfo": [
+          {
+            "appId": "70960b33ef2641c7aa608618b20349ed",
+            "id": "3db0baf73e1c4491b9a331716fa67923",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Train Valley 2: Workshop Gems - Sapphire",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-22T17:35:16.327Z",
+        "customAttributes": {},
+        "description": "Train Valley 2: Emerald includes 50 new levels with a smart combination of different mechanics and train ages. Try to beat all the brain-teasing missions.",
+        "developer": "Postmeta Games",
+        "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+        "endOfSupport": false,
+        "entitlementName": "497a924e59e541e8bcc9bd21b30a2757",
+        "entitlementType": "EXECUTABLE",
+        "id": "497a924e59e541e8bcc9bd21b30a2757",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Train Valley 2 Train Valley 2: Workshop Gems - Emerald Offer",
+            "height": 1440,
+            "md5": "4f8d3a6eb89d9e1de2ec6152dd32a8f9",
+            "size": 257936,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-10-17T15:06:50.016Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-ef89x.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Train Valley 2 Train Valley 2: Workshop Gems - Emerald Offer",
+            "height": 1600,
+            "md5": "24675d69e87882e4352856e56daa8362",
+            "size": 160352,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-10-17T15:06:53.180Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-rhhvy.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T06:58:52.500Z",
+        "mainGameItem": {
+          "id": "9fcdf953ddb94212a2ce0496a7e73652",
+          "namespace": "5c59642227a2412fb38f324d1772914e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9fcdf953ddb94212a2ce0496a7e73652",
+            "namespace": "5c59642227a2412fb38f324d1772914e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c59642227a2412fb38f324d1772914e",
+        "releaseInfo": [
+          {
+            "appId": "e6b1d3d4c1b14fdaa1c992bdf42ac5a8",
+            "id": "c2007c8b09614a5cabb37dcfd1f5625c",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Train Valley 2: Workshop Gems - Emerald",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-21T14:59:30.439Z",
+        "customAttributes": {},
+        "description": "From the creators of the original Train Valley 2 campaign: 30 different levels to explore, drive your trains through and make prompt deliveries.",
+        "developer": "Postmeta Games",
+        "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+        "endOfSupport": false,
+        "entitlementName": "d0ac471657d7480498b59a7c6792bc9f",
+        "entitlementType": "EXECUTABLE",
+        "id": "d0ac471657d7480498b59a7c6792bc9f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Train Valley 2 Train Valley 2 - Editor's Bulletin Offer",
+            "height": 1440,
+            "md5": "d07fe4616fb680079d5daaa2f6a03a93",
+            "size": 250647,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-03-03T16:01:25.405Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-vlfqs.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Train Valley 2 Train Valley 2 - Editor's Bulletin Offer",
+            "height": 1600,
+            "md5": "e20ccb9163e5767f55bf4edc877b2701",
+            "size": 158565,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-03-03T16:01:33.159Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-10c1h.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T06:58:52.500Z",
+        "mainGameItem": {
+          "id": "9fcdf953ddb94212a2ce0496a7e73652",
+          "namespace": "5c59642227a2412fb38f324d1772914e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9fcdf953ddb94212a2ce0496a7e73652",
+            "namespace": "5c59642227a2412fb38f324d1772914e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c59642227a2412fb38f324d1772914e",
+        "releaseInfo": [
+          {
+            "appId": "78467f8522514ea394ddb2e767e6953e",
+            "id": "20060f41138c4b2cbadc6f0584b281dc",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Train Valley 2 - Editor's Bulletin",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-05-23T08:52:14.344Z",
+        "customAttributes": {},
+        "description": "Brought to you by our community member and a renowned level designer Dracken - in cooperation with Flazm Interactive!",
+        "developer": "Postmeta Games",
+        "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+        "endOfSupport": false,
+        "entitlementName": "ae3bc2f0a0824727a490f4d7a0837386",
+        "entitlementType": "EXECUTABLE",
+        "id": "ae3bc2f0a0824727a490f4d7a0837386",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Train Valley 2 Train Valley 2 -The Pandeia Project Offer",
+            "height": 1440,
+            "md5": "fdbc209328e43c27c46d66d65ce27cb4",
+            "size": 371928,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-05-23T08:56:01.563Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-158du.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Train Valley 2 Train Valley 2 -The Pandeia Project Offer",
+            "height": 1600,
+            "md5": "b42bb32cbf696a14558d3108090f8e33",
+            "size": 203214,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-05-23T08:56:03.833Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-ga3w4.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T06:58:52.500Z",
+        "mainGameItem": {
+          "id": "9fcdf953ddb94212a2ce0496a7e73652",
+          "namespace": "5c59642227a2412fb38f324d1772914e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9fcdf953ddb94212a2ce0496a7e73652",
+            "namespace": "5c59642227a2412fb38f324d1772914e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c59642227a2412fb38f324d1772914e",
+        "releaseInfo": [
+          {
+            "appId": "595913dcae764c2aa5936fd090346307",
+            "id": "655a008c5ffb4804af04b7842606efd2",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Train Valley 2 -The Pandeia Project",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-02-19T10:44:06.596Z",
+        "customAttributes": {},
+        "description": "Spend 20 valleys train driving together with Flazm Interactive's Delivery Puzzle Ideas Requisition Division, where no expense is spared, and jury-rigging new plot devices while accidentally inventing a chewing gum flavor or type of propulsion is just another day at the office.",
+        "developer": "Postmeta Games",
+        "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+        "endOfSupport": false,
+        "entitlementName": "5c6e124db8704d70b6670dbbd6c4eee0",
+        "entitlementType": "EXECUTABLE",
+        "id": "5c6e124db8704d70b6670dbbd6c4eee0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Train Valley 2 Train Valley 2 - Patent Pending Offer",
+            "height": 1440,
+            "md5": "51542388d7f46b7f153c743c55a99f25",
+            "size": 384122,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-02-22T08:50:50.747Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-18byi.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Train Valley 2 Train Valley 2 - Patent Pending Offer",
+            "height": 1600,
+            "md5": "9df176ed661b55a24ed92d14f326b592",
+            "size": 220217,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-02-22T08:50:53.645Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-3bd3n.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-01-10T06:39:22.437Z",
+        "mainGameItem": {
+          "id": "9fcdf953ddb94212a2ce0496a7e73652",
+          "namespace": "5c59642227a2412fb38f324d1772914e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9fcdf953ddb94212a2ce0496a7e73652",
+            "namespace": "5c59642227a2412fb38f324d1772914e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c59642227a2412fb38f324d1772914e",
+        "releaseInfo": [
+          {
+            "appId": "caa1f8878d1c410da15d851e244375f8",
+            "id": "c5bbc3f0e59d440da9b9b34e40402dc0",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Train Valley 2 - Patent Pending",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-15T18:38:02.291Z",
+        "customAttributes": {},
+        "description": "Come visit Japan with us! Let's change the scenery and enjoy a long-overdue vacation in the land of high-speed trains, scenic routes, almost unattainable tranquility, and world-famous poetry.",
+        "developer": "Postmeta Games",
+        "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+        "endOfSupport": false,
+        "entitlementName": "ea62663b8f644b148f19a743ef11ea19",
+        "entitlementType": "EXECUTABLE",
+        "id": "ea62663b8f644b148f19a743ef11ea19",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Train Valley 2 Train Valley 2 - Japanese Trails Offer",
+            "height": 1440,
+            "md5": "14d99d0c59f24f380ef656cf91135c7e",
+            "size": 3110519,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-04-09T15:01:49.954Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-gnhzo.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Train Valley 2 Train Valley 2 - Japanese Trails Offer",
+            "height": 1600,
+            "md5": "eef8a2783422b536d2721e160b2d8787",
+            "size": 1505629,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-04-09T15:01:34.440Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-1a9un.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-15T18:38:02.291Z",
+        "mainGameItem": {
+          "id": "9fcdf953ddb94212a2ce0496a7e73652",
+          "namespace": "5c59642227a2412fb38f324d1772914e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9fcdf953ddb94212a2ce0496a7e73652",
+            "namespace": "5c59642227a2412fb38f324d1772914e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c59642227a2412fb38f324d1772914e",
+        "releaseInfo": [
+          {
+            "appId": "36ef9f900c6f4c83bc48723839831dc5",
+            "id": "5ec89bbef4844edb835ace740eb5a288",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Train Valley 2 - Japanese Trails",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "9fcdf953ddb94212a2ce0496a7e73652",
+    "entitlementType": "EXECUTABLE",
+    "id": "9fcdf953ddb94212a2ce0496a7e73652",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Train Valley 2 Offer",
+        "height": 1440,
+        "md5": "b47a8f1c142dc6083c1c2fce0973e068",
+        "size": 926026,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-01-25T10:13:58.203Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-offer-i7323.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Train Valley 2 Offer",
+        "height": 1600,
+        "md5": "fcc23a67491fb816f7f5ac2da69f48f8",
+        "size": 672347,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-01-25T10:14:03.748Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/download-train-valley-2-offer-14gww.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-15T18:38:02.583Z",
+    "mainGameItemList": [],
+    "namespace": "5c59642227a2412fb38f324d1772914e",
+    "releaseInfo": [
+      {
+        "appId": "a617890cec1542d6ba760ba13f79225e",
+        "id": "0423b6da3bb34ae79a56cdf90c085952",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Train Valley 2",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,144 @@
+{
+  "app_name": "11ba63f98ce94a38b631104a12c7adab",
+  "app_title": "Sail Forth",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "11ba63f98ce94a38b631104a12c7adab",
+      "asset_id": "11ba63f98ce94a38b631104a12c7adab",
+      "build_version": "Win_2025-02-23_16-08-03",
+      "catalog_item_id": "e34731008ad54f77927bd837e5547a40",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "0f2b96fc88994beb9a27d4110a04175b"
+      },
+      "namespace": "d93cf08971eb4920862a95870a051f81",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-10-11T22:09:02.826Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "SailForthuoQWN"
+      }
+    },
+    "description": "Sail a fleet of customizable ships across an ocean whose ancient depths have swallowed the key to the mysterious past. Befriend fishfolk to expand your boat crews, take up arms against petulant pirates, and chart a course across an expansive watery world.",
+    "developer": "The Quantum Astrophysicists Guild",
+    "developerId": "o-e8nkcj362yhcae7jpkvrvxt2tssnls",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-12-07T21:52:12.326Z",
+        "customAttributes": {},
+        "description": "Dive headfirst into the heart of the storm with the Sail Forth Maelstrom expansion! A tempest has swept across the Deepblue, bringing forth colossal vortexes that promise unparalleled challenges and untold treasures. Are you ready to face the Maelstrom?",
+        "developer": "The Quantum Astrophysicists Guild",
+        "developerId": "o-e8nkcj362yhcae7jpkvrvxt2tssnls",
+        "endOfSupport": false,
+        "entitlementName": "b0e3fd2eb8f84ee6bac1e9ce5654eb39",
+        "entitlementType": "EXECUTABLE",
+        "id": "b0e3fd2eb8f84ee6bac1e9ce5654eb39",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Sail Forth Sail Forth: Maelstrom Offer",
+            "height": 1440,
+            "md5": "8b0d94c075cf32203aae5f9062043a1a",
+            "size": 3376646,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-12-18T21:46:18.985Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/bf6f7c896b214dd891aa10debb6fbf50/sail-forth-10199.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Sail Forth Sail Forth: Maelstrom Offer",
+            "height": 1600,
+            "md5": "6b053ab64a9096299ddd3f821bc4e5ca",
+            "size": 1774988,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-12-18T21:46:20.919Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/bf6f7c896b214dd891aa10debb6fbf50/sail-forth-1x8e3.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-06T20:08:33.695Z",
+        "mainGameItem": {
+          "id": "e34731008ad54f77927bd837e5547a40",
+          "namespace": "d93cf08971eb4920862a95870a051f81",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e34731008ad54f77927bd837e5547a40",
+            "namespace": "d93cf08971eb4920862a95870a051f81",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d93cf08971eb4920862a95870a051f81",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sail Forth: Maelstrom",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "e34731008ad54f77927bd837e5547a40",
+    "entitlementType": "EXECUTABLE",
+    "id": "e34731008ad54f77927bd837e5547a40",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Sail Forth Offer",
+        "height": 1440,
+        "md5": "c08d64f34027bee599e406a8d962a624",
+        "size": 1695826,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-11-23T00:14:15.289Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/bf6f7c896b214dd891aa10debb6fbf50/sail-forth-1j7du.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Sail Forth Offer",
+        "height": 1600,
+        "md5": "04cea4a5054f3ef7c775acc54c586bb7",
+        "size": 823873,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-23T00:14:14.679Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/bf6f7c896b214dd891aa10debb6fbf50/sail-forth-sb7pc.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-06T20:08:33.695Z",
+    "mainGameItemList": [],
+    "namespace": "d93cf08971eb4920862a95870a051f81",
+    "releaseInfo": [
+      {
+        "appId": "11ba63f98ce94a38b631104a12c7adab",
+        "id": "811a5739a6d04d6a9894970420c974db",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Sail Forth",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

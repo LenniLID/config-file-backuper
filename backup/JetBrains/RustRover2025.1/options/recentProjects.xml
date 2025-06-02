@@ -1,0 +1,57 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Downloads/Monkey-typer-main">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Monkey-typer-main – main.rs" projectWorkspaceId="2xYwWLIUN5aHzWXguqfELRSI0v3">
+              <option name="activationTimestamp" value="1748186011506" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-251.25410.115" />
+              <option name="buildTimestamp" value="1746610500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="575" y="200" width="1400" height="1000" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1748128345249" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RustroverProjects/config-file-backuper">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2xuiROOv0EpfnVbJGbWdUpwofol">
+              <option name="activationTimestamp" value="1748890847943" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-251.25410.115" />
+              <option name="buildTimestamp" value="1746610500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1748794350348" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RustroverProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – main.rs" opened="true" projectWorkspaceId="2xSQoSmkIpvF1smem19EFBXCJwA">
+              <option name="activationTimestamp" value="1748890086348" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-251.25410.115" />
+              <option name="buildTimestamp" value="1746610500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="542" y="194" width="1400" height="1000" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1748878127463" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/RustroverProjects/config-file-backuper" />
+    <option name="lastProjectLocation" value="$USER_HOME$/RustroverProjects" />
+  </component>
+</application>

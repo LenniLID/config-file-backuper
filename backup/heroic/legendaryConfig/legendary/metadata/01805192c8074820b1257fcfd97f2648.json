@@ -1,0 +1,193 @@
+{
+  "app_name": "01805192c8074820b1257fcfd97f2648",
+  "app_title": "Art of Rally",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "01805192c8074820b1257fcfd97f2648",
+      "asset_id": "01805192c8074820b1257fcfd97f2648",
+      "build_version": "Windows_1.5.7_202410112311",
+      "catalog_item_id": "cd21bde3fd004e28a17b49332d82bbee",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4751c4f6a96547209a33831d847d2810",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567jXd77Le5FKM4IV5NsWZGqbT7",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-09-15T20:53:26.324Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Funselektor Labs/art of rally/EOS_cloud/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Funselektor Labs/art of rally/EOS_cloud/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "artofrally"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "4751c4f6a96547209a33831d847d2810"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "art of rally is a stylized experience inspired by the golden era of rally from the creator of Absolute Drift  Race across the world through colorful and stylized environments in top-down view.  Will you master the art of rally?",
+    "developer": "Funselektor Labs INC",
+    "developerId": "o-t5l49f7rfs5msxanp53yay2r9em4q5",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-06-12T16:39:22.239Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "UncompahgreAUS",
+        "developer": "Funselektor Labs INC",
+        "developerId": "o-t5l49f7rfs5msxanp53yay2r9em4q5",
+        "endOfSupport": false,
+        "entitlementName": "27cfd703834a4fff9dfd0551b089861a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "27cfd703834a4fff9dfd0551b089861a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "art of rally: australia-56086",
+            "height": 1440,
+            "md5": "942aaef5ab50b6c91a6b8dea817dc35c",
+            "size": 422904,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-01T21:08:26.684Z",
+            "url": "https://cdn1.epicgames.com/offer/4751c4f6a96547209a33831d847d2810/EGS_artofrallyaustralia_FunselektorLabsInc_DLC_S1_2560x1440-942aaef5ab50b6c91a6b8dea817dc35c",
+            "width": 2560
+          },
+          {
+            "alt": "art of rally: australia-416711",
+            "height": 1600,
+            "md5": "e536bae272bc87195f91cf8c593509a5",
+            "size": 223918,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-01T21:08:22.901Z",
+            "url": "https://cdn1.epicgames.com/offer/4751c4f6a96547209a33831d847d2810/EGS_artofrallyaustralia_FunselektorLabsInc_DLC_S2_1200x1600-e536bae272bc87195f91cf8c593509a5",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-11-07T16:36:41.211Z",
+        "mainGameItem": {
+          "id": "cd21bde3fd004e28a17b49332d82bbee",
+          "namespace": "4751c4f6a96547209a33831d847d2810",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "cd21bde3fd004e28a17b49332d82bbee",
+            "namespace": "4751c4f6a96547209a33831d847d2810",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4751c4f6a96547209a33831d847d2810",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "UncompahgreAUS",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "cd21bde3fd004e28a17b49332d82bbee",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "cd21bde3fd004e28a17b49332d82bbee",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "2125c8c2c656782351b3db481e45dce0",
+        "size": 882900,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-09-22T14:35:05.111Z",
+        "url": "https://cdn1.epicgames.com/item/4751c4f6a96547209a33831d847d2810/EGS_artofrally_FunselektorLabsInc_S1_2560x1440-2125c8c2c656782351b3db481e45dce0",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d51d66f13d6cf3bb0892f8aab3366714",
+        "size": 541347,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-09-22T14:35:08.129Z",
+        "url": "https://cdn1.epicgames.com/item/4751c4f6a96547209a33831d847d2810/EGS_artofrally_FunselektorLabsInc_S2_1200x1600-d51d66f13d6cf3bb0892f8aab3366714",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-11-07T16:36:41.211Z",
+    "mainGameItemList": [],
+    "namespace": "4751c4f6a96547209a33831d847d2810",
+    "releaseInfo": [
+      {
+        "appId": "01805192c8074820b1257fcfd97f2648",
+        "id": "f75123b8498c4e529dbca0b5baef6df6",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Art of Rally",
+    "unsearchable": true
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "0b994bd267774b9fb409a5be9f9cb41b"
+    },
+    "rev": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "keepLauncherOpen": false,
+  "experimentalMode": false,
+  "multipleInstances": true,
+  "potatoMode": false,
+  "dataPath": "/home/lennilid/.local/share/noriskclient",
+  "memoryLimit": 16384,
+  "customJavaPath": "",
+  "customJavaArgs": "",
+  "theme": "DARK",
+  "latestBranch": "1.21",
+  "latestDevBranch": "1.21",
+  "concurrentDownloads": 20,
+  "language": "en_US",
+  "configVersion": "1.1"
+}

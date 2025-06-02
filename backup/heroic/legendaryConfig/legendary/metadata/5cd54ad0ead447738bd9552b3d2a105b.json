@@ -1,0 +1,111 @@
+{
+  "app_name": "5cd54ad0ead447738bd9552b3d2a105b",
+  "app_title": "The Drone Racing League Simulator",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5cd54ad0ead447738bd9552b3d2a105b",
+      "asset_id": "5cd54ad0ead447738bd9552b3d2a105b",
+      "build_version": "4.2.ee16.rls.win",
+      "catalog_item_id": "fdd74180985e480799398d63540dc275",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b6aa6a98bb394a53870bd6b026fefd1d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567qYaDoEVSHNeul5nQvKqqjaUe",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-16T20:28:51.108Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DroneRacingLeagueSim"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b6aa6a98bb394a53870bd6b026fefd1d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Drone Racing League Simulator",
+    "developer": "Drone Racing League",
+    "developerId": "o-pxhj8tkrqv9mbs8c85dm6bwqanepy6",
+    "endOfSupport": false,
+    "entitlementName": "fdd74180985e480799398d63540dc275",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "fdd74180985e480799398d63540dc275",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "39456325d9a12441a58f5385b5719224",
+        "size": 950980,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-08-02T20:10:13.993Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDroneRacingLeagueSimulator_TheDroneRacingLeague_S1_2560x1440-39456325d9a12441a58f5385b5719224",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "36e93298383163f825fc934da9003fb5",
+        "size": 796076,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-08-02T20:10:17.164Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDroneRacingLeagueSimulator_TheDroneRacingLeague_S2_1200x1600-36e93298383163f825fc934da9003fb5",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:39:16.391Z",
+    "mainGameItemList": [],
+    "namespace": "b6aa6a98bb394a53870bd6b026fefd1d",
+    "releaseInfo": [
+      {
+        "appId": "5cd54ad0ead447738bd9552b3d2a105b",
+        "id": "6ac3d94152354cf7be42f965784ad182",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "The Drone Racing League Simulator",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

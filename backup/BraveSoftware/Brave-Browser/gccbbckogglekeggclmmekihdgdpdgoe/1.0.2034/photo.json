@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "0546c609-aaf9-4609-9776-09fe20e66062",
+      "logo": {
+        "imageUrl": "6f00636b-a24e-48e4-9185-34d20a2821e5/5f6c8490-112a-46f5-8696-c3ef8167a3a7.png",
+        "destinationUrl": "https://www.eventbrite.pt/e/memecon-2025-tickets-1113828614369?utm-term=",
+        "alt": "Memecon - The memcoin meetup! - Lisbon 4-6th June - Lets get rekt!",
+        "companyName": "Memecon"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "6f00636b-a24e-48e4-9185-34d20a2821e5/c83cd378-825f-41fc-9e52-800f7f929927.jpg",
+          "creativeInstanceId": "55f8f29e-ff50-4105-b4ec-bb979d6b8d91",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "0546c609-aaf9-4609-9776-09fe20e66062",
+      "logo": {
+        "imageUrl": "6f00636b-a24e-48e4-9185-34d20a2821e5/5f6c8490-112a-46f5-8696-c3ef8167a3a7.png",
+        "destinationUrl": "https://www.eventbrite.pt/e/memecon-2025-tickets-1113828614369?utm-term=",
+        "alt": "Memecon - The memcoin meetup! - Lisbon 4-6th June - Lets get rekt!",
+        "companyName": "Memecon"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "6f00636b-a24e-48e4-9185-34d20a2821e5/c83cd378-825f-41fc-9e52-800f7f929927.jpg",
+          "creativeInstanceId": "55f8f29e-ff50-4105-b4ec-bb979d6b8d91",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        }
+      ]
+    }
+  ]
+}

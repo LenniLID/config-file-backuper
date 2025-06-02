@@ -1,0 +1,196 @@
+{
+  "app_name": "1d74dcbca79540efb52cab2ff026215f",
+  "app_title": "Black Book",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "1d74dcbca79540efb52cab2ff026215f",
+      "asset_id": "1d74dcbca79540efb52cab2ff026215f",
+      "build_version": "1.0.51win64",
+      "catalog_item_id": "ea08171c6a0144a293d0c77f1996e69c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "ee7814e256cd431f9d12363136c462ee"
+      },
+      "namespace": "8211dc6089af4542926b7a8137b9079e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-04-03T13:51:31.427Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Morteshka/Black Book/Saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BlackBook"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "8211dc6089af4542926b7a8137b9079e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Black Book",
+    "developer": "Hypetrain Digital",
+    "developerId": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-04-03T13:51:31.414Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Black Book - Endless Battles",
+        "developer": "Hypetrain Digital",
+        "developerId": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
+        "endOfSupport": false,
+        "entitlementName": "2101dadb19cf497b8eb1e6d1a8d75359",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2101dadb19cf497b8eb1e6d1a8d75359",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "5648c41329b9c8e7e66815222317989d",
+            "size": 898172,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-02-16T23:00:13.439Z",
+            "url": "https://cdn1.epicgames.com/item/8211dc6089af4542926b7a8137b9079e/EGS_BlackBookEndlessBattles_Morteshka_DLC_S1_2560x1440-5648c41329b9c8e7e66815222317989d",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "fdb212504f5eee79c1f646fe7ec3bb12",
+            "size": 700749,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-02-16T23:00:15.610Z",
+            "url": "https://cdn1.epicgames.com/item/8211dc6089af4542926b7a8137b9079e/EGS_BlackBookEndlessBattles_Morteshka_DLC_S2_1200x1600-fdb212504f5eee79c1f646fe7ec3bb12",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-07T13:40:35.837Z",
+        "mainGameItem": {
+          "id": "ea08171c6a0144a293d0c77f1996e69c",
+          "namespace": "8211dc6089af4542926b7a8137b9079e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ea08171c6a0144a293d0c77f1996e69c",
+            "namespace": "8211dc6089af4542926b7a8137b9079e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8211dc6089af4542926b7a8137b9079e",
+        "releaseInfo": [
+          {
+            "appId": "a1fb9b2dc3284da199b60ab7a219f971",
+            "id": "02f80ae2d3454442a9442913fb50abae",
+            "platform": [
+              "Mac",
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Black Book - Endless Battles",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "ea08171c6a0144a293d0c77f1996e69c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "ea08171c6a0144a293d0c77f1996e69c",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "97e2dbc3d0e628116fa510efe7f7783f",
+        "size": 780063,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-08-09T01:21:08.302Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackBook_Morteshka_S1_2560x1440-97e2dbc3d0e628116fa510efe7f7783f",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "1202bf8f0d59ae480ba82d1850dc6eaa",
+        "size": 646395,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-08-09T01:21:10.931Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackBook_Morteshka_S2_1200x1600-1202bf8f0d59ae480ba82d1850dc6eaa",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-07T13:40:35.837Z",
+    "mainGameItemList": [],
+    "namespace": "8211dc6089af4542926b7a8137b9079e",
+    "releaseInfo": [
+      {
+        "appId": "1d74dcbca79540efb52cab2ff026215f",
+        "id": "bf409bbd81ff42f099ed7c4569105c04",
+        "platform": [
+          "Mac",
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Black Book",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

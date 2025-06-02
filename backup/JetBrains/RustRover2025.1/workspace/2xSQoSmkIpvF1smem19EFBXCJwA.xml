@@ -1,0 +1,557 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="untitled" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1csrbhx1p60m0" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../todo/src/main.rs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1661">
+              <caret line="204" column="46" selection-start-line="204" selection-end-line="205" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"main.rs","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,124,10,122,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,101,110,110,105,108,105,100,47,68,111,119,110,108,111,97,100,115,47,82,117,115,116,82,111,118,101,114,45,50,48,50,53,46,49,46,50,47,112,108,117,103,105,110,115,47,105,110,116,101,108,108,105,106,45,114,117,115,116,47,108,105,98,47,105,110,116,101,108,108,105,106,45,114,117,115,116,46,106,97,114,33,47,105,99,111,110,115,47,101,120,112,117,105,47,114,117,115,116,70,105,108,101,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/../todo/safe-file.json">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="44">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"safe-file.json","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/../todo/Cargo.toml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="176">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Cargo.toml","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,121,10,119,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,101,110,110,105,108,105,100,47,68,111,119,110,108,111,97,100,115,47,82,117,115,116,82,111,118,101,114,45,50,48,50,53,46,49,46,50,47,112,108,117,103,105,110,115,47,105,110,116,101,108,108,105,106,45,114,117,115,116,47,108,105,98,47,105,110,116,101,108,108,105,106,45,114,117,115,116,46,106,97,114,33,47,105,99,111,110,115,47,101,120,112,117,105,47,99,97,114,103,111,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Rust": {
+      "usageCount": 21,
+      "lastUsed": 1748878127427
+    },
+    "TOML": {
+      "usageCount": 19,
+      "lastUsed": 1748878127442
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 1,
+      "lastUsed": 1748082069291
+    },
+    "JSON": {
+      "usageCount": 24,
+      "lastUsed": 1748878127431
+    },
+    "DIFF": {
+      "usageCount": 2,
+      "lastUsed": 1748280236576
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 1,
+      "lastUsed": 1748127895655
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>task</find>
+      <find>vec</find>
+      <find>ser</find>
+      <find>konnte datei nicht schreiben</find>
+      <find>execute</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/lennilid/RustroverProjects/untitled/src/safe-file&quot;,
+    &quot;/home/lennilid/RustroverProjects/untitled/safe-file-todo.json&quot;,
+    &quot;/home/lennilid/RustroverProjects/untitled/safe-file-done.json&quot;,
+    &quot;/home/lennilid/RustroverProjects/untitled/safe-file.json&quot;,
+    &quot;/home/lennilid/RustroverProjects/untitled/Cargo.toml&quot;,
+    &quot;/home/lennilid/RustroverProjects/untitled/src/main.rs&quot;,
+    &quot;/home/lennilid/RustroverProjects/todo/Cargo.toml&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JSON">
+      <summary usageCount="24" lastUsage="1748878127431" />
+    </language>
+    <language id="Rust">
+      <summary usageCount="21" lastUsage="1748878127428" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1748127895655" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="19" lastUsage="1748878127442" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/todo}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/todo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/todo/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/todo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/todo/target}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/todo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/todo/target}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/todo/target/release}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="untitled" />
+            <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$/../todo" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="todo" />
+              <item name="dir{file:///home/lennilid/RustroverProjects/todo}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/../todo/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/lennilid/RustroverProjects/todo/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/../todo/src/main.rs" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="main.rs" />
+                  <item name="main.rs" type="f3e56494:RsPsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/../todo/target" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                <item name="dir{file:///home/lennilid/RustroverProjects/todo/target}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/../todo/target/debug" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="debug" />
+                  <item name="dir{file:///home/lennilid/RustroverProjects/todo/target/debug}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/../todo/target/release" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="release" />
+                  <item name="dir{file:///home/lennilid/RustroverProjects/todo/target/release}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/../todo/target/release/.fingerprint" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".fingerprint" />
+                    <item name="dir{file:///home/lennilid/RustroverProjects/todo/target/release/.fingerprint}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/../todo/target/release/build" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="build" />
+                    <item name="dir{file:///home/lennilid/RustroverProjects/todo/target/release/build}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/../todo/target/release/deps" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="deps" />
+                    <item name="dir{file:///home/lennilid/RustroverProjects/todo/target/release/deps}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/../todo/target/release/examples" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="true" text="examples" />
+                    <item name="dir{file:///home/lennilid/RustroverProjects/todo/target/release/examples}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/../todo/target/release/incremental" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="true" text="incremental" />
+                    <item name="dir{file:///home/lennilid/RustroverProjects/todo/target/release/incremental}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/../todo/target/release/.cargo-lock" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".cargo-lock" />
+                    <item name=".cargo-lock" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/../todo/target/release/run.desktop" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="run.desktop" />
+                    <item name="run.desktop" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/../todo/target/release/safe-file.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="safe-file.json" />
+                    <item name="safe-file.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/../todo/target/release/todo-list" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="todo-list" />
+                    <item name="todo-list" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/../todo/target/.rustc_info.json" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text=".rustc_info.json" />
+                  <item name=".rustc_info.json" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/../todo/target/CACHEDIR.TAG" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/jsp.svg" iconPlugin="com.intellij" isLeaf="true" text="CACHEDIR.TAG" />
+                  <item name="CACHEDIR.TAG" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/../todo/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/../todo/Cargo.lock" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="Cargo.lock" />
+                <item name="Cargo.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/../todo/Cargo.toml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="Cargo.toml" />
+                <item name="Cargo.toml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/../todo/safe-file.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="safe-file.json" />
+                <item name="safe-file.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Cargo.Run todo-list (1)" />
+      <element setting="Cargo.Run todo-list" />
+      <element setting="Cargo.Run" />
+      <element setting="Cargo.Run untitled" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/../todo">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57463000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2025" />
+      <window_info id="Commit" order="1" sideWeight="0.7535885" weight="0.2025" />
+      <window_info id="Structure" order="2" sideWeight="0.24641149" side_tool="true" weight="0.2025" />
+      <window_info id="Pull Requests" order="3" weight="0.2025" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3015" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3015" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3015" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.3015" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.3015" />
+      <window_info anchor="bottom" id="Messages" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3015" />
+      <window_info anchor="bottom" id="Find" order="8" show_stripe_button="false" weight="0.33061048" />
+      <window_info anchor="bottom" id="Debug" order="9" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3015" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25035715" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25035715" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="5" weight="0.2" />
+      <window_info anchor="right" id="RustCargo" order="6" weight="0.25035715" />
+      <window_info anchor="right" id="ElectroJunToolWindow" order="7" weight="0.25035715" />
+      <unified_weights bottom="0.3015" left="0.2025" right="0.25035715" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Terminal</value>
+      <value>Services</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Structure</value>
+      <value>Pull Requests</value>
+      <value>TODO</value>
+      <value>Version Control</value>
+      <value>Problems View</value>
+      <value>ElectroJunToolWindow</value>
+      <value>RustCargo</value>
+      <value>Find</value>
+      <value>AIAssistant</value>
+      <value>Database</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1058" y="450" width="426" height="487" key="FileChooserDialogImpl" timestamp="1748280849144">
+      <screen x="0" y="0" width="2560" height="1396" />
+    </state>
+    <state x="1058" y="450" width="426" height="487" key="FileChooserDialogImpl/0.0.2560.1396@0.0.2560.1396" timestamp="1748280849144" />
+    <state x="1060" y="599" width="421" height="188" key="Github.CreateGistDialog" timestamp="1748280876006">
+      <screen x="0" y="0" width="2560" height="1396" />
+    </state>
+    <state x="1060" y="599" width="421" height="188" key="Github.CreateGistDialog/0.0.2560.1396@0.0.2560.1396" timestamp="1748280876006" />
+    <state x="656" y="616" width="526" height="337" key="Github.ShareDialog" timestamp="1748281015977">
+      <screen x="0" y="0" width="2560" height="1396" />
+    </state>
+    <state x="656" y="616" width="526" height="337" key="Github.ShareDialog/0.0.2560.1396@0.0.2560.1396" timestamp="1748281015977" />
+    <state x="656" y="635" width="526" height="337" key="Github.ShareDialog/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748128041132" />
+    <state x="1080" y="533" width="378" height="583" key="Github.UntrackedFilesDialog" timestamp="1748281107750">
+      <screen x="0" y="0" width="2560" height="1396" />
+    </state>
+    <state x="1080" y="533" key="Github.UntrackedFilesDialog/0.0.2560.1396@0.0.2560.1396" timestamp="1748281107750" />
+    <state x="730" y="512" width="378" height="583" key="Github.UntrackedFilesDialog/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748128045518" />
+    <state width="1316" height="259" key="GridCell.Tab.0.bottom" timestamp="1748878135296">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1316" height="259" key="GridCell.Tab.0.bottom/0.0.2560.1396@0.0.2560.1396" timestamp="1748192635166" />
+    <state width="1316" height="259" key="GridCell.Tab.0.bottom/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748878135296" />
+    <state width="1316" height="259" key="GridCell.Tab.0.center" timestamp="1748878135296">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1316" height="259" key="GridCell.Tab.0.center/0.0.2560.1396@0.0.2560.1396" timestamp="1748192635166" />
+    <state width="1316" height="259" key="GridCell.Tab.0.center/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748878135296" />
+    <state width="1316" height="259" key="GridCell.Tab.0.left" timestamp="1748878135296">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1316" height="259" key="GridCell.Tab.0.left/0.0.2560.1396@0.0.2560.1396" timestamp="1748192635166" />
+    <state width="1316" height="259" key="GridCell.Tab.0.left/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748878135296" />
+    <state width="1316" height="259" key="GridCell.Tab.0.right" timestamp="1748878135296">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1316" height="259" key="GridCell.Tab.0.right/0.0.2560.1396@0.0.2560.1396" timestamp="1748192635166" />
+    <state width="1316" height="259" key="GridCell.Tab.0.right/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748878135296" />
+    <state x="789" y="405" key="SettingsEditor" timestamp="1748281355714">
+      <screen x="0" y="0" width="2560" height="1396" />
+    </state>
+    <state x="789" y="405" key="SettingsEditor/0.0.2560.1396@0.0.2560.1396" timestamp="1748281355714" />
+    <state x="427" y="439" key="SettingsEditor/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748127672947" />
+    <state x="581" y="484" width="802" height="531" key="Vcs.Push.Dialog.v2" timestamp="1748286740929">
+      <screen x="0" y="0" width="2560" height="1396" />
+    </state>
+    <state x="581" y="484" width="802" height="531" key="Vcs.Push.Dialog.v2/0.0.2560.1396@0.0.2560.1396" timestamp="1748286740929" />
+    <state x="518" y="523" width="802" height="561" key="Vcs.Push.Dialog.v2/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748127952052" />
+    <state x="1064" y="611" width="413" height="165" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1748280981872">
+      <screen x="0" y="0" width="2560" height="1396" />
+    </state>
+    <state x="1064" y="611" width="413" height="165" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1396@0.0.2560.1396" timestamp="1748280981872" />
+    <state x="586" y="471" width="696" height="713" key="search.everywhere.popup" timestamp="1748127389289">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="586" y="471" width="696" height="713" key="search.everywhere.popup/0.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1748127389289" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../todo/src/safe-file" />
+    <entry file="file://$PROJECT_DIR$/../todo/safe-file-todo.json" />
+    <entry file="file://$PROJECT_DIR$/../todo/safe-file-done.json" />
+    <entry file="file://$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/macros.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="141" column="22" selection-start-line="141" selection-start-column="22" selection-end-line="141" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../todo/Cargo.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../todo/target/.rustc_info.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../todo/target/release/todo-list.d" />
+    <entry file="file://$PROJECT_DIR$/../todo/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1661">
+          <caret line="204" column="46" lean-forward="true" selection-start-line="204" selection-end-line="205" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../todo/safe-file.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../todo/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

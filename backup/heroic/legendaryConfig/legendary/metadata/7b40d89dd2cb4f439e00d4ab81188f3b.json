@@ -1,0 +1,279 @@
+{
+  "app_name": "7b40d89dd2cb4f439e00d4ab81188f3b",
+  "app_title": "LEGO\u00ae Star Wars\u2122: Classic Obi-Wan",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "7b40d89dd2cb4f439e00d4ab81188f3b",
+      "asset_id": "7b40d89dd2cb4f439e00d4ab81188f3b",
+      "build_version": "1.0.0.3",
+      "catalog_item_id": "e8c72d870a3645fcbc5534271210c8a5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "77374421ba6e497ba4a02bbec2ea73b0"
+      },
+      "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "addons"
+      }
+    ],
+    "creationDate": "2022-03-02T17:57:01.283Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "LSWClassicObiWan"
+      }
+    },
+    "description": "LEGO\u00ae Star Wars\u2122: Classic Obi-Wan",
+    "developer": "Warner Bros.",
+    "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+    "endOfSupport": false,
+    "entitlementName": "e8c72d870a3645fcbc5534271210c8a5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "e8c72d870a3645fcbc5534271210c8a5",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "cf290c43f32bc30b613f187e051b4f6f",
+        "size": 857203,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-03-16T19:17:42.143Z",
+        "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EN_TTGames_LSWSS_Obi_Wan_CP_S3_2560x1440_22_0311 (1)_2560x1440-cf290c43f32bc30b613f187e051b4f6f",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "27ea71b15a6305dd810aa0429baed571",
+        "size": 672693,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-03-16T19:17:46.204Z",
+        "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EN_TTGames_LSWSS_Obi_Wan_CP_S4_1200x1600_22_0311 (1)_1200x1600-27ea71b15a6305dd810aa0429baed571",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-11-01T17:22:07.071Z",
+    "mainGameItem": {
+      "ageGatings": {},
+      "applicationId": "",
+      "categories": [
+        {
+          "path": "games"
+        },
+        {
+          "path": "applications"
+        }
+      ],
+      "creationDate": "2022-01-26T19:01:11.769Z",
+      "customAttributes": {
+        "CanRunOffline": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "CanSkipKoreanIdVerification": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "CloudSaveFolder": {
+          "type": "STRING",
+          "value": "{AppData}/../Roaming/Warner Bros. Interactive Entertainment/LEGO Star Wars - The Skywalker Saga/SAVEDGAMES/EPIC/{EpicID}/"
+        },
+        "FolderName": {
+          "type": "STRING",
+          "value": "LEGOStarWarsTSS"
+        },
+        "MonitorPresence": {
+          "type": "STRING",
+          "value": "false"
+        },
+        "PresenceId": {
+          "type": "STRING",
+          "value": "9c59efaabb6a48f19b3485d5d9416032"
+        },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "[]"
+        },
+        "UseAccessControl": {
+          "type": "STRING",
+          "value": "false"
+        }
+      },
+      "description": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga",
+      "developer": "Warner Bros.",
+      "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+      "endOfSupport": false,
+      "entitlementName": "709536796ff5489a97c4574b9d6bda24",
+      "entitlementType": "EXECUTABLE",
+      "eulaIds": [
+        "egstore"
+      ],
+      "id": "709536796ff5489a97c4574b9d6bda24",
+      "installModes": [],
+      "itemType": "DURABLE",
+      "keyImages": [
+        {
+          "height": 1600,
+          "md5": "fba27b1ae598e355c3ad42d04d9025ba",
+          "size": 905997,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2022-03-16T18:59:03.722Z",
+          "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S2_1200x1600-fba27b1ae598e355c3ad42d04d9025ba",
+          "width": 1200
+        },
+        {
+          "height": 1440,
+          "md5": "ae89e9c91aec1e461148f93f25b828ed",
+          "size": 975965,
+          "type": "DieselGameBox",
+          "uploadedDate": "2022-04-07T22:33:50.432Z",
+          "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S1_2560x1440_2560x1440-ae89e9c91aec1e461148f93f25b828ed",
+          "width": 2560
+        }
+      ],
+      "lastModifiedDate": "2022-11-01T17:22:07.036Z",
+      "mainGameItemList": [],
+      "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+      "releaseInfo": [
+        {
+          "appId": "c390e58246ea4a778acd26473a489b48",
+          "id": "3aa8aa4f0af948468c7296c4ae99dc5c",
+          "platform": [
+            "Windows"
+          ]
+        }
+      ],
+      "requiresSecureAccount": false,
+      "status": "ACTIVE",
+      "title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga",
+      "unsearchable": true
+    },
+    "mainGameItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-01-26T19:01:11.769Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CloudSaveFolder": {
+            "type": "STRING",
+            "value": "{AppData}/../Roaming/Warner Bros. Interactive Entertainment/LEGO Star Wars - The Skywalker Saga/SAVEDGAMES/EPIC/{EpicID}/"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "LEGOStarWarsTSS"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "9c59efaabb6a48f19b3485d5d9416032"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga",
+        "developer": "Warner Bros.",
+        "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+        "endOfSupport": false,
+        "entitlementName": "709536796ff5489a97c4574b9d6bda24",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "709536796ff5489a97c4574b9d6bda24",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "fba27b1ae598e355c3ad42d04d9025ba",
+            "size": 905997,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-03-16T18:59:03.722Z",
+            "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S2_1200x1600-fba27b1ae598e355c3ad42d04d9025ba",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "ae89e9c91aec1e461148f93f25b828ed",
+            "size": 975965,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-04-07T22:33:50.432Z",
+            "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S1_2560x1440_2560x1440-ae89e9c91aec1e461148f93f25b828ed",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-11-01T17:22:07.036Z",
+        "mainGameItemList": [],
+        "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+        "releaseInfo": [
+          {
+            "appId": "c390e58246ea4a778acd26473a489b48",
+            "id": "3aa8aa4f0af948468c7296c4ae99dc5c",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga",
+        "unsearchable": true
+      }
+    ],
+    "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+    "releaseInfo": [
+      {
+        "appId": "7b40d89dd2cb4f439e00d4ab81188f3b",
+        "id": "fca4508220034c7da956f34f4725ab5b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "LEGO\u00ae Star Wars\u2122: Classic Obi-Wan",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

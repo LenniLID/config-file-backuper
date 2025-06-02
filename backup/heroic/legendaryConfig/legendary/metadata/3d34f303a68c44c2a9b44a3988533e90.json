@@ -1,0 +1,85 @@
+{
+  "app_name": "3d34f303a68c44c2a9b44a3988533e90",
+  "app_title": "Turnip Boy Commits Tax Evasion",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "3d34f303a68c44c2a9b44a3988533e90",
+      "asset_id": "3d34f303a68c44c2a9b44a3988533e90",
+      "build_version": "1.1.2f2",
+      "catalog_item_id": "e55f0dd5f2444c719ab4f4e37fb81d0b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "1d813b499e3a4e7d966e998bb9c1d56e"
+      },
+      "namespace": "80be39e522204fd0942916d73234d044",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-11-11T16:21:20.264Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "TurnipBoyCommitsTaxEvad"
+      }
+    },
+    "description": "Turnip Boy Commits Tax Evasion",
+    "developer": "Graffiti Games",
+    "developerId": "o-87c748zl24r2zsfe7t98b49ghm86kr",
+    "endOfSupport": false,
+    "entitlementName": "e55f0dd5f2444c719ab4f4e37fb81d0b",
+    "entitlementType": "EXECUTABLE",
+    "id": "e55f0dd5f2444c719ab4f4e37fb81d0b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Download Turnip Boy Commits Tax Evasion Offer",
+        "height": 1600,
+        "md5": "93743221671cada7636ecf94ed620ef1",
+        "size": 1587797,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-01-19T01:40:21.989Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/9456221af5d04968ba41426fdb2c4557/download-turnip-boy-commits-tax-evasion-offer-1vu2b.png",
+        "width": 1200
+      },
+      {
+        "alt": "Turnip Boy Commits Tax Evasion Offer",
+        "height": 1440,
+        "md5": "7e6e267808945c8ca31c2ee9f0821598",
+        "size": 3365838,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-01-19T01:40:22.711Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/9456221af5d04968ba41426fdb2c4557/turnip-boy-commits-tax-evasion-offer-2re86.png",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2022-06-02T12:25:52.543Z",
+    "mainGameItemList": [],
+    "namespace": "80be39e522204fd0942916d73234d044",
+    "releaseInfo": [
+      {
+        "appId": "3d34f303a68c44c2a9b44a3988533e90",
+        "id": "9d9b4097755d4c15a6368c871639426d",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Turnip Boy Commits Tax Evasion",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

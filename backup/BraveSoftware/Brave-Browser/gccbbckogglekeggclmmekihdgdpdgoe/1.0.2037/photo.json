@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "266923d5-d9a1-48e2-a93b-5c00a2963f05",
+      "logo": {
+        "imageUrl": "01cf7bfb-cf6b-42e6-8034-9f1e5ad5be34/31f77d06-e208-4a5c-b8c1-f8d68b5be0d7.png",
+        "destinationUrl": "https://rareevo.io/?tracking=braveperks",
+        "alt": "RareEVO - Secure your tickets now for America's Premier Blockchain Event! - Learn More",
+        "companyName": "Rare Social"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "01cf7bfb-cf6b-42e6-8034-9f1e5ad5be34/9d76b351-dca1-4f22-9656-5d6136aed250.jpg",
+          "creativeInstanceId": "469d4040-bad5-43cb-93ea-68891ffeb4ac",
+          "focalPoint": {
+            "x": 1044,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "1f7d9665-2ed0-464b-8592-901887ff5ff3/8a539362-0e07-44fc-b16f-50550bf6c4ab.jpg",
+          "creativeInstanceId": "702ac9d0-ea31-465c-a32f-71f3fc43e833",
+          "focalPoint": {
+            "x": 996,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "1f7d9665-2ed0-464b-8592-901887ff5ff3/31f77d06-e208-4a5c-b8c1-f8d68b5be0d7.png",
+            "destinationUrl": "https://rareevo.io/?tracking=braveperks",
+            "alt": "RareEVO - Secure your tickets now for America's Premier Blockchain Event! - Learn More",
+            "companyName": "Rare Social"
+          }
+        },
+        {
+          "imageUrl": "ec6ea8af-0395-42a4-b6fd-5c0ba0250e4a/ff7be077-44e2-482c-ac99-f3de7117875c.jpg",
+          "creativeInstanceId": "f67922c7-434e-47da-8db7-589425f98066",
+          "focalPoint": {
+            "x": 1164,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "ec6ea8af-0395-42a4-b6fd-5c0ba0250e4a/31f77d06-e208-4a5c-b8c1-f8d68b5be0d7.png",
+            "destinationUrl": "https://rareevo.io/?tracking=braveperks",
+            "alt": "RareEVO - Secure your tickets now for America's Premier Blockchain Event! - Learn More",
+            "companyName": "Rare Social"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "266923d5-d9a1-48e2-a93b-5c00a2963f05",
+      "logo": {
+        "imageUrl": "01cf7bfb-cf6b-42e6-8034-9f1e5ad5be34/31f77d06-e208-4a5c-b8c1-f8d68b5be0d7.png",
+        "destinationUrl": "https://rareevo.io/?tracking=braveperks",
+        "alt": "RareEVO - Secure your tickets now for America's Premier Blockchain Event! - Learn More",
+        "companyName": "Rare Social"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "01cf7bfb-cf6b-42e6-8034-9f1e5ad5be34/9d76b351-dca1-4f22-9656-5d6136aed250.jpg",
+          "creativeInstanceId": "469d4040-bad5-43cb-93ea-68891ffeb4ac",
+          "focalPoint": {
+            "x": 1044,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "1f7d9665-2ed0-464b-8592-901887ff5ff3/8a539362-0e07-44fc-b16f-50550bf6c4ab.jpg",
+          "creativeInstanceId": "702ac9d0-ea31-465c-a32f-71f3fc43e833",
+          "focalPoint": {
+            "x": 996,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "1f7d9665-2ed0-464b-8592-901887ff5ff3/31f77d06-e208-4a5c-b8c1-f8d68b5be0d7.png",
+            "destinationUrl": "https://rareevo.io/?tracking=braveperks",
+            "alt": "RareEVO - Secure your tickets now for America's Premier Blockchain Event! - Learn More",
+            "companyName": "Rare Social"
+          }
+        },
+        {
+          "imageUrl": "ec6ea8af-0395-42a4-b6fd-5c0ba0250e4a/ff7be077-44e2-482c-ac99-f3de7117875c.jpg",
+          "creativeInstanceId": "f67922c7-434e-47da-8db7-589425f98066",
+          "focalPoint": {
+            "x": 1164,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "ec6ea8af-0395-42a4-b6fd-5c0ba0250e4a/31f77d06-e208-4a5c-b8c1-f8d68b5be0d7.png",
+            "destinationUrl": "https://rareevo.io/?tracking=braveperks",
+            "alt": "RareEVO - Secure your tickets now for America's Premier Blockchain Event! - Learn More",
+            "companyName": "Rare Social"
+          }
+        }
+      ]
+    }
+  ]
+}

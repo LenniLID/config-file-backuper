@@ -1,0 +1,99 @@
+{
+  "app_name": "6b994d7f4f2a4e85a54d5c2ede6d2fed",
+  "app_title": "Out of Line",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "6b994d7f4f2a4e85a54d5c2ede6d2fed",
+      "asset_id": "6b994d7f4f2a4e85a54d5c2ede6d2fed",
+      "build_version": "1.0.5",
+      "catalog_item_id": "fd06338c5faa41968d6130b4927e3e17",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a5ddb58bf4ee4c23ac8e67488d87d7e0"
+      },
+      "namespace": "0f58cd1c026441f49371d663a710fe83",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-10T06:30:12.489Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Nerd Monkeys/Out of Line/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "OutofLine"
+      },
+      "productGeneration": {
+        "type": "STRING",
+        "value": "SPT"
+      }
+    },
+    "description": "Out of Line",
+    "developer": "Hatinh Interactive",
+    "developerId": "o-722pvnj3qsvbzvskhx4r8x7gcxhhbn",
+    "endOfSupport": false,
+    "entitlementName": "fd06338c5faa41968d6130b4927e3e17",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "fd06338c5faa41968d6130b4927e3e17",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Out of Line Offer",
+        "height": 1440,
+        "md5": "098f6bcd4621d373cade4e832627b4f6",
+        "size": 1442561,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-11T10:37:33.786Z",
+        "url": "https://cdn1.epicgames.com/spt/a3e7bc84-0d67-4f60-a62e-a183cafae823/out-of-line-offer-4a5df3c7.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Out of Line Offer",
+        "height": 1600,
+        "md5": "098f6bcd4621d373cade4e832627b4f6",
+        "size": 1630114,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-11T10:39:40.149Z",
+        "url": "https://cdn1.epicgames.com/spt/8b5b459c-7133-4e58-a6f7-40bbdd78d450/download-out-of-line-offer-4c03e1b4.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-08-08T15:08:45.516Z",
+    "mainGameItemList": [],
+    "namespace": "0f58cd1c026441f49371d663a710fe83",
+    "releaseInfo": [
+      {
+        "appId": "6b994d7f4f2a4e85a54d5c2ede6d2fed",
+        "id": "3a8785d373ac4216943fe192ece8fd78",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Out of Line",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

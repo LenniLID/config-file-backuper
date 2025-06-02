@@ -1,0 +1,115 @@
+{
+  "app_name": "c5109bdceb3a453bb38c2fdc964ddee8",
+  "app_title": "Doki Doki Literature Club Plus!",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "c5109bdceb3a453bb38c2fdc964ddee8",
+      "asset_id": "c5109bdceb3a453bb38c2fdc964ddee8",
+      "build_version": "Windows_1.0.7",
+      "catalog_item_id": "f1b123b2f48840b5b2b0322541fcbddb",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "1311a5735ed844c0b3c47027cab321f0",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-09T00:10:32.322Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DokiDokiLitClubPlus"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "1311a5735ed844c0b3c47027cab321f0"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Doki Doki Literature Club Plus!",
+    "developer": "Serenity Forge",
+    "developerId": "o-256f2bc2a35049a39ceae0f57d01bb",
+    "endOfSupport": false,
+    "entitlementName": "f1b123b2f48840b5b2b0322541fcbddb",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "f1b123b2f48840b5b2b0322541fcbddb",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "9c6fa6ac4b26e9ad4fb0d3e35797dcac",
+        "size": 920786,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-24T22:27:21.895Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DokiDokiLiteratureClubPlus_TeamSalvato_S2_1200x1600-9c6fa6ac4b26e9ad4fb0d3e35797dcac",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "11bf3498c7d817623a070b9b4ac84288",
+        "size": 931805,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-24T23:49:31.645Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DokiDokiLiteratureClubPlus_TeamSalvato_S1_2560x1440-11bf3498c7d817623a070b9b4ac84288",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:40:04.563Z",
+    "mainGameItemList": [],
+    "namespace": "1311a5735ed844c0b3c47027cab321f0",
+    "releaseInfo": [
+      {
+        "appId": "c5109bdceb3a453bb38c2fdc964ddee8",
+        "compatibleApps": [],
+        "dateAdded": "2021-08-19T02:23:40.639Z",
+        "id": "87e8ffc7863f4859a5edbffbbc264d0f",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Doki Doki Literature Club Plus!",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

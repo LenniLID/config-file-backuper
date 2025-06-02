@@ -1,0 +1,84 @@
+{
+  "app_name": "d2d941e5c1ec44ae9e87e9e7cdddf1dd",
+  "app_title": "Spirit of the North",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "d2d941e5c1ec44ae9e87e9e7cdddf1dd",
+      "asset_id": "d2d941e5c1ec44ae9e87e9e7cdddf1dd",
+      "build_version": "4.4.0",
+      "catalog_item_id": "65901b94cb2e45c5b667fef73cc2afce",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "6453696b8be841649a25cf662ed70ff6"
+      },
+      "namespace": "6098a8c7375c43458a22163a637c0c2f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-02-08T09:22:55.522Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "SpiritoftheNorth1sjns"
+      }
+    },
+    "description": "Spirit of the North",
+    "developer": "Silver Lining Interactive",
+    "developerId": "o-d9dh23jb6uamngl64hw8lnejdz6334",
+    "endOfSupport": false,
+    "entitlementName": "65901b94cb2e45c5b667fef73cc2afce",
+    "entitlementType": "EXECUTABLE",
+    "id": "65901b94cb2e45c5b667fef73cc2afce",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Spirit of the North Offer",
+        "height": 1440,
+        "md5": "a938e75032307279c6c0ea594bcb60d6",
+        "size": 746453,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-03-11T13:07:13.745Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/177dc72233934ac487abd83b01587086/spirit-of-the-north-offer-wih1t.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Spirit of the North Offer",
+        "height": 1600,
+        "md5": "37898384a9454912b273f82ba7996ff6",
+        "size": 545631,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-03-11T13:07:13.971Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/177dc72233934ac487abd83b01587086/download-spirit-of-the-north-offer-1kjkn.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-17T17:35:06.582Z",
+    "mainGameItemList": [],
+    "namespace": "6098a8c7375c43458a22163a637c0c2f",
+    "releaseInfo": [
+      {
+        "appId": "d2d941e5c1ec44ae9e87e9e7cdddf1dd",
+        "id": "4f3e40fd73b141db899ef6b424880b34",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Spirit of the North",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

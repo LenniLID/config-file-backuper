@@ -1,0 +1,12 @@
+[AC][Display]
+DimDisplayIdleTimeoutSec=-1
+DimDisplayWhenIdle=false
+TurnOffDisplayIdleTimeoutSec=-1
+TurnOffDisplayWhenIdle=false
+
+[AC][RunScript]
+RunScriptIdleTimeoutSec=1800
+
+[AC][SuspendAndShutdown]
+AutoSuspendAction=0
+PowerButtonAction=0
