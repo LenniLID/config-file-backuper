@@ -1,4 +1,4 @@
-use std::fs;
+use std::{fs, thread};
 use std::path::{Path, PathBuf};
 use std::process::Command;
 use walkdir::WalkDir;
@@ -97,7 +97,7 @@ fn git_push(backup_dir: &str, remote_url: &str) -> Result<(), Box<dyn std::error
 
 
 
-fn main() -> Result<(), Box<dyn std::error::Error>> {
+fn backup() -> Result<(), Box<dyn std::error::Error>> {
     // === 1. Backup-Ordner und Quelle definieren ===
     let source_root = Path::new("/home/lennilid/.config/");
     let backup_root = Path::new("/home/lennilid/backup/config/");
@@ -135,17 +135,17 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     println!("Backup abgeschlossen!");
 
-    // === 4. Git-Push ins separate Repo ===
-    //    Hier kannst du zwischen SSH-URL oder HTTPS-URL wählen:
-    //
-    // SSH-Variante:
-    // let remote_url = "git@github.com:DEIN_USERNAME/DEIN_BACKUP_REPO.git";
-    //
-    // HTTPS-Variante (falls kein SSH-Key):
-    // let remote_url = "https://github.com/DEIN_USERNAME/DEIN_BACKUP_REPO.git";
 
     let remote_url = "git@github.com:LenniLID/backup-config.git";
     git_push(backup_dir_str, remote_url)?;
 
     Ok(())
+}
+
+fn main() {
+    loop {
+        backup();
+        thread::sleep(std::time::Duration::from_secs(60 * 60));
+    }
+
 }
