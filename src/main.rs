@@ -2,6 +2,21 @@ use std::{fs, thread};
 use std::path::{Path, PathBuf};
 use std::process::Command;
 use walkdir::WalkDir;
+use chrono::prelude::*;
+
+// Verschiebt den bestehenden Backup-Ordner auf einen Zeitstempel-Ordner
+fn store_backup() -> std::io::Result<()> {
+    let backup_config = Path::new("/home/lennilid/backup/config");
+    if backup_config.exists() {
+        let date = Local::now();
+        let new_path = format!(
+            "/home/lennilid/backup/config-{}",
+            date.format("%Y-%m-%d_%H-%M")
+        );
+        fs::rename(&backup_config, new_path)?;
+    }
+    Ok(())
+}
 
 // Stellt sicher, dass `backup_dir` ein Git-Repo mit Remote `remote_url` ist.
 fn ensure_git_repo(backup_dir: &str, remote_url: &str) -> Result<(), Box<dyn std::error::Error>> {
@@ -16,6 +31,15 @@ fn ensure_git_repo(backup_dir: &str, remote_url: &str) -> Result<(), Box<dyn std
             .then(|| ())
             .ok_or("Git init ist fehlgeschlagen")?;
     }
+
+    // Stelle sicher, dass wir auf dem Branch "main" sind
+    Command::new("git")
+        .args(&["checkout", "-B", "main"])
+        .current_dir(backup_dir)
+        .status()?
+        .success()
+        .then(|| ())
+        .ok_or("Git checkout -B main ist fehlgeschlagen")?;
 
     // Liste der vorhandenen Remotes auslesen
     let existing_remotes = Command::new("git")
@@ -34,7 +58,7 @@ fn ensure_git_repo(backup_dir: &str, remote_url: &str) -> Result<(), Box<dyn std
             .then(|| ())
             .ok_or("Git remote add origin ist fehlgeschlagen")?;
     } else {
-        // Wenn origin existiert, aktualisiere die URL (falls sich remote_url geändert hat)
+        // Wenn origin existiert, URL ggf. aktualisieren
         Command::new("git")
             .args(&["remote", "set-url", "origin", remote_url])
             .current_dir(backup_dir)
@@ -47,7 +71,7 @@ fn ensure_git_repo(backup_dir: &str, remote_url: &str) -> Result<(), Box<dyn std
     Ok(())
 }
 
-// Fügt alle Änderungen hinzu, committet und pusht ins Repo
+// Fügt alle Änderungen hinzu, committet und pusht ins Repo (erzwingt force-push)
 fn git_push(backup_dir: &str, remote_url: &str) -> Result<(), Box<dyn std::error::Error>> {
     ensure_git_repo(backup_dir, remote_url)?;
 
@@ -61,7 +85,7 @@ fn git_push(backup_dir: &str, remote_url: &str) -> Result<(), Box<dyn std::error
         .ok_or("Git add ist fehlgeschlagen")?;
 
     // git commit -m "Backup am <Datum>"
-    let msg = format!("Backup am {}", chrono::Local::now().format("%Y-%m-%d %H:%M:%S"));
+    let msg = format!("Backup am {}", Local::now().format("%Y-%m-%d %H:%M:%S"));
     let commit = Command::new("git")
         .args(&["commit", "-m", &msg])
         .current_dir(backup_dir)
@@ -71,31 +95,18 @@ fn git_push(backup_dir: &str, remote_url: &str) -> Result<(), Box<dyn std::error
         return Err("Git commit ist fehlgeschlagen".into());
     }
 
-    // 1) Hole Remote-Änderungen und rebase
-    let pull = Command::new("git")
-        .args(&["pull", "--rebase", "origin", "main"])
-        .current_dir(backup_dir)
-        .status()?;
-    // Pull schlägt nur dann wirklich fehl, wenn z.B. kein Netzwerk oder Konflikte da sind.
-    // Wir lassen hier einen Non-Zero-Code durchgehen, solange es kein schwerwiegender Fehler war.
-    if !pull.success() {
-        println!("⚠️  Warnung: `git pull --rebase` ist fehlgeschlagen. Prüfe manuell, ob Konflikte vorliegen.");
-    }
-
-    // 2) git push --set-upstream origin main (nur beim ersten Mal nötig, später genügt 'git push')
+    // Push per force, um remote komplett zu überschreiben
     let push = Command::new("git")
-        .args(&["push", "--set-upstream", "origin", "main"])
+        .args(&["push", "--force", "origin", "main"])
         .current_dir(backup_dir)
         .status()?;
     if !push.success() {
-        return Err("Git push ist fehlgeschlagen. Überprüfe SSH-Key oder Remote-URL.".into());
+        return Err("Git push --force ist fehlgeschlagen".into());
     }
 
     println!("✅ Backup erfolgreich gepusht an `{}`", remote_url);
     Ok(())
 }
-
-
 
 fn backup() -> Result<(), Box<dyn std::error::Error>> {
     // === 1. Backup-Ordner und Quelle definieren ===
@@ -135,17 +146,24 @@ fn backup() -> Result<(), Box<dyn std::error::Error>> {
 
     println!("Backup abgeschlossen!");
 
-
     let remote_url = "git@github.com:LenniLID/backup-config.git";
     git_push(backup_dir_str, remote_url)?;
-
     Ok(())
 }
 
 fn main() {
     loop {
-        backup();
-        thread::sleep(std::time::Duration::from_secs(60 * 60));
-    }
+        // 1. Vor dem Kopieren den alten Backup-Ordner umbenennen
+        if let Err(e) = store_backup() {
+            eprintln!("Fehler beim Umbenennen des alten Backups: {}", e);
+        }
 
+        // 2. Neues Backup erstellen und pushen
+        if let Err(e) = backup() {
+            eprintln!("Fehler beim Backup: {}", e);
+        }
+
+        // 3. 5 Stunden warten, bevor die nächste Runde startet
+        thread::sleep(std::time::Duration::from_secs(60 * 60 * 5));
+    }
 }
