@@ -1,7 +1,0 @@
-2025/04/10-20:35:02.633 c6e Creating DB /home/lennilid/.config/discord/WebStorage/3/IndexedDB/indexeddb.leveldb since it was missing.
-2025/04/10-20:35:02.637 c6e Reusing MANIFEST /home/lennilid/.config/discord/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/04/10-20:35:02.658 d3a Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/04/10-20:35:02.666 d3a Level-0 table #5: started
-2025/04/10-20:35:02.668 d3a Level-0 table #5: 1006 bytes OK
-2025/04/10-20:35:02.672 d3a Delete type=0 #3
-2025/04/10-20:35:02.673 d3a Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

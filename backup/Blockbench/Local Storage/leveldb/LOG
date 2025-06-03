@@ -1,6 +1,0 @@
-2025/05/30-17:52:58.163 1b14 Reusing MANIFEST /home/lennilid/.config/Blockbench/Local Storage/leveldb/MANIFEST-000001
-2025/05/30-17:52:58.194 1b14 Recovering log #4
-2025/05/30-17:52:58.194 1b14 Reusing old log /home/lennilid/.config/Blockbench/Local Storage/leveldb/000004.log 
-2025/05/30-18:22:35.394 1b15 Level-0 table #8: started
-2025/05/30-18:22:35.402 1b15 Level-0 table #8: 8341 bytes OK
-2025/05/30-18:22:35.405 1b15 Delete type=0 #4

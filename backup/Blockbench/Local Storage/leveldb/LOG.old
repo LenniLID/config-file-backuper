@@ -1,5 +1,0 @@
-2025/05/29-20:46:06.987 2d9e Creating DB /home/lennilid/.config/Blockbench/Local Storage/leveldb since it was missing.
-2025/05/29-20:46:07.022 2d9e Reusing MANIFEST /home/lennilid/.config/Blockbench/Local Storage/leveldb/MANIFEST-000001
-2025/05/29-21:34:12.766 2d9f Level-0 table #5: started
-2025/05/29-21:34:12.768 2d9f Level-0 table #5: 11491 bytes OK
-2025/05/29-21:34:12.770 2d9f Delete type=0 #3

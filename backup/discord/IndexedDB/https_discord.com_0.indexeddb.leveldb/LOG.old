@@ -1,7 +1,0 @@
-2025/05/25-19:05:20.622 53b Reusing MANIFEST /home/lennilid/.config/discord/IndexedDB/https_discord.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/05/25-19:05:20.622 53b Recovering log #3
-2025/05/25-19:05:20.625 53b Reusing old log /home/lennilid/.config/discord/IndexedDB/https_discord.com_0.indexeddb.leveldb/000003.log 
-2025/05/25-19:05:37.900 53c Level-0 table #5: started
-2025/05/25-19:05:37.902 53c Level-0 table #5: 41703 bytes OK
-2025/05/25-19:05:37.904 53c Delete type=0 #3
-2025/05/25-19:05:37.904 53c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
